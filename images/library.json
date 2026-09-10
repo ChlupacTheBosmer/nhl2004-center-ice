@@ -96,6 +96,102 @@
     "2004-12-04/queen-city-telegram-young-guns-watch-4-leafs-on-the-index-risers-and-i-cannot-find-a-reaso"
    ],
    "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-hot-stove-sources-morale-problems-brewing-in-minne-1.png",
+   "scene": "Manny Fernandez, Minnesota Wild number 29 in the green and gold 2004-05 home sweater, skating alone back to the bench during a timeout at the Xcel Energy Center, head down, stick dragging on the ice, telephoto from behind the net, cold arena light, empty seats visible in the upper bowl",
+   "tags": [
+    "arena",
+    "bench",
+    "goalie",
+    "player:manny fernandez",
+    "team:min"
+   ],
+   "alt": "Fernandez returns to the bench during a Minnesota Wild game",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-04/hot-stove-sources-morale-problems-brewing-in-minnesota"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-hot-stove-contract-year-watch-5-expiring-deals-and-1.png",
+   "scene": "Marian Gaborik, Toronto Maple Leafs number 10 in the white 2004-05 home sweater, cutting left-to-right across the slot with the puck on his backhand, a Columbus Blue Jackets defender trailing at full stretch, telephoto from the blue line behind the goal, arena light, crowd blurred behind the glass",
+   "tags": [
+    "arena",
+    "faceoff",
+    "gaborik",
+    "tor"
+   ],
+   "alt": "Gaborik driving the net for Toronto",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-hot-stove-contract-year-watch-5-expiring-deals-and-2.png",
+   "scene": "Toronto Maple Leafs bench during a stoppage in play, 2004-05 season, players in blue and white jerseys leaning on the boards watching the faceoff in the far zone, head coach standing with arms crossed at the end of the bench, overhead arena light on the ice surface, the empty red seats of the Air Canada Centre in the background",
+   "tags": [
+    "bench",
+    "tor",
+    "veteran"
+   ],
+   "alt": "Toronto's bench during a game in their 2004-05 sweater",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-home-ice-network-goalie-watch-new-jersey-benches-brodeur-1.png",
+   "scene": "Martin Brodeur, New Jersey Devils number 30 in the red 2004-05 home sweater, sitting on the bench with his glove off and stick across his lap, looking toward the ice at the Continental Airlines Arena, arena light from above, telephoto from the side boards",
+   "tags": [
+    "bench",
+    "brodeur",
+    "goalie",
+    "nj"
+   ],
+   "alt": "Brodeur on the bench watching from behind the glass",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-04/home-ice-network-goalie-watch-new-jersey-benches-brodeur-after-20-starts-in-22-games"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-home-ice-network-numbers-game-colorado-has-42-points-with-1.png",
+   "scene": "Colorado Avalanche player in the burgundy 2004-05 home sweater, clearing the puck off his own blue line against an Edmonton Oilers forward in the white road sweater at SkyDome at Rexall Place, Edmonton, telephoto from behind the net, arena light",
+   "tags": [
+    "col",
+    "defense",
+    "edm",
+    "road-game"
+   ],
+   "alt": "Colorado defender clears the zone against Edmonton in the November 30 game",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-04/home-ice-network-numbers-game-colorado-has-42-points-without-sakic-or-kariya"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-queen-city-telegram-injury-desk-belfour-returns-tomorrow-and-1.png",
+   "scene": "David Aebischer, Toronto Maple Leafs number 34 in the blue 2004-05 home sweater, pushing off a post with his left pad to cover the five-hole against a Tampa Bay Lightning forward at the Air Canada Centre, shot from the near-side glass, arena light catching ice spray",
+   "tags": [
+    "aebischer",
+    "arena",
+    "goalie",
+    "team:tor"
+   ],
+   "alt": "Aebischer covering the five-hole in the 6-0 shutout of Tampa Bay on December 3",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-04/queen-city-telegram-injury-desk-belfour-returns-tomorrow-and-aebischer-has-no-reason-to-gi"
+   ],
+   "made": "2026-09-10"
   }
  ]
 }
