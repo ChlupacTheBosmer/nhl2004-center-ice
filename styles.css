@@ -181,3 +181,9 @@ img { max-width: 100%; }
 .register-local .mast { border-bottom: 4px solid var(--ci-accent); }
 .register-local .kind { color: var(--ci-accent); }
 .register-local .article h1 { font-weight: 700; }
+
+/* charts the desk rendered */
+.chart { margin: 1.25rem 0; }
+.chart img { width: 100%; border-radius: 4px; display: block; border: 1px solid color-mix(in srgb, var(--ci-ink) 12%, transparent); }
+.chart figcaption { font-size: .8rem; color: var(--ci-muted); margin-top: .35rem; }
+

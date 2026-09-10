@@ -1,0 +1,101 @@
+{
+ "images": [
+  {
+   "path": "images/library/2004-12-04-hot-stove-the-rental-market-la-and-chicago-are-the.png",
+   "scene": "a phone ringing on a desk covered in stat sheets and coffee cups, a half-empty arena visible through the office window in the background, overhead fluorescent lights casting harsh shadows",
+   "tags": [
+    "arena",
+    "bench",
+    "trade"
+   ],
+   "alt": "A GM's office after hours, phone ringing, trade deadline season",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-04/hot-stove-the-rental-market-la-and-chicago-are-the-deadline-s-supply-side"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-penalty-box-hot-seat-meter-five-coaches-polishing-th.png",
+   "scene": "a head coach standing at the blue line with arms crossed, back to the camera, facing an empty bench with two water bottles and a clipboard left on it, arena lights humming above in the after-hours silence",
+   "tags": [
+    "atl",
+    "bench",
+    "coach",
+    "det",
+    "min"
+   ],
+   "alt": "A lone coach confronts an empty bench after a late loss",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-04/penalty-box-hot-seat-meter-five-coaches-polishing-the-resume"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-queen-city-telegram-danforth-brad-richards-is-the-answer-and.png",
+   "scene": "a young center in a plain white sweater taking a faceoff in the offensive zone, head up, stick on the ice, arena lights reflecting off the boards behind him, no identifiable markings",
+   "tags": [
+    "arena",
+    "center",
+    "faceoff",
+    "tor"
+   ],
+   "alt": "A center winning a draw in the attacking zone",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-04/queen-city-telegram-danforth-brad-richards-is-the-answer-and-that-is-what-terrifies-me"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-home-ice-network-goalie-watch-belfour-returns-to-a-crease.png",
+   "scene": "a goaltender in a plain dark sweater standing alone in the crease, glove raised, arena lights catching the ice in front of him, an empty net visible behind",
+   "tags": [
+    "crease",
+    "goalie",
+    "tor",
+    "veteran"
+   ],
+   "alt": "Goaltender alone in the crease under arena lights",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-04/home-ice-network-goalie-watch-belfour-returns-to-a-crease-that-kept-winning-without-him"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-prospect-file-the-pick-in-the-basement-how-toronto-got.png",
+   "scene": "a draft lottery ping-pong ball rolling across a felt table under harsh overhead lights, a hand in a business suit reaching toward it, the background dark and out of focus",
+   "tags": [
+    "det",
+    "draft",
+    "lottery",
+    "tor"
+   ],
+   "alt": "A draft lottery ball rolls toward a waiting hand",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2004-12-04/prospect-file-the-pick-in-the-basement-how-toronto-got-detroit-s-first-without-lifti"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-queen-city-telegram-young-guns-watch-4-leafs-on-the-index-ri.png",
+   "scene": "four young players in plain dark sweaters at a morning skate, two wingers and a defenceman clustered near the faceoff circle while a veteran stands alone at the far blue line watching them under fluorescent arena lights",
+   "tags": [
+    "arena",
+    "practice",
+    "rookie",
+    "toronto",
+    "youth"
+   ],
+   "alt": "Young players cluster at center ice while a lone veteran watches from the blue line",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-04/queen-city-telegram-young-guns-watch-4-leafs-on-the-index-risers-and-i-cannot-find-a-reaso"
+   ],
+   "made": "2026-09-10"
+  }
+ ]
+}
