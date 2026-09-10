@@ -346,8 +346,8 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
 @media (max-width: 600px) { .brow { grid-template-columns: 2rem 36px 1fr; } .brow .val { grid-column: 3; text-align: left; } .brow .val b { font-size: 1rem; } }
 
 /* gauges and stamps from the asset pack */
-.widget { display: flex; align-items: center; gap: .9rem; margin: 0 0 1.25rem; padding: .7rem .9rem; border: 1px solid color-mix(in srgb, var(--ci-ink) 12%, transparent); border-radius: 8px; background: color-mix(in srgb, var(--ci-ink) 4%, var(--ci-paper)); }
-.widget img { width: 96px; height: 96px; object-fit: contain; } .widget figcaption { margin: 0; font-size: .9rem; color: var(--ci-ink); } .widget figcaption b { font-family: var(--ci-font-display); }
-.widget.w-flame img { width: 44px; height: 44px; } .widget.small { padding: .3rem .5rem; margin: 0 0 .3rem; gap: .5rem; align-self: flex-start; } .widget.small img { width: 40px; height: 40px; } .widget.small figcaption { font-size: .72rem; }
-.widget.small.w-flame img { width: 22px; height: 22px; }
-.reg-app .widget, .reg-dashboard .widget { color: #fff; border-color: rgba(255,255,255,.15); background: var(--ci-surface); } .reg-app .widget figcaption, .reg-dashboard .widget figcaption { color: #fff; }
+.gauge { display: flex; align-items: center; gap: .9rem; margin: 0 0 1.25rem; padding: .7rem .9rem; border: 1px solid color-mix(in srgb, var(--ci-ink) 12%, transparent); border-radius: 8px; background: color-mix(in srgb, var(--ci-ink) 4%, var(--ci-paper)); }
+.gauge img { width: 96px; height: 96px; object-fit: contain; } .gauge figcaption { margin: 0; font-size: .9rem; color: var(--ci-ink); } .gauge figcaption b { font-family: var(--ci-font-display); }
+.gauge.g-flame img { width: 44px; height: 44px; } .gauge.small { padding: .3rem .5rem; margin: 0 0 .3rem; gap: .5rem; align-self: flex-start; } .gauge.small img { width: 40px; height: 40px; } .gauge.small figcaption { font-size: .72rem; }
+.gauge.small.g-flame img { width: 22px; height: 22px; }
+.reg-app .gauge, .reg-dashboard .gauge { color: #fff; border-color: rgba(255,255,255,.15); background: var(--ci-surface); } .reg-app .gauge figcaption, .reg-dashboard .gauge figcaption { color: #fff; }

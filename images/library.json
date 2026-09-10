@@ -159,7 +159,8 @@
    "alt": "Brodeur on the bench watching from behind the glass",
    "outlet": "home-ice-network",
    "used_by": [
-    "2004-12-04/home-ice-network-goalie-watch-new-jersey-benches-brodeur-after-20-starts-in-22-games"
+    "2004-12-04/home-ice-network-goalie-watch-new-jersey-benches-brodeur-after-20-starts-in-22-games",
+    "2004-12-07/hockey-gazette-the-blaine-rankings-week-3-peter-forsberg-is-the-hart-frontrunner-and-"
    ],
    "made": "2026-09-10"
   },
@@ -354,6 +355,36 @@
    "outlet": "home-ice-network",
    "used_by": [
     "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-prospect-file-the-index-went-up-at-los-angeles-while-e-1.png",
+   "scene": "Mike Cammalleri, Los Angeles number 13 in the black 2004-05 home sweater, collecting a puck on the forehand at the left circle and driving toward the net, a Chicago defender trailing half a step, telephoto from the bluish side of the arena, cold light from above",
+   "tags": [
+    "cammalleri",
+    "la",
+    "offense"
+   ],
+   "alt": "Cammalleri drives the net at home",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2004-12-07/prospect-file-the-index-went-up-at-los-angeles-while-everything-else-stayed-the-same"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-hockey-gazette-the-blaine-rankings-week-3-peter-forsber-1.png",
+   "scene": "Peter Forsberg, Colorado Avalanche number 23 in the home 2004-05 sweater, skating the puck up the left wing at the Pepsi Center, head up surveying the ice, telephoto from the far bench, cold arena light casting a hard shadow under the boards",
+   "tags": [
+    "col",
+    "forsberg",
+    "forward"
+   ],
+   "alt": "Peter Forsberg carries the puck in Colorado's home sweater at the Pepsi Center",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-07/hockey-gazette-the-blaine-rankings-week-3-peter-forsberg-is-the-hart-frontrunner-and-"
    ],
    "made": "2026-09-10"
   }
