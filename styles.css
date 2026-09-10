@@ -317,3 +317,29 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
 .home-data, .home-local, .home-tabloid { grid-template-rows: auto 1fr; align-items: start; }
 
 .hero-card:not(.has-pic) { min-height: 0; background: var(--ci-surface); } .hero-card:not(.has-pic) .overlay { background: none; }
+
+.hl.games li { display: block; } .hl.games .g { display: flex; gap: .6rem; align-items: center; font-weight: 600; } .hl.games .at { color: var(--ci-muted); font-weight: 400; font-size: .8rem; }
+
+/* ============ League Scouting Bureau (institutional) ============ */
+[data-outlet='scouting-bureau'] { --ci-ink: #1d2430; --ci-surface: #2a3446; --ci-paper: #f6f6f3; --ci-primary: #2b3a55; --ci-accent: #b5892b; --ci-muted: #6b7280; }
+.reg-bureau body { background: var(--ci-paper); }
+.mh-bureau { background: #fff; border-bottom: 3px solid var(--ci-primary); } .mh-bureau .tag { font-family: var(--ci-font-mono); font-size: .66rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ci-accent); border: 1px solid var(--ci-accent); padding: .1rem .4rem; margin-left: .5rem; }
+.mh-bureau nav a.cur { color: var(--ci-primary); }
+.bureau { padding-block: 1.5rem; }
+.bureau .seal { max-width: 760px; margin-bottom: 1.25rem; } .bureau .seal h1 { font-size: clamp(1.8rem, 3.6vw, 2.6rem); font-weight: 700; } .bureau .seal p { color: #444; font-size: 1.02rem; }
+.bureau .stamp { font-family: var(--ci-font-mono); font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--ci-accent); }
+.idxgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+.idx { display: grid; gap: .4rem; background: #fff; border: 1px solid #e2e4e8; border-top: 4px solid var(--ci-primary); border-radius: 6px; padding: 1.1rem 1.2rem; text-decoration: none; }
+.idx:hover { text-decoration: none; border-top-color: var(--ci-accent); } .idx .n { font-family: var(--ci-font-mono); color: var(--ci-accent); font-size: .8rem; }
+.idx h2 { font-size: 1.25rem; } .idx p { margin: 0; font-size: .9rem; color: #555; } .idx small { color: var(--ci-muted); font-size: .74rem; }
+.idxnav { display: flex; gap: .6rem; flex-wrap: wrap; margin: 0 0 1rem; font-size: .82rem; } .idxnav a { border: 1px solid #d8dbe0; border-radius: 999px; padding: .2rem .7rem; background: #fff; } .idxnav a.cur { background: var(--ci-primary); color: #fff; border-color: var(--ci-primary); }
+.board { list-style: none; margin: 0; padding: 0; background: #fff; border: 1px solid #e2e4e8; border-radius: 6px; max-width: 900px; }
+.brow { display: grid; grid-template-columns: 2.4rem 44px minmax(0, 1fr) auto; gap: .8rem; align-items: center; padding: .55rem .9rem; border-top: 1px solid #eceef1; }
+.brow:first-child { border-top: 0; }
+.brow .rank { font-family: var(--ci-font-mono); font-weight: 600; color: var(--ci-muted); text-align: right; }
+.brow .face { width: 44px; height: 44px; border-radius: 4px; object-fit: cover; background: #e6e8ec; display: block; }
+.brow .who b a { color: var(--ci-ink); } .brow .who small { display: block; color: var(--ci-muted); font-size: .76rem; } .brow .who p { margin: .15rem 0 0; font-size: .82rem; color: #444; }
+.brow .val { text-align: right; } .brow .val b { font-family: var(--ci-font-mono); font-size: 1.25rem; color: var(--ci-primary); } .brow .val small { display: block; font-size: .7rem; color: var(--ci-muted); }
+.board li:nth-child(-n+3) .val b { color: var(--ci-accent); }
+.bureau .half { font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ci-muted); margin: 1.5rem 0 .5rem; }
+@media (max-width: 600px) { .brow { grid-template-columns: 2rem 36px 1fr; } .brow .val { grid-column: 3; text-align: left; } .brow .val b { font-size: 1rem; } }

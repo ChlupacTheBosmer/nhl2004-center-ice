@@ -192,6 +192,103 @@
     "2004-12-04/queen-city-telegram-injury-desk-belfour-returns-tomorrow-and-aebischer-has-no-reason-to-gi"
    ],
    "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-04-queen-city-telegram-danforth-10-straight-wins-and-the-only-n-1.png",
+   "scene": "Brad Richards, Toronto Maple Leafs number 11 in the white 2004-05 road sweater, winning a faceoff in the offensive zone against a Philadelphia Flyers centre, low angle from behind the net, arena light reflecting off the ice",
+   "tags": [
+    "faceoff",
+    "richards",
+    "team:tor",
+    "veteran"
+   ],
+   "alt": "Richards winning a draw in the 4-2 road win over Philadelphia on November 29",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-04/queen-city-telegram-danforth-10-straight-wins-and-the-only-number-i-care-about-is-1-00m"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-hot-stove-rumor-meter-vancouver-s-blue-line-just-c-1.png",
+   "scene": "Ed Jovanovski, Vancouver Canucks number 3 in the blue and green 2004-05 home sweater, limping off the ice at General Motors Place holding his left knee, teammates in white looking back from the blue line, arena overhead lighting casting harsh shadows on the boards, telephoto from the penalty box side",
+   "tags": [
+    "defense",
+    "injury",
+    "jovanovski",
+    "van"
+   ],
+   "alt": "Jovanovski leaving the ice after injury",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-07/hot-stove-rumor-meter-vancouver-s-blue-line-just-collapsed-they-have-to-buy"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-penalty-box-78-to-watch-cliff-ronning-play-8-8-minut-1.png",
+   "scene": "Cliff Ronning, Philadelphia Flyers number 23 in the orange 2004-05 home sweater, skating slowly up the ice during a change, stick low, head down, the bench behind him in shadow, arena light flat and harsh, wide shot from the glass at center ice",
+   "tags": [
+    "bench",
+    "faceoff",
+    "phi",
+    "ronning"
+   ],
+   "alt": "Cliff Ronning skates off the ice after another 9-minute shift",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-07/penalty-box-78-to-watch-cliff-ronning-play-8-8-minutes-philadelphia-is-the-new-mos"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-queen-city-telegram-leafs-4-nyi-0-aebischer-blanks-the-islan-1.png",
+   "scene": "David Aebischer, Toronto Maple Leafs number 31 in the blue 2004-05 home sweater, crouched in his crease after stopping a shot, glove hand raised, during the game against the New York Islanders at Nassau Coliseum, arena light, wide angle from behind the net",
+   "tags": [
+    "aebischer",
+    "goalie",
+    "nassau-coliseum",
+    "shutout",
+    "toronto"
+   ],
+   "alt": "Aebischer holds the crease during the 4-0 shutout of New York",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-07/queen-city-telegram-leafs-4-nyi-0-aebischer-blanks-the-islanders-for-the-11th-straight-and"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-penalty-box-78-to-watch-cliff-ronning-play-8-8-minut-2.png",
+   "scene": "Empty Philadelphia Flyers home end after a loss, a single fan in a $78 seat near the blue line clapping sarcastically, the ice still resurfaced and gleaming under full arena light, wide angle from the upper deck looking down, the scoreboard showing a L4 streak",
+   "tags": [
+    "arena",
+    "attendance",
+    "phi"
+   ],
+   "alt": "One fan applauds in an otherwise empty arena",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-07/penalty-box-78-to-watch-cliff-ronning-play-8-8-minutes-philadelphia-is-the-new-mos"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-queen-city-telegram-danforth-gaborik-reads-95-on-the-index-a-1.png",
+   "scene": "Marian Gaborik, Toronto Maple Leafs number 10 in the white 2004-05 away sweater, wheeling behind the defense with the puck on his backhand during a game at the Air Canada Centre, shot from the low boards, arena light catching the number on his jersey",
+   "tags": [
+    "air canada centre",
+    "gaborik",
+    "offense",
+    "power play",
+    "toronto"
+   ],
+   "alt": "Gaborik has 20 goals and a 95 overall on a contract that expires in July",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-07/queen-city-telegram-danforth-gaborik-reads-95-on-the-index-and-costs-1-10m-and-i-have-been"
+   ],
+   "made": "2026-09-10"
   }
  ]
 }

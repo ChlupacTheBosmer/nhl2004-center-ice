@@ -113,7 +113,7 @@ function rail(s) {
     return;
   }
   $("#side").innerHTML = `<div class="box"><h2>Latest from each desk</h2><ul class="hl">${desks}</ul></div>
-    <div class="box"><h2>Upcoming, Toronto</h2><ul class="hl">${L.upcoming.slice(0, 4).map(g => `<li>${crest(g.opponent)}<div><a href="${root}leafs/">${g.at_home ? "vs" : "at"} ${esc(D.teams[g.opponent]?.name || g.opponent)}</a><small>${fmt(g.game_date)}</small></div></li>`).join("")}</ul></div>
+    <div class="box"><h2>Upcoming games</h2><ul class="hl games">${(L.upcoming_all || []).slice(0, 10).map(g => `<li><div class="g"><span>${crest(g.away)} ${g.away}</span><span class="at">at</span><span>${crest(g.home)} ${g.home}</span></div><small>${fmt(g.game_date)}</small></li>`).join("")}</ul></div>
     <div class="box"><h2>League</h2>${table(st.slice(0, 10))}</div>
     <div class="box"><h2>${esc(D.teams[us]?.division_name || "Division")}</h2>${table(north)}</div>`;
 }
