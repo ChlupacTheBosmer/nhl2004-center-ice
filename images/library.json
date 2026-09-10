@@ -11,7 +11,8 @@
    "alt": "A GM's office after hours, phone ringing, trade deadline season",
    "outlet": "hot-stove",
    "used_by": [
-    "2004-12-04/hot-stove-the-rental-market-la-and-chicago-are-the-deadline-s-supply-side"
+    "2004-12-04/hot-stove-the-rental-market-la-and-chicago-are-the-deadline-s-supply-side",
+    "2004-12-07/hot-stove-rumor-meter-12-deals-signed-this-week-6-players-injured-same-4-day-win"
    ],
    "made": "2026-09-10"
   },
@@ -110,7 +111,8 @@
    "alt": "Fernandez returns to the bench during a Minnesota Wild game",
    "outlet": "hot-stove",
    "used_by": [
-    "2004-12-04/hot-stove-sources-morale-problems-brewing-in-minnesota"
+    "2004-12-04/hot-stove-sources-morale-problems-brewing-in-minnesota",
+    "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10"
    ],
    "made": "2026-09-10"
   },
@@ -287,6 +289,71 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2004-12-07/queen-city-telegram-danforth-gaborik-reads-95-on-the-index-and-costs-1-10m-and-i-have-been"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-penalty-box-the-coach-sat-whom-five-benches-five-bet-1.png",
+   "scene": "Landon Wilson, Phoenix Coyotes number 14 in the dark 2004-05 home sweater, sitting at the end of the bench during a stoppage, helmet off, towel over his head, looking toward the ice where a teammate drops the puck for a faceoff. Empty fourth row visible behind the glass at Jobing.com Arena, harsh overhead lighting.",
+   "tags": [
+    "bench",
+    "home",
+    "phx",
+    "wilson"
+   ],
+   "alt": "Wilson on the bench while Phoenix's first line wins a faceoff",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-07/penalty-box-the-coach-sat-whom-five-benches-five-better-men-zero-excuses"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-home-ice-network-goalie-watch-islanders-pull-dipietro-aft-1.png",
+   "scene": "Garth Snow, New York Islanders goaltender in the road 2004-05 sweater, skating his crease during a morning warmup at the Mellon Arena, leg pads wide, glove hand raised, flat overhead arena lighting, telephoto from behind the net",
+   "tags": [
+    "goalie",
+    "nyi",
+    "pit",
+    "snow"
+   ],
+   "alt": "Garth Snow warms up in the Islanders road sweater before tonight's game in Pittsburgh",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-07/home-ice-network-goalie-watch-islanders-pull-dipietro-after-a-4-0-loss-snow-starts-in-p"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-hot-stove-rumor-meter-12-deals-signed-this-week-6-1.png",
+   "scene": "Jamie Langenbrunner, New Jersey Devils, in the red 2004-05 home sweater, receiving a knee examination from a team trainer at the Devils' bench during a pre-game skate, overhead arena light casting long shadows across the ice, shot from the glass with shallow depth of field",
+   "tags": [
+    "bench",
+    "injury",
+    "langenbrunner",
+    "nj",
+    "trainer"
+   ],
+   "alt": "A Devils trainer examines a player's knee at the bench",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-07/hot-stove-rumor-meter-12-deals-signed-this-week-6-players-injured-same-4-day-win"
+   ],
+   "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-n-2.png",
+   "scene": "A Tampa Bay Lightning forward in the home 2004-05 sweater, mid-celebration after scoring, teammates converging near the goal line at the St. Pete Times Forum, Edmonton Oilers defender skating away in the background, telephoto from the far side, bright arena lighting",
+   "tags": [
+    "celebration",
+    "edm",
+    "faceoff",
+    "tb"
+   ],
+   "alt": "Lightning players celebrate one of their 7 goals against Edmonton",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10"
    ],
    "made": "2026-09-10"
   }
