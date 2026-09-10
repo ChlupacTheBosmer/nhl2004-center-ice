@@ -112,7 +112,9 @@ function rail(s) {
       <div class="box"><h2>Injured</h2>${L.injuries.length ? `<ul class="hl">${L.injuries.map(i => `<li><div><a class="pl" href="${D.index.front_office}#player/${i.player_id}">${esc(i.first_name + " " + i.last_name)}</a><small>back ${i.return_date}</small></div></li>`).join("")}</ul>` : "<span class='muted'>Nobody on the list.</span>"}</div>`;
     return;
   }
-  $("#side").innerHTML = `<div class="box"><h2>Latest from each desk</h2><ul class="hl">${desks}</ul></div>
+  const pod = D.index.podcast;
+  const podBox = pod ? `<div class="box pod-box"><h2>The Second Intermission</h2><a class="art" href="${root}second-intermission/${pod.id}.html"><img src="${root}assets/brand/second-intermission/cover.jpg" alt=""><div><b>${esc(pod.title)}</b><small>Week of ${fmt(pod.start)}${pod.seconds ? " · " + Math.round(pod.seconds / 60) + " min" : ""}</small></div></a><audio controls preload="none" src="${root}${pod.audio}"></audio></div>` : "";
+  $("#side").innerHTML = `${podBox}<div class="box"><h2>Latest from each desk</h2><ul class="hl">${desks}</ul></div>
     <div class="box"><h2>Upcoming games</h2><ul class="hl games">${(L.upcoming_all || []).slice(0, 10).map(g => `<li><div class="g"><span>${crest(g.away)} ${g.away}</span><span class="at">at</span><span>${crest(g.home)} ${g.home}</span></div><small>${fmt(g.game_date)}</small></li>`).join("")}</ul></div>
     <div class="box"><h2>League</h2>${table(st.slice(0, 10))}</div>
     <div class="box"><h2>${esc(D.teams[us]?.division_name || "Division")}</h2>${table(north)}</div>`;
