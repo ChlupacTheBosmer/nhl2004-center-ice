@@ -390,6 +390,86 @@
     "2004-12-07/hockey-gazette-the-blaine-rankings-week-3-peter-forsberg-is-the-hart-frontrunner-and-"
    ],
    "made": "2026-09-10"
+  },
+  {
+   "path": "images/library/2004-12-07-the-sweater-first-overall-last-place-ilya-kovalchuk-1.png",
+   "scene": "Ilya Kovalchuk, Atlanta Thrashers number 17 in the dark blue 2004-05 home sweater, cutting inside from the left wing past a New Jersey Devils defenseman at Philips Arena, stick extended toward the top-shelf corner, telephoto from the far boards, arena light catching the blade of his skates",
+   "tags": [
+    "arena",
+    "atl",
+    "faceoff",
+    "kovalchuk"
+   ],
+   "alt": "Kovalchuk cutting to the net from the left circle",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-07/the-sweater-first-overall-last-place-ilya-kovalchuk-plays-for-july"
+   ],
+   "made": "2026-09-11"
+  },
+  {
+   "path": "images/library/2004-12-07-the-sweater-second-act-bill-guerin-came-back-to-the-1.png",
+   "scene": "Bill Guerin, Dallas Stars number 13 in the green 2004-05 home sweater, driving the net past a Colorado Avalanche defender at Reunion Arena, telephoto from the low boards, arena light, the crowd blurred behind the glass",
+   "tags": [
+    "arena",
+    "guerin",
+    "team:dal",
+    "veteran"
+   ],
+   "alt": "Guerin finishes a check to the front of the net in Dallas",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-07/the-sweater-second-act-bill-guerin-came-back-to-the-club-that-let-him-go"
+   ],
+   "made": "2026-09-11"
+  },
+  {
+   "path": "images/library/2004-12-07-the-sweater-second-act-bill-guerin-came-back-to-the-2.png",
+   "scene": "Bill Guerin, Dallas Stars number 13, standing at center ice during warmups in the white 2004-05 road sweater, hands on hips, looking up at the scoreboard, a wide shot from the upper deck showing the empty seats filling behind him, dim house light",
+   "tags": [
+    "arena",
+    "guerin",
+    "team:dal",
+    "veteran"
+   ],
+   "alt": "Guerin surveys the building during pregame warmups",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-07/the-sweater-second-act-bill-guerin-came-back-to-the-club-that-let-him-go"
+   ],
+   "made": "2026-09-11"
+  },
+  {
+   "path": "images/library/2004-12-07-the-sweater-the-long-way-round-teemu-selanne-s-road-1.png",
+   "scene": "Teemu Selanne, Colorado Avalanche number 8 in the burgundy 2004-05 home sweater, cutting to his backhand past a Calgary Flames defender at the Pepsi Center, telephoto from the glass behind the net, arena light catching the top of the blade",
+   "tags": [
+    "arena",
+    "col",
+    "selanne",
+    "subject: winger"
+   ],
+   "alt": "Selanne backhanding the puck past a defender at home",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-07/the-sweater-the-long-way-round-teemu-selanne-s-road-to-colorado"
+   ],
+   "made": "2026-09-11"
+  },
+  {
+   "path": "images/library/2004-12-07-the-sweater-the-long-way-round-teemu-selanne-s-road-2.png",
+   "scene": "Peter Forsberg and Teemu Selanne, Colorado Avalanche numbers 21 and 8, exchanging a nod at the bench between periods at the Pepsi Center, the scoreboard behind them showing a Colorado lead, warm arena light",
+   "tags": [
+    "col",
+    "forsberg",
+    "selanne",
+    "subject: bench"
+   ],
+   "alt": "Forsberg and Selanne share a look on the Avs bench",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-07/the-sweater-the-long-way-round-teemu-selanne-s-road-to-colorado"
+   ],
+   "made": "2026-09-11"
   }
  ]
 }

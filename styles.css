@@ -378,3 +378,16 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
 @media (max-width: 640px) { .pod .show, .ep-lead { grid-template-columns: 1fr; } .pod .cover { max-width: 240px; } .ep { grid-template-columns: 72px 1fr; } }
 .notes .sheet { grid-column: 1 / -1; } .notes .sheet summary { cursor: pointer; list-style: none; } .notes .sheet summary h3 { display: inline; } .notes .sheet summary::before { content: "▸ "; color: var(--ci-accent); } .notes .sheet[open] summary::before { content: "▾ "; }
 .pod .meta .fmt { font-weight: 700; padding: .05rem .4rem; border-radius: 3px; background: var(--ci-ink); color: #fff; letter-spacing: .06em; } .pod .meta .f-debate { background: #8b1e2d; } .pod .meta .f-critique { background: #2d5a3c; } .pod .meta .f-brief { background: #6b7280; }
+
+/* The Sweater: a magazine's profiles, one face per piece */
+[data-outlet='the-sweater'] { --ci-ink: #23130f; --ci-surface: #3b1f1a; --ci-paper: #faf6f1; --ci-primary: #8b2a2a; --ci-accent: #c8a15a; --ci-muted: #7a6a63; }
+.reg-profile body { background: var(--ci-paper); }
+.mh-profile { background: #fff; border-bottom: 3px solid var(--ci-primary); } .mh-profile .brand .wm { font-family: var(--ci-font-display); font-weight: 800; font-size: 1.7rem; letter-spacing: -.01em; color: var(--ci-ink); } .mh-profile .brand .emblem { width: 36px; height: 36px; border-radius: 50%; }
+.mh-profile .line { font-family: var(--ci-font-display); font-style: italic; color: var(--ci-muted); margin-left: 1rem; } .mh-profile nav { margin-left: auto; } .mh-profile nav a { color: var(--ci-ink); }
+.home-profile { padding-block: 1.5rem; } .home-profile .profs { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.5rem 1.25rem; margin-top: 2rem; }
+.prof .pic img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px; } .prof .meta { display: flex; gap: .4rem; align-items: center; font-family: var(--ci-font-mono); font-size: .7rem; text-transform: uppercase; letter-spacing: .08em; color: var(--ci-muted); margin: .6rem 0 .3rem; } .prof .meta img { width: 18px; height: 18px; }
+.prof h2 { font-family: var(--ci-font-display); font-weight: 800; font-size: 1.35rem; line-height: 1.15; margin: 0 0 .3rem; } .prof h2 a { color: var(--ci-ink); text-decoration: none; } .prof .dek { margin: 0; color: var(--ci-muted); font-size: .95rem; line-height: 1.45; }
+.reg-profile .article .col { max-width: 700px; padding-top: 2.5rem; } .reg-profile .article .wide img { aspect-ratio: 16 / 7; } .reg-profile .article h1 { font-family: var(--ci-font-display); font-weight: 800; letter-spacing: -.01em; } .reg-profile .article .dek { font-family: var(--ci-font-display); font-style: italic; font-size: 1.2rem; }
+.reg-profile .article .body { font-size: 1.08rem; line-height: 1.7; } .reg-profile .article .body p:first-of-type::first-letter { font-family: var(--ci-font-display); font-size: 3.4em; float: left; line-height: .85; padding: .05em .08em 0 0; color: var(--ci-primary); }
+.home-profile .empty { border: 1px dashed color-mix(in srgb, var(--ci-ink) 25%, transparent); border-radius: 8px; padding: 1.5rem; color: var(--ci-muted); }
+@media (max-width: 640px) { .mh-profile .line { display: none; } }
