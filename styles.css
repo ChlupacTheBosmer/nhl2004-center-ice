@@ -391,3 +391,25 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
 .reg-profile .article .body { font-size: 1.08rem; line-height: 1.7; } .reg-profile .article .body p:first-of-type::first-letter { font-family: var(--ci-font-display); font-size: 3.4em; float: left; line-height: .85; padding: .05em .08em 0 0; color: var(--ci-primary); }
 .home-profile .empty { border: 1px dashed color-mix(in srgb, var(--ci-ink) 25%, transparent); border-radius: 8px; padding: 1.5rem; color: var(--ci-muted); }
 @media (max-width: 640px) { .mh-profile .line { display: none; } }
+
+/* The Tunnel: a broadcaster's interview desk */
+[data-outlet='the-tunnel'] { --ci-ink: #0b1a22; --ci-surface: #10303d; --ci-paper: #f4f7f8; --ci-primary: #0e5a6b; --ci-accent: #e0362c; --ci-muted: #5f7079; }
+.reg-tunnel body { background: var(--ci-paper); }
+.mh-tunnel { background: var(--ci-ink); color: #fff; } .mh-tunnel .brand .wm { font-family: var(--ci-font-display); font-weight: 700; font-size: 1.6rem; text-transform: uppercase; letter-spacing: .04em; } .mh-tunnel .brand .emblem { width: 34px; height: 34px; border-radius: 50%; }
+.mh-tunnel .live { font-family: var(--ci-font-mono); font-size: .62rem; letter-spacing: .14em; text-transform: uppercase; background: var(--ci-accent); color: #fff; padding: .15rem .45rem; border-radius: 3px; margin-left: .6rem; }
+.mh-tunnel nav a { color: #fff; } .mh-tunnel nav a.cur { color: #ffd6d2; } .mh-tunnel .desks { background: #fff; color: var(--ci-ink); } .mh-tunnel .desks a { color: var(--ci-ink); }
+.home-tunnel { padding-block: 1.5rem; } .ivlead { display: grid; grid-template-columns: minmax(240px, 46%) 1fr; gap: 1.5rem; background: #fff; border-radius: 10px; padding: 1.2rem; border: 1px solid color-mix(in srgb, var(--ci-ink) 12%, transparent); }
+.ivlead .pic img, .ivrow .pic img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 8px; }
+.ivlead h1 { font-family: var(--ci-font-display); font-weight: 700; font-size: clamp(1.5rem, 3vw, 2.3rem); line-height: 1.05; margin: .3rem 0 .5rem; text-transform: uppercase; } .ivlead h1 a { color: var(--ci-ink); text-decoration: none; }
+.home-tunnel .meta { display: flex; align-items: center; gap: .5rem; font-family: var(--ci-font-mono); font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; color: var(--ci-muted); } .home-tunnel .meta img { width: 18px; height: 18px; }
+.ivkind { font-weight: 700; color: #fff; background: var(--ci-primary); padding: .08rem .4rem; border-radius: 3px; } .ivkind.k-sitdown { background: #6b4a12; }
+.home-tunnel .dek { color: var(--ci-muted); margin: 0 0 .6rem; } .home-tunnel audio { width: 100%; max-width: 560px; display: block; }
+.synth { font-size: .78rem; color: var(--ci-muted); margin: .5rem 0 0; } .synth a { color: var(--ci-primary); }
+.ivlist { display: grid; gap: 1rem; margin-top: 1.5rem; } .ivrow { display: grid; grid-template-columns: 200px 1fr; gap: 1rem; padding: 1rem 0; border-top: 1px solid color-mix(in srgb, var(--ci-ink) 12%, transparent); }
+.ivrow h2 { font-family: var(--ci-font-display); font-weight: 700; font-size: 1.35rem; line-height: 1.1; text-transform: uppercase; margin: .3rem 0; } .ivrow h2 a { color: var(--ci-ink); text-decoration: none; }
+.ivplayer { margin: 1rem 0 1.25rem; } .ivplayer audio { width: 100%; }
+.transcript { margin-top: 2rem; border-top: 2px solid var(--ci-ink); padding-top: 1rem; } .transcript h2 { font-family: var(--ci-font-display); text-transform: uppercase; letter-spacing: .06em; font-size: 1rem; color: var(--ci-muted); margin: 0 0 1rem; }
+.turn { display: grid; grid-template-columns: 130px 1fr; gap: 1rem; padding: .55rem 0; border-top: 1px solid color-mix(in srgb, var(--ci-ink) 10%, transparent); } .turn b { font-family: var(--ci-font-mono); font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--ci-primary); padding-top: .3rem; } .turn.t-a b { color: var(--ci-ink); } .turn p { margin: 0; line-height: 1.55; }
+.home-tunnel .empty { border: 1px dashed color-mix(in srgb, var(--ci-ink) 25%, transparent); border-radius: 8px; padding: 1.5rem; color: var(--ci-muted); }
+.box.iv-box audio { width: 100%; margin-top: .4rem; }
+@media (max-width: 640px) { .ivlead, .ivrow { grid-template-columns: 1fr; } .turn { grid-template-columns: 1fr; gap: .2rem; } }
