@@ -959,6 +959,24 @@
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-aebischer-makes-the-quiet-night-his-own-in-toronto-s-11th-straight-film-6223.png",
+   "scene": "a frame of the film",
+   "tags": [
+    "aebischer",
+    "film",
+    "interview",
+    "postgame",
+    "tor"
+   ],
+   "alt": "Aebischer makes the quiet night his own in Toronto's 11th straight",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-aebischer-makes-the-quiet-night-his-own-in-toronto-s-11th-straight"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
   }
  ]
 }
