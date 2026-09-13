@@ -1135,6 +1135,23 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-11-the-tunnel-kolzig-on-the-road-win-in-buffalo-we-score-five-my-job-is-easy.png",
+   "scene": "candid colour television still from the mid-2000s, a 34-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with black, bronze and blue trim, the eagle crest on the chest, black numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "interview",
+    "kolzig",
+    "postgame",
+    "wsh"
+   ],
+   "alt": "Jan Kowalczyk interviews Olaf Kolzig in the visitors' tunnel in Buffalo after a 5-1 Washington win.",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-kolzig-on-the-road-win-in-buffalo-we-score-five-my-job-is-easy"
+   ],
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
