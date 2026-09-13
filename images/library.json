@@ -955,8 +955,7 @@
    "alt": "Jan Kowalczyk interviews David Aebischer in full goalie gear in the tunnel at Nassau Veterans Memorial Coliseum after a 4-0 shutout.",
    "outlet": "the-tunnel",
    "used_by": [
-    "the-tunnel-aebischer-makes-the-quiet-night-his-own-in-toronto-s-11th-straight",
-    "2004-12-11/queen-city-telegram-the-panic-meter-code-yellow-because-the-goalie-who-won-me-over-is-on-t"
+    "the-tunnel-aebischer-makes-the-quiet-night-his-own-in-toronto-s-11th-straight"
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
@@ -1121,49 +1120,21 @@
    "source": "pod-instantid"
   },
   {
-   "path": "images/library/2004-12-11-home-ice-network-notes-from-the-west-nashville-wins-four-1.png",
-   "scene": "Oleg Tverdovsky, Nashville Predators defenseman in the white 2004-05 road sweater, skating the puck out of his own zone against an Anaheim Mighty Ducks forward in the dark home sweater at the Arrowhead Pond, telephoto from the corner boards, arena light",
+   "path": "images/library/2004-12-11-the-tunnel-afinogenov-nine-goals-none-his-and-not-a-worry-in-the-world.png",
+   "scene": "candid colour television still from the mid-2000s, a 25-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "nsh",
-    "subject: injury",
-    "tverdovsky"
-   ],
-   "alt": "Tverdovsky carries the puck out of the Nashville zone in Anaheim",
-   "outlet": "home-ice-network",
-   "used_by": [
-    "2004-12-11/home-ice-network-notes-from-the-west-nashville-wins-four-straight-loses-tverdovsky-to-a"
-   ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2004-12-11-queen-city-telegram-leafs-9-pit-2-the-streak-hits-13-and-the-1.png",
-   "scene": "Marian Gaborik, Toronto Maple Leafs number 10 in the dark blue 2004-05 home sweater with GABORIK across the shoulders on the back, leaning into a wrist shot from the right circle while a Pittsburgh Penguins defender in the white road sweater reaches across, Air Canada Centre, corner telephoto, bright arena light",
-   "tags": [
-    "gaborik",
-    "subject: veteran",
+    "afinogenov",
+    "interview",
+    "postgame",
     "tor"
    ],
-   "alt": "Gaborik shoots against Pittsburgh at the ACC",
-   "outlet": "queen-city-telegram",
+   "alt": "Bell interviews Afinogenov in the tunnel after the 9-2 win.",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2004-12-11/queen-city-telegram-leafs-9-pit-2-the-streak-hits-13-and-the-penguins-never-had-a-shift-in"
+    "the-tunnel-afinogenov-nine-goals-none-his-and-not-a-worry-in-the-world"
    ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2004-12-11-home-ice-network-the-infirmary-pittsburgh-s-208-lost-days-1.png",
-   "scene": "Johan Hedberg, Pittsburgh Penguins goaltender in the white 2004-05 road sweater with his goaltender mask, on one knee in the crease after a goal against at the Air Canada Centre in Toronto, Toronto Maple Leafs players in dark home sweaters celebrating behind the net, wide shot from the stands, arena light",
-   "tags": [
-    "hedberg",
-    "pit",
-    "subject: goalie"
-   ],
-   "alt": "Hedberg in the Pittsburgh crease after a Toronto goal en route to a 9-2 loss",
-   "outlet": "home-ice-network",
-   "used_by": [
-    "2004-12-11/home-ice-network-the-infirmary-pittsburgh-s-208-lost-days-lead-the-league-and-the-list-"
-   ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
