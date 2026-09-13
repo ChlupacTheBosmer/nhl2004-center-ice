@@ -836,6 +836,58 @@
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-forsberg-a-point-off-the-lead-when-joe-is-there-we-are-a-good-team-7785.png",
+   "scene": "candid colour television still from the mid-2000s, a 31-year-old hockey player in a television studio, dark jacket over an open-collared shirt, an armchair and a blue studio wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph | candid colour television still from the mid-2000s, a 35-year-old hockey player in a television studio, dark jacket over an open-collared shirt, an armchair and a blue studio wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "col",
+    "forsberg",
+    "interview",
+    "sakic",
+    "sitdown"
+   ],
+   "alt": "Forsberg, a point off the lead: 'When Joe is there, we are a good team'",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-forsberg-a-point-off-the-lead-when-joe-is-there-we-are-a-good-team"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-luongo-wins-his-first-in-florida-calls-the-room-young-7947.png",
+   "scene": "candid colour television still from the mid-2000s, a 25-year-old hockey player in a corridor after a game, wearing a red hockey jersey, the jersey red with with navy and gold trim, the leaping panther crest on the chest, white numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "fla",
+    "interview",
+    "luongo",
+    "postgame"
+   ],
+   "alt": "Luongo wins his first in Florida, calls the room young",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-luongo-wins-his-first-in-florida-calls-the-room-young"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont-8013.png",
+   "scene": "candid colour television still from the mid-2000s, a 31-year-old hockey player in a corridor after a game, wearing a black hockey jersey, the jersey black with with white and blue trim, the lightning-bolt-in-a-circle crest on the chest, white numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "interview",
+    "khabibulin",
+    "postgame",
+    "tb"
+   ],
+   "alt": "Khabibulin: 'The Puck Is Same Puck' After Tampa Bay's 7-1 Win Over Edmonton",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
   }
  ]
 }
