@@ -1101,6 +1101,23 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-08-the-tunnel-giguere-the-changes-give-us-a-road-game.png",
+   "scene": "candid colour television still from the mid-2000s, a 27-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with eggplant purple and jade green trim, the duck-mask crest in a triangle on the chest, purple numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "ana",
+    "giguere",
+    "interview",
+    "postgame"
+   ],
+   "alt": "Kowalczyk interviews Giguere in the tunnel, goalie still in full pads",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-giguere-the-changes-give-us-a-road-game"
+   ],
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
