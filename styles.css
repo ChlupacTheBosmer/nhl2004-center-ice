@@ -413,3 +413,4 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
 .home-tunnel .empty { border: 1px dashed color-mix(in srgb, var(--ci-ink) 25%, transparent); border-radius: 8px; padding: 1.5rem; color: var(--ci-muted); }
 .box.iv-box audio { width: 100%; margin-top: .4rem; }
 @media (max-width: 640px) { .ivlead, .ivrow { grid-template-columns: 1fr; } .turn { grid-template-columns: 1fr; gap: .2rem; } }
+.ivvideo { margin: 1rem 0 .5rem; } .ivvideo video { width: 100%; max-width: 960px; display: block; background: #000; border-radius: 6px; } .ivkind.k-video { background: #b3261e; color: #fff; }
