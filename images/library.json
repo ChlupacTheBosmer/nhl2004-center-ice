@@ -1012,6 +1012,24 @@
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-aebischer-makes-the-saves-roberts-gave-to-belfour-film-1023.png",
+   "scene": "a frame of the film",
+   "tags": [
+    "aebischer",
+    "film",
+    "interview",
+    "postgame",
+    "tor"
+   ],
+   "alt": "Aebischer makes the saves Roberts gave to Belfour",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-aebischer-makes-the-saves-roberts-gave-to-belfour"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
   }
  ]
 }
