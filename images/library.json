@@ -906,6 +906,24 @@
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont-film-2448.png",
+   "scene": "a frame of the film",
+   "tags": [
+    "film",
+    "interview",
+    "khabibulin",
+    "postgame",
+    "tb"
+   ],
+   "alt": "Khabibulin: 'The Puck Is Same Puck' After Tampa Bay's 7-1 Win Over Edmonton",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
   }
  ]
 }
