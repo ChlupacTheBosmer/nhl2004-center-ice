@@ -924,6 +924,41 @@
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-khabibulin-on-the-one-that-got-through-thirteen-wins-twenty-two-shots.png",
+   "scene": "candid colour television still from the mid-2000s, a 31-year-old hockey player in a corridor after a game, wearing a black hockey jersey, the jersey black with with white and blue trim, the lightning-bolt-in-a-circle crest on the chest, white numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "interview",
+    "khabibulin",
+    "postgame",
+    "tb"
+   ],
+   "alt": "Nikolai Khabibulin in full pads speaks with rinkside reporter Marcus Bell in the tunnel after Tampa Bay's 7-1 win over Edmonton.",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-khabibulin-on-the-one-that-got-through-thirteen-wins-twenty-two-shots-"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-07-the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont-film-4324.png",
+   "scene": "a frame of the film",
+   "tags": [
+    "film",
+    "interview",
+    "khabibulin",
+    "postgame",
+    "tb"
+   ],
+   "alt": "Khabibulin: 'The Puck Is Same Puck' After Tampa Bay's 7-1 Win Over Edmonton",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont"
+   ],
+   "made": "2026-09-13",
+   "source": "pod-instantid"
   }
  ]
 }
