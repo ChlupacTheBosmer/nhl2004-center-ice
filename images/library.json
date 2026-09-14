@@ -2300,21 +2300,99 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2005-01-01-the-tunnel-gaborik-we-had-it-you-know-two-points-and-we-give-it-away.png",
-   "scene": "candid colour television still from the mid-2000s, a 22-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2005-01-01-home-ice-network-notes-from-the-west-st-louis-loses-5-str-1.png",
+   "scene": "Brent Johnson, St. Louis Blues number 32 in the blue 2004-05 home sweater, sprawling across the crease with his left pad extended, glove hand reaching up, a Chicago Blackhawks forward crashing the net from the near circle, the scoreboard visible above the glass, arena light from above, telephoto from the low angle behind the net",
    "tags": [
-    "gaborik",
-    "interview",
-    "postgame",
+    "arena",
+    "goalie",
+    "johnson",
+    "stl"
+   ],
+   "alt": "Johnson sprawls in the crease during the Blues' losing streak",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-01/home-ice-network-notes-from-the-west-st-louis-loses-5-straight-and-8-wins-in-37-is-the-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-queen-city-telegram-the-panic-meter-code-green-after-the-str-1.png",
+   "scene": "Brad Richards, Toronto Maple Leafs number 10, in the dark 2004-05 home sweater at Air Canada Centre, receiving a pass in the left circle during a warm-up skate, arena lights overhead, telephoto from the near boards",
+   "tags": [
+    "arena",
+    "richards",
     "tor"
    ],
-   "alt": "Marcus Bell interviews Marian Gaborik in the tunnel after Toronto's overtime loss in Vancouver.",
-   "outlet": "the-tunnel",
+   "alt": "Brad Richards during a pre-game skate",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-gaborik-we-had-it-you-know-two-points-and-we-give-it-away"
+    "2005-01-01/queen-city-telegram-the-panic-meter-code-green-after-the-streak-dies-in-overtime-in-vancou"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-home-ice-network-the-infirmary-tampa-bay-sits-2nd-in-the-1.png",
+   "scene": "Nikolai Khabibulin, Tampa Bay Lightning number 34 in the navy 2004-05 home sweater, glove save with his right hand fully extended to the short side, a New York Rangers forward in the white road sweater on his back at the side of the crease, telephoto from the goal line, ice shavings in the air around the pad stack",
+   "tags": [
+    "goalie",
+    "khabibulin",
+    "nyr",
+    "tb"
+   ],
+   "alt": "Khabibulin makes the glove save that has kept Tampa in second place",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-01/home-ice-network-the-infirmary-tampa-bay-sits-2nd-in-the-southeast-with-216-days-lost-t"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-queen-city-telegram-chlup-returns-january-3-and-the-devils-a-1.png",
+   "scene": "Petr Chlup, Toronto Maple Leafs number 91, in the dark 2004-05 home sweater at Air Canada Centre during a morning skate, skating a single lap alone while teammates exit the ice behind him, natural arena light from the upper bowl, wide shot from the blue line",
+   "tags": [
+    "arena",
+    "chlup",
+    "rookie",
+    "tor"
+   ],
+   "alt": "Petr Chlup skates alone during a morning skate",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2005-01-01/queen-city-telegram-chlup-returns-january-3-and-the-devils-are-the-first-thing-he-sees"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-home-ice-network-goalie-watch-noronen-takes-the-crease-in-1.png",
+   "scene": "Mika Noronen, Buffalo Sabres number 32 in the royal blue 2004-05 home sweater, butterfly across the crease with both pads flat, blocker hand extended to the post, a Minnesota Wild forward in the green road sweater falling behind the play, telephoto from the top of the crease, bright arena lighting reflecting off the ice",
+   "tags": [
+    "buf",
+    "goalie",
+    "min",
+    "noronen"
+   ],
+   "alt": "Noronen seals the crease in his first start as Buffalo's No. 1",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-01/home-ice-network-goalie-watch-noronen-takes-the-crease-in-buffalo-and-4-straight-wins-f"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-queen-city-telegram-chlup-returns-january-3-and-the-devils-a-2.png",
+   "scene": "Ari Ahonen, New Jersey Devils number 1, in the dark 2004-05 home sweater at Continental Airlines Arena, standing on his skates behind the net during a warm-up with the glove hand raised, telephoto from behind the goal, arena lights reflecting off the ice",
+   "tags": [
+    "ahonen",
+    "arena",
+    "nj",
+    "subject: goalie"
+   ],
+   "alt": "Ari Ahonen during a Devils warm-up",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2005-01-01/queen-city-telegram-chlup-returns-january-3-and-the-devils-are-the-first-thing-he-sees"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
