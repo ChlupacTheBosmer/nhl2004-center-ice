@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>The Second Intermission</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/</link>
 <description>The week in the league, between the periods. One episode per in-game week of the 2004-05 season, hosted by Gord Tessier and Dana Whitlock.</description><language>en</language>
-<itunes:image href="https://chlupacthebosmer.github.io/nhl2004-center-ice/assets/brand/second-intermission/cover.jpg"/><item><title>Ep. 3 · Deep Dive: Sundin Returns, Streak Hits Thirteen</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-003.html</link><guid isPermaLink="false">ep-003</guid>
+<itunes:image href="https://chlupacthebosmer.github.io/nhl2004-center-ice/assets/brand/second-intermission/cover.jpg"/><item><title>Ep. 4 · Debate: Two Elite Wings One Awful Record</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-004.html</link><guid isPermaLink="false">ep-004</guid>
+<description>Week of 2004-12-08 to 2004-12-14: 40 pieces from the league's desks.</description>
+<enclosure url="https://chlupacthebosmer.github.io/nhl2004-center-ice/audio/ep-004.m4a" length="38024643" type="audio/mp4"/><itunes:duration>1181</itunes:duration>
+<pubDate>Mon, 14 Sep 2026 03:39:49 +0000</pubDate></item><item><title>Ep. 3 · Deep Dive: Sundin Returns, Streak Hits Thirteen</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-003.html</link><guid isPermaLink="false">ep-003</guid>
 <description>Week of 2004-12-08 to 2004-12-14: 40 pieces from the league's desks.</description>
 <enclosure url="https://chlupacthebosmer.github.io/nhl2004-center-ice/audio/ep-003.m4a" length="63614648" type="audio/mp4"/><itunes:duration>1976</itunes:duration>
 <pubDate>Mon, 14 Sep 2026 03:27:05 +0000</pubDate></item><item><title>Ep. 2 · Debate: The Most Overpaid Team in Hockey</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-002.html</link><guid isPermaLink="false">ep-002</guid>
