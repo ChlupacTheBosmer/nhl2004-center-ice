@@ -165,7 +165,8 @@
     "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league",
     "2004-12-17/hockey-gazette-defending-the-cup-the-14-is-over-and-the-50-is-still-there",
     "2004-12-20/queen-city-telegram-mccabe-leads-the-team-in-assists-and-the-crease-argument-drowns-him-ou",
-    "2004-12-24/penalty-box-98-5-and-losing-the-room-is-perfect-the-roster-isn-t"
+    "2004-12-24/penalty-box-98-5-and-losing-the-room-is-perfect-the-roster-isn-t",
+    "2005-01-12/hot-stove-rumor-meter-4-40m-at-74-morale-11-minutes-a-night-and-no-contract-past"
    ],
    "made": "2026-09-10"
   },
@@ -2854,6 +2855,21 @@
    "outlet": "home-ice-network",
    "used_by": [
     "2005-01-12/home-ice-network-goalie-watch-new-york-benches-dunham-after-36-starts-promotes-markkane"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-12-slot-report-does-morale-win-games-or-do-games-win-mo-1.png",
+   "scene": "Roberto Luongo of the Florida Panthers in the dark 2004-05 home sweater, standing at the top of the crease at the National Car Rental Center, full goaltending equipment: painted mask with cage, oversized leg pads, blocker on the right hand, catching glove on the left, the wide sweater over a chest protector. He is looking toward the blue line, hands at his sides. Arena light from above, camera behind the net slightly elevated.",
+   "tags": [
+    "arena",
+    "fla",
+    "goalie"
+   ],
+   "alt": "Luongo watches play from his crease",
+   "outlet": "slot-report",
+   "used_by": [
+    "2005-01-12/slot-report-does-morale-win-games-or-do-games-win-morale-the-correlation-says-neit"
    ],
    "made": "2026-09-14"
   }
