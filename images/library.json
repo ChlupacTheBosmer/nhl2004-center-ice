@@ -49,7 +49,8 @@
     "2004-12-07/queen-city-telegram-league-best-offense-meets-east-best-defense-when-the-devils-visit-the-",
     "2004-12-13/the-sweater-second-overall-finally-the-education-of-david-legwand",
     "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe",
-    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says"
+    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says",
+    "2004-12-29/queen-city-telegram-the-panic-meter-code-green-and-i-despise-saying-that"
    ],
    "made": "2026-09-10"
   },
@@ -2153,6 +2154,21 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2004-12-28/queen-city-telegram-danforth-four-players-on-the-bureau-s-risers-and-one-of-them-is-in-a-c"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-29-queen-city-telegram-leafs-visit-vancouver-with-six-straight-1.png",
+   "scene": "Ed Belfour, Toronto Maple Leafs number 50 in the white 2004-05 road sweater, crouched in the crease at Rexall Place in Edmonton, glove hand raised after a save, legs splayed, the red goal frame behind him, arena light overhead, telephoto from directly behind the net",
+   "tags": [
+    "arena",
+    "goalie",
+    "tor"
+   ],
+   "alt": "Belfour tracks the puck in the crease during the shutout at Edmonton",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-29/queen-city-telegram-leafs-visit-vancouver-with-six-straight-wins-and-a-blue-line-missing-i"
    ],
    "made": "2026-09-14"
   }
