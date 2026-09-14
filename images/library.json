@@ -955,7 +955,8 @@
    "alt": "Jan Kowalczyk interviews David Aebischer in full goalie gear in the tunnel at Nassau Veterans Memorial Coliseum after a 4-0 shutout.",
    "outlet": "the-tunnel",
    "used_by": [
-    "the-tunnel-aebischer-makes-the-quiet-night-his-own-in-toronto-s-11th-straight"
+    "the-tunnel-aebischer-makes-the-quiet-night-his-own-in-toronto-s-11th-straight",
+    "2004-12-11/queen-city-telegram-the-panic-meter-code-yellow-because-the-goalie-who-won-me-over-is-on-t"
    ],
    "made": "2026-09-13",
    "source": "pod-instantid"
@@ -1120,38 +1121,111 @@
    "source": "pod-instantid"
   },
   {
-   "path": "images/library/2004-12-11-the-tunnel-afinogenov-nine-goals-none-his-and-not-a-worry-in-the-world.png",
-   "scene": "candid colour television still from the mid-2000s, a 25-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-11-home-ice-network-notes-from-the-west-nashville-wins-four-1.png",
+   "scene": "Oleg Tverdovsky, Nashville Predators defenseman in the white 2004-05 road sweater, skating the puck out of his own zone against an Anaheim Mighty Ducks forward in the dark home sweater at the Arrowhead Pond, telephoto from the corner boards, arena light",
    "tags": [
-    "afinogenov",
-    "interview",
-    "postgame",
-    "tor"
+    "nsh",
+    "subject: injury",
+    "tverdovsky"
    ],
-   "alt": "Bell interviews Afinogenov in the tunnel after the 9-2 win.",
-   "outlet": "the-tunnel",
+   "alt": "Tverdovsky carries the puck out of the Nashville zone in Anaheim",
+   "outlet": "home-ice-network",
    "used_by": [
-    "the-tunnel-afinogenov-nine-goals-none-his-and-not-a-worry-in-the-world"
+    "2004-12-11/home-ice-network-notes-from-the-west-nashville-wins-four-straight-loses-tverdovsky-to-a"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-11-the-tunnel-kolzig-on-the-road-win-in-buffalo-we-score-five-my-job-is-easy.png",
-   "scene": "candid colour television still from the mid-2000s, a 34-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with black, bronze and blue trim, the eagle crest on the chest, black numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-11-queen-city-telegram-leafs-9-pit-2-the-streak-hits-13-and-the-1.png",
+   "scene": "Marian Gaborik, Toronto Maple Leafs number 10 in the dark blue 2004-05 home sweater with GABORIK across the shoulders on the back, leaning into a wrist shot from the right circle while a Pittsburgh Penguins defender in the white road sweater reaches across, Air Canada Centre, corner telephoto, bright arena light",
    "tags": [
-    "interview",
-    "kolzig",
-    "postgame",
-    "wsh"
+    "gaborik",
+    "subject: veteran",
+    "tor"
    ],
-   "alt": "Jan Kowalczyk interviews Olaf Kolzig in the visitors' tunnel in Buffalo after a 5-1 Washington win.",
-   "outlet": "the-tunnel",
+   "alt": "Gaborik shoots against Pittsburgh at the ACC",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-kolzig-on-the-road-win-in-buffalo-we-score-five-my-job-is-easy"
+    "2004-12-11/queen-city-telegram-leafs-9-pit-2-the-streak-hits-13-and-the-penguins-never-had-a-shift-in"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-11-home-ice-network-the-infirmary-pittsburgh-s-208-lost-days-1.png",
+   "scene": "Johan Hedberg, Pittsburgh Penguins goaltender in the white 2004-05 road sweater with his goaltender mask, on one knee in the crease after a goal against at the Air Canada Centre in Toronto, Toronto Maple Leafs players in dark home sweaters celebrating behind the net, wide shot from the stands, arena light",
+   "tags": [
+    "hedberg",
+    "pit",
+    "subject: goalie"
+   ],
+   "alt": "Hedberg in the Pittsburgh crease after a Toronto goal en route to a 9-2 loss",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-11/home-ice-network-the-infirmary-pittsburgh-s-208-lost-days-lead-the-league-and-the-list-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-11-rinkside-the-league-s-scoring-defenseman-plays-fo-1.png",
+   "scene": "Mike Komisarek, Montreal Canadiens number 10 in the red home sweater with 10 on the back and sleeves and KOMISAREK across the shoulders, a clear half visor on his helmet, receiving a pass at the right point on the power play as a Phoenix Coyotes forward in the white road sweater closes on him, Bell Centre, arena light from above, telephoto from the end boards",
+   "tags": [
+    "komisarek",
+    "mtl",
+    "subject: arena",
+    "subject: faceoff"
+   ],
+   "alt": "Komisarek at the right point on the power play",
+   "outlet": "rinkside",
+   "used_by": [
+    "2004-12-11/rinkside-the-league-s-scoring-defenseman-plays-for-the-team-that-can-t-keep-puc"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-11-rinkside-the-league-s-scoring-defenseman-plays-fo-2.png",
+   "scene": "Mike Komisarek, Montreal Canadiens number 10 in the white road sweater, chest-bumping Saku Koivu at the bench after a goal, Koivu in the white road sweater, Bell Centre visiting bench, the bench light half on them, mid-length lens from the glass",
+   "tags": [
+    "komisarek",
+    "mtl",
+    "subject: bench",
+    "subject: celebration"
+   ],
+   "alt": "Komisarek celebrates with a teammate at the bench",
+   "outlet": "rinkside",
+   "used_by": [
+    "2004-12-11/rinkside-the-league-s-scoring-defenseman-plays-for-the-team-that-can-t-keep-puc"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-11-the-sweater-sons-of-hay-river-where-geoff-sanderson-1.png",
+   "scene": "Geoff Sanderson, Columbus Blue Jackets number 8 in the navy 2004-05 home sweater, sitting on the bench at Nationwide Arena between shifts, helmet in his hand, looking across at the play; the dark sweater with an 8 on each sleeve and SANDERSON across the back, no league shield on the front; flat arena light from the open end of the rink, camera at bench level, shallow depth of field.",
+   "tags": [
+    "cbj",
+    "sanderson",
+    "veteran"
+   ],
+   "alt": "Geoff Sanderson resting on the Columbus bench, helmet off",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-11/the-sweater-sons-of-hay-river-where-geoff-sanderson-learned-to-score"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-11-the-sweater-sons-of-hay-river-where-geoff-sanderson-2.png",
+   "scene": "Geoff Sanderson, Columbus Blue Jackets number 8 in the white 2004-05 road sweater, alone at the left circle during morning skate at Nationwide Arena, firing a wrist shot toward an empty net, the same 8 on the sleeves and SANDERSON across the back; arena lights from above, long shadows, camera from behind the glass at ice level.",
+   "tags": [
+    "cbj",
+    "practice",
+    "sanderson"
+   ],
+   "alt": "Sanderson shooting in an empty arena",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-11/the-sweater-sons-of-hay-river-where-geoff-sanderson-learned-to-score"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
