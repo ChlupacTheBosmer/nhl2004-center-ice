@@ -2356,7 +2356,8 @@
    "outlet": "home-ice-network",
    "used_by": [
     "2005-01-01/home-ice-network-the-infirmary-tampa-bay-sits-2nd-in-the-southeast-with-216-days-lost-t",
-    "2005-01-12/home-ice-network-numbers-game-tampa-bay-has-won-8-straight-and-1-point-separates-it-fro"
+    "2005-01-12/home-ice-network-numbers-game-tampa-bay-has-won-8-straight-and-1-point-separates-it-fro",
+    "2005-01-12/hockey-gazette-the-lightning-have-won-eight-straight-and-pulled-4-clear-of-carolina-a"
    ],
    "made": "2026-09-14"
   },
@@ -2891,6 +2892,39 @@
    "outlet": "hockey-gazette",
    "used_by": [
     "2005-01-12/hockey-gazette-award-watch-ryan-smyth-is-10-below-his-base-and-the-cheapest-roster-in"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-12-hockey-gazette-the-lightning-have-won-eight-straight-an-1.png",
+   "scene": "Vincent Lecavalier of the Tampa Bay Lightning in the dark navy home sweater, a tall center with a helmet and clear half visor, carrying the puck through the neutral zone with a wide stride, the club's crest on his chest. A New York Islanders defender in the white road sweater trails him by a half-step, reaching with his stick. Seen from the side boards at center ice, telephoto, arena light bright, the ice clean and freshly resurfaced.",
+   "tags": [
+    "breakout",
+    "center",
+    "home",
+    "lecavalier",
+    "tb"
+   ],
+   "alt": "Lecavalier carries the puck through the neutral zone against the Islanders at home",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2005-01-12/hockey-gazette-the-lightning-have-won-eight-straight-and-pulled-4-clear-of-carolina-a"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-12-prospect-file-the-2004-first-round-six-months-on-three-1.png",
+   "scene": "Tuomas Lydman of the Anaheim Mighty Ducks in the dark 2004-05 home sweater, the duck crest on the chest, skating through the neutral zone with the puck on his stick, a Colorado Avalanche defender in white trailing behind him at the Honda Center, seen from the front at the blue line, telephoto from the glass, arena light",
+   "tags": [
+    "ana",
+    "arena",
+    "faceoff",
+    "lydman"
+   ],
+   "alt": "Lydman carries through the neutral zone",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2005-01-12/prospect-file-the-2004-first-round-six-months-on-three-men-the-book-has-already-writ"
    ],
    "made": "2026-09-14"
   }
