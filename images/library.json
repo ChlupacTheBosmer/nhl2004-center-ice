@@ -2400,6 +2400,35 @@
     "2005-01-01/queen-city-telegram-chlup-returns-january-3-and-the-devils-are-the-first-thing-he-sees"
    ],
    "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-home-ice-network-notes-from-the-southeast-carolina-has-lo-1.png",
+   "scene": "Kevin Weekes, Carolina Hurricanes number 35 in the red 2004-05 home sweater, sprawling across the crease during an overtime faceoff, his glove hand extended, arena light reflecting off his white paint, telephoto from behind the net at the RBC Center, the scoreboard showing OT",
+   "tags": [
+    "arena",
+    "subject: goalie",
+    "team abbr"
+   ],
+   "alt": "Kevin Weekes stretches for a puck during overtime",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-01/home-ice-network-notes-from-the-southeast-carolina-has-lost-8-in-overtime-more-than-any"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-home-ice-network-goalie-watch-new-jersey-has-played-35-ga-1.png",
+   "scene": "Martin Brodeur, New Jersey Devils number 30 in the red 2004-05 home sweater, pushing off his left post to track a shot through traffic, his stick trailing behind him, the glass fogged with arena condensation, telephoto from the corner of the Continental Airlines Arena",
+   "tags": [
+    "arena",
+    "subject: goalie"
+   ],
+   "alt": "Martin Brodeur tracks a shot through traffic at home",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-01/home-ice-network-goalie-watch-new-jersey-has-played-35-games-lost-49-days-to-injury-and"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
