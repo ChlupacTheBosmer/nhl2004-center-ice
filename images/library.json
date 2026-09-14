@@ -384,7 +384,8 @@
    "used_by": [
     "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10",
     "2004-12-19/the-sweater-the-michael-jordan-of-hockey-six-years-later-vincent-lecavalier-at-24",
-    "2004-12-24/prospect-file-future-files-edmonton-has-99-97-and-90-on-one-roster-and-8-4-minutes-t"
+    "2004-12-24/prospect-file-future-files-edmonton-has-99-97-and-90-on-one-roster-and-8-4-minutes-t",
+    "2005-01-05/prospect-file-the-3rd-pick-from-2001-carries-a-99-and-gets-8-3-minutes"
    ],
    "made": "2026-09-10"
   },
@@ -2531,6 +2532,21 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2005-01-05/queen-city-telegram-leafs-7-devils-0-belfour-s-clean-sheet-comes-with-two-names-on-the-inj"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-queen-city-telegram-danforth-gaborik-is-hurt-richards-has-45-1.png",
+   "scene": "Brad Richards, Toronto Maple Leafs number 10 in the blue 2004-05 home sweater, carrying the puck up the left wing against a New Jersey Devils defender at the Air Canada Centre, telephoto from the corner near the blue line, arena light",
+   "tags": [
+    "richards",
+    "subject: faceoff",
+    "team:tor"
+   ],
+   "alt": "Richards has 45 points in 40 games on a $1.00M salary in a contract year",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2005-01-05/queen-city-telegram-danforth-gaborik-is-hurt-richards-has-45-points-and-the-first-january-"
    ],
    "made": "2026-09-14"
   }
