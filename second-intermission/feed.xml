@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>The Second Intermission</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/</link>
 <description>The week in the league, between the periods. One episode per in-game week of the 2004-05 season, hosted by Gord Tessier and Dana Whitlock.</description><language>en</language>
-<itunes:image href="https://chlupacthebosmer.github.io/nhl2004-center-ice/assets/brand/second-intermission/cover.jpg"/><item><title>Ep. 7 · Debate: Montreal's Fifty-Three Million Dollar Embarrassment</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-007.html</link><guid isPermaLink="false">ep-007</guid>
+<itunes:image href="https://chlupacthebosmer.github.io/nhl2004-center-ice/assets/brand/second-intermission/cover.jpg"/><item><title>Ep. 8 · Deep Dive: Edmonton Has 99, 97 and 90</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-008.html</link><guid isPermaLink="false">ep-008</guid>
+<description>Week of 2004-12-22 to 2004-12-28: 33 pieces from the league's desks.</description>
+<enclosure url="https://chlupacthebosmer.github.io/nhl2004-center-ice/audio/ep-008.m4a" length="81468642" type="audio/mp4"/><itunes:duration>2531</itunes:duration>
+<pubDate>Mon, 14 Sep 2026 16:07:09 +0000</pubDate></item><item><title>Ep. 7 · Debate: Montreal's Fifty-Three Million Dollar Embarrassment</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-007.html</link><guid isPermaLink="false">ep-007</guid>
 <description>Week of 2004-12-15 to 2004-12-21: 40 pieces from the league's desks.</description>
 <enclosure url="https://chlupacthebosmer.github.io/nhl2004-center-ice/audio/ep-007.m4a" length="35811850" type="audio/mp4"/><itunes:duration>1112</itunes:duration>
 <pubDate>Mon, 14 Sep 2026 15:27:22 +0000</pubDate></item><item><title>Ep. 6 · Deep Dive: Thornton Sets the Bar at 141</title><link>https://chlupacthebosmer.github.io/nhl2004-center-ice/second-intermission/ep-006.html</link><guid isPermaLink="false">ep-006</guid>
