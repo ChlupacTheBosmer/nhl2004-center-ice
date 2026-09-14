@@ -101,7 +101,8 @@
    "alt": "Young players cluster at center ice while a lone veteran watches from the blue line",
    "outlet": "queen-city-telegram",
    "used_by": [
-    "2004-12-04/queen-city-telegram-young-guns-watch-4-leafs-on-the-index-risers-and-i-cannot-find-a-reaso"
+    "2004-12-04/queen-city-telegram-young-guns-watch-4-leafs-on-the-index-risers-and-i-cannot-find-a-reaso",
+    "2004-12-28/prospect-file-the-book-says-92-the-coach-says-healthy-scratch"
    ],
    "made": "2026-09-10"
   },
@@ -1786,7 +1787,8 @@
    "alt": "Turek alone in the crease after a road loss",
    "outlet": "hot-stove",
    "used_by": [
-    "2004-12-20/hot-stove-4-of-the-15-unhappiest-men-in-the-league-wear-one-sweater-the-most-exp"
+    "2004-12-20/hot-stove-4-of-the-15-unhappiest-men-in-the-league-wear-one-sweater-the-most-exp",
+    "2004-12-28/slot-report-4-of-15-goaltenders-own-the-morale-basement-and-three-of-them-are-star"
    ],
    "made": "2026-09-14"
   },
@@ -1957,7 +1959,8 @@
    "alt": "Lemieux carries through the neutral zone while a Kings defender trails",
    "outlet": "slot-report",
    "used_by": [
-    "2004-12-22/slot-report-218-days-lost-the-most-injured-team-in-hockey-is-being-carried-by-a-39"
+    "2004-12-22/slot-report-218-days-lost-the-most-injured-team-in-hockey-is-being-carried-by-a-39",
+    "2004-12-28/rinkside-the-hands-never-left-mario-lemieux-at-39-on-pace-for-167-in-a-room-tha"
    ],
    "made": "2026-09-14"
   },
@@ -2056,55 +2059,100 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-28-the-tunnel-belfour-s-11-and-1-i-don-t-lose-the-game-on-the-nights-i-m-not-great.png",
-   "scene": "candid colour television still from the mid-2000s, a 39-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-28-slot-report-4-of-15-goaltenders-own-the-morale-basem-2.png",
+   "scene": "Tommy Salo, Edmonton Oilers number 31, in the orange 2004-05 road sweater, pushing off his post after a puck goes five-hole, the scoring light on behind him, telephoto from the corner at SkyDome",
    "tags": [
-    "belfour",
-    "interview",
-    "postgame",
+    "edm",
+    "goalie",
+    "road",
+    "salo"
+   ],
+   "alt": "Salo reacts after a goal goes past him on the road",
+   "outlet": "slot-report",
+   "used_by": [
+    "2004-12-28/slot-report-4-of-15-goaltenders-own-the-morale-basement-and-three-of-them-are-star"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-28-hockey-gazette-vezina-deep-dive-jean-sebastien-giguere-1.png",
+   "scene": "Jean-Sebastien Giguere, Anaheim Ducks number 30 in the black home sweater, sprawled across the ice after a glove save, his pad up over his head, in front of the net at the Arrowhead Pond of Anaheim, orange and gold light from above, telephoto from the low angle behind the net",
+   "tags": [
+    "arena",
+    "player: giguere",
+    "subject: goalie",
+    "team: ana"
+   ],
+   "alt": "Giguere makes a desperation save across his body",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-28/hockey-gazette-vezina-deep-dive-jean-sebastien-giguere-is-the-best-goaltender-in-the-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-28-penalty-box-12-092-empty-seats-24-goals-in-10-and-a-1.png",
+   "scene": "Daymond Langkow, Phoenix Coyotes number 14, in the dark home sweater with the number and surname on the back, standing at center ice during a warmup, looking toward the nearly empty upper deck, wide-angle shot from the corner showing thousands of vacant orange seats behind him, cold arena lighting, late December",
+   "tags": [
+    "arena",
+    "langkow",
+    "phx",
+    "veteran"
+   ],
+   "alt": "Langkow looks at empty seats during warmup",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-28/penalty-box-12-092-empty-seats-24-goals-in-10-and-a-79-rated-center-coached-off-th"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-28-hockey-gazette-the-blaine-rankings-week-9-carolina-has-1.png",
+   "scene": "Radim Vrbata, Carolina Hurricanes number 63 in the red home sweater, wheeling the puck up the right wing past a Tampa Bay Lightning defender in the white road sweater at the RBC Center, the crowd blurred behind the glass, telephoto from the blueline, arena lights reflecting off the red sweater shoulders",
+   "tags": [
+    "arena",
+    "player: vrbata",
+    "subject: faceoff",
+    "team: car"
+   ],
+   "alt": "Vrbata carries the puck up the wing for Carolina",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-28/hockey-gazette-the-blaine-rankings-week-9-carolina-has-lost-seven-regulation-games-in"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-28-queen-city-telegram-five-wins-three-by-a-single-goal-and-the-1.png",
+   "scene": "Ed Belfour, Toronto Maple Leafs number 50, in the white 2004-05 road sweater, standing in his crease during warmups at Rexall Place, his stick resting on the ice, a water bottle near his left pad, arena light from above",
+   "tags": [
+    "arena",
+    "goalie",
+    "road",
     "tor"
    ],
-   "alt": "Ed Belfour, jersey #20, talks with Jan Kowalczyk in the Calgary tunnel after Toronto's 3-2 overtime win.",
-   "outlet": "the-tunnel",
+   "alt": "Belfour in the crease before warmups",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-belfour-s-11-and-1-i-don-t-lose-the-game-on-the-nights-i-m-not-great"
+    "2004-12-28/queen-city-telegram-five-wins-three-by-a-single-goal-and-the-crease-still-won-t-hold-still"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-28-the-tunnel-iginla-the-game-calgary-can-play.png",
-   "scene": "candid colour television still from the mid-2000s, a 27-year-old hockey player in a corridor after a game, wearing a red hockey jersey, the jersey red with with black and gold trim, the black flaming C crest on the chest, white numbers outlined in black, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-28-queen-city-telegram-danforth-four-players-on-the-bureau-s-ri-1.png",
+   "scene": "Brad Richards, Toronto Maple Leafs number 91, in the white 2004-05 road sweater, receiving a pass in the slot at Scotiabank Arena, a Calgary Flames defender closing from his left, telephoto from the blueline, arena light",
    "tags": [
-    "cgy",
-    "iginla",
-    "interview",
-    "postgame"
+    "centres",
+    "faceoff",
+    "road",
+    "tor"
    ],
-   "alt": "Jarome Iginla in the Calgary tunnel, No. 12, sweater damp, mid-sentence with Jan Kowalczyk",
-   "outlet": "the-tunnel",
+   "alt": "Richards works in the slot",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-iginla-the-game-calgary-can-play"
+    "2004-12-28/queen-city-telegram-danforth-four-players-on-the-bureau-s-risers-and-one-of-them-is-in-a-c"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
-  },
-  {
-   "path": "images/library/2004-12-28-the-tunnel-sutter-on-the-fourth-overtime-loss-the-details-weren-t-there.png",
-   "scene": "candid colour television still from the mid-2000s, a man in his forties in a dark suit, white shirt and tie, a dark curtain behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
-   "tags": [
-    "cgy",
-    "coach",
-    "interview",
-    "sutter"
-   ],
-   "alt": "Jan Kowalczyk holds the microphone toward Darryl Sutter in the tunnel after a 3-2 overtime loss in Calgary.",
-   "outlet": "the-tunnel",
-   "used_by": [
-    "the-tunnel-sutter-on-the-fourth-overtime-loss-the-details-weren-t-there"
-   ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   }
  ]
 }
