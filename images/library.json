@@ -1252,7 +1252,8 @@
    "alt": "Geoff Sanderson resting on the Columbus bench, helmet off",
    "outlet": "the-sweater",
    "used_by": [
-    "2004-12-11/the-sweater-sons-of-hay-river-where-geoff-sanderson-learned-to-score"
+    "2004-12-11/the-sweater-sons-of-hay-river-where-geoff-sanderson-learned-to-score",
+    "2005-01-05/the-sweater-the-long-way-round-geoff-sanderson-s-road-to-77-points-in-columbus"
    ],
    "made": "2026-09-14"
   },
@@ -2547,6 +2548,22 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2005-01-05/queen-city-telegram-danforth-gaborik-is-hurt-richards-has-45-points-and-the-first-january-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-rinkside-the-reinvention-of-mike-komisarek-3-poin-1.png",
+   "scene": "Mike Komisarek, Montreal Canadiens number 10 in the home blue 2004-05 sweater, carrying the puck up the right side of the ice at the Molson Centre, his stick on the tape and his head up scanning, against a forward in the white 2004-05 road sweater of the opposing team, telephoto from behind the net, arena light reflecting off the blue paint of the sweater",
+   "tags": [
+    "arena",
+    "defenseman",
+    "komisarek",
+    "mtl"
+   ],
+   "alt": "Komisarek with the puck in transition during a home game",
+   "outlet": "rinkside",
+   "used_by": [
+    "2005-01-05/rinkside-the-reinvention-of-mike-komisarek-3-points-last-year-49-this-year-and-"
    ],
    "made": "2026-09-14"
   }
