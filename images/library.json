@@ -1475,7 +1475,8 @@
    "alt": "Naslund carrying in the neutral zone",
    "outlet": "penalty-box",
    "used_by": [
-    "2004-12-17/penalty-box-vancouver-s-paying-34-94-million-you-re-paying-80-89-the-math-is-an-in"
+    "2004-12-17/penalty-box-vancouver-s-paying-34-94-million-you-re-paying-80-89-the-math-is-an-in",
+    "2004-12-17/slot-report-0-87m-a-point-the-cheapest-roster-in-hockey"
    ],
    "made": "2026-09-14"
   },
@@ -1614,6 +1615,36 @@
    "outlet": "hot-stove",
    "used_by": [
     "2004-12-17/hot-stove-contract-year-watch-55-points-1-90m-and-the-expiring-deal-nobody-is-tr"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-slot-report-what-two-injuries-built-in-los-angeles-1.png",
+   "scene": "Roman Cechmanek, Los Angeles Kings, in the dark home sweater, crouched low in the net after a save, looking up toward the bench, telephoto from the boards-side corner, arena light from above, the glass reflecting the jumbotron",
+   "tags": [
+    "cechmanek",
+    "la",
+    "subject: goalie"
+   ],
+   "alt": "Cechmanek in the net after a save, looking up at the bench",
+   "outlet": "slot-report",
+   "used_by": [
+    "2004-12-17/slot-report-what-two-injuries-built-in-los-angeles"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-slot-report-the-best-room-in-hockey-27-points-1.png",
+   "scene": "Roberto Luongo, Florida Panthers number 29 in the white 2004-05 road sweater, standing in the net with his stick on the ice, wide angle from the end-zone camera, the bench visible in the background, arena light",
+   "tags": [
+    "fla",
+    "luongo",
+    "subject: goalie"
+   ],
+   "alt": "Luongo standing in the net, the bench behind him",
+   "outlet": "slot-report",
+   "used_by": [
+    "2004-12-17/slot-report-the-best-room-in-hockey-27-points"
    ],
    "made": "2026-09-14"
   }
