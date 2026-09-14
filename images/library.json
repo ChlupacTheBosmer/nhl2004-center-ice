@@ -2581,6 +2581,36 @@
     "2005-01-05/hot-stove-rumor-meter-la-s-three-expiring-deals-put-12-80m-on-the-table-in-a-16-"
    ],
    "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-penalty-box-5-and-14-at-home-77-a-seat-23-68-million-1.png",
+   "scene": "A wide shot from the upper deck of a nearly full hockey arena showing fans in dark-colored sweaters filling the lower bowl while a scoreboard in the background shows a home team losing. The ice is empty, lights dimmed to intermission level, one lone Zamboni driver visible at center ice. The crowd is standing and heading toward exits during what looks like the third period.",
+   "tags": [
+    "arena",
+    "attendance"
+   ],
+   "alt": "Fans heading for the exits during the third period at a Chicago home game",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2005-01-05/penalty-box-5-and-14-at-home-77-a-seat-23-68-million-in-profit-chicago-has-figured"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-penalty-box-5-and-14-at-home-77-a-seat-23-68-million-2.png",
+   "scene": "Ryan VandenBussche, Chicago Blackhawks number 27 in the red 2004-05 home sweater, number 27 in black on the sleeves and back, surname VANDEMBUSSCHE arched across the shoulders in white, skating along the boards in his own defensive zone with a helmet and clear half visor, stick on the ice, head down, alone with no teammates nearby. Telephoto from the glass, late arena lighting, shallow depth of field.",
+   "tags": [
+    "arena",
+    "player surname",
+    "team abbr",
+    "veteran"
+   ],
+   "alt": "Ryan VandenBussche skates alone on the forecheck during a Chicago home game",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2005-01-05/penalty-box-5-and-14-at-home-77-a-seat-23-68-million-in-profit-chicago-has-figured"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
