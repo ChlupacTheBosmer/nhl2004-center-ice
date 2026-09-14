@@ -48,7 +48,8 @@
     "2004-12-04/queen-city-telegram-danforth-brad-richards-is-the-answer-and-that-is-what-terrifies-me",
     "2004-12-07/queen-city-telegram-league-best-offense-meets-east-best-defense-when-the-devils-visit-the-",
     "2004-12-13/the-sweater-second-overall-finally-the-education-of-david-legwand",
-    "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe"
+    "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe",
+    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says"
    ],
    "made": "2026-09-10"
   },
@@ -120,7 +121,8 @@
     "2004-12-04/hot-stove-sources-morale-problems-brewing-in-minnesota",
     "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10",
     "2004-12-17/rinkside-at-27-we-finally-know-who-he-is-the-making-of-jean-sebastien-giguere",
-    "2004-12-19/home-ice-network-injury-report-kings-lose-visnovsky-unspecified-return-targeted-for-dec"
+    "2004-12-19/home-ice-network-injury-report-kings-lose-visnovsky-unspecified-return-targeted-for-dec",
+    "2004-12-24/prospect-file-the-93-on-the-roster-at-columbus-pascal-leclaire-is-the-league-s-best-"
    ],
    "made": "2026-09-10"
   },
@@ -137,7 +139,8 @@
    "outlet": "hot-stove",
    "used_by": [
     "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league",
-    "2004-12-20/the-sweater-a-trophy-on-the-shelf-what-the-hart-did-to-ryan-smyth"
+    "2004-12-20/the-sweater-a-trophy-on-the-shelf-what-the-hart-did-to-ryan-smyth",
+    "2004-12-22/hot-stove-contract-year-watch-the-1-00m-per-point-team-has-three-expiring-deals-"
    ],
    "made": "2026-09-10"
   },
@@ -369,7 +372,8 @@
    "outlet": "home-ice-network",
    "used_by": [
     "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10",
-    "2004-12-19/the-sweater-the-michael-jordan-of-hockey-six-years-later-vincent-lecavalier-at-24"
+    "2004-12-19/the-sweater-the-michael-jordan-of-hockey-six-years-later-vincent-lecavalier-at-24",
+    "2004-12-24/prospect-file-future-files-edmonton-has-99-97-and-90-on-one-roster-and-8-4-minutes-t"
    ],
    "made": "2026-09-10"
   },
@@ -418,7 +422,8 @@
    "used_by": [
     "2004-12-07/the-sweater-first-overall-last-place-ilya-kovalchuk-plays-for-july",
     "2004-12-13/prospect-file-future-files-atlanta-has-two-elite-young-wings-and-the-league-s-worst-",
-    "2004-12-17/slot-report-development-index-watch-the-risers-the-scoreboard-has-yet-to-see"
+    "2004-12-17/slot-report-development-index-watch-the-risers-the-scoreboard-has-yet-to-see",
+    "2004-12-22/penalty-box-92-grade-8-wins-13-580-empty-seats-atlanta-is-wasting-the-best-21-year"
    ],
    "made": "2026-09-11"
   },
@@ -1259,7 +1264,8 @@
    "alt": "Vokoun in the Nashville net, play cleared to the corner",
    "outlet": "hockey-gazette",
    "used_by": [
-    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an"
+    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an",
+    "2004-12-22/home-ice-network-notes-from-the-west-nashville-s-streak-hits-9-and-25-goals-against-in-"
    ],
    "made": "2026-09-14"
   },
@@ -1862,55 +1868,113 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-22-the-tunnel-mogilny-on-16-9-minutes-forty-three-points-what-do-you-want-from-me.png",
-   "scene": "candid colour television still from the mid-2000s, a 35-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-22-home-ice-network-morning-skate-notes-columbus-changes-15-1.png",
+   "scene": "Tyler Wright, Columbus Blue Jackets center, in the blue 2004-05 home sweater with red and silver trim, taking a faceoff at a center ice dot during a morning skate at Nationwide Arena, overhead light from the rink ceiling, wide angle showing both benches and the ice markings",
    "tags": [
-    "interview",
-    "mogilny",
-    "postgame",
+    "cbj",
+    "subject: faceoff",
+    "wright"
+   ],
+   "alt": "Wright at a morning skate faceoff after moving up to the second line in Columbus",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-22/home-ice-network-morning-skate-notes-columbus-changes-15-spots-wright-up-to-the-second-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-22-hockey-gazette-award-watch-jaromir-jagr-is-32-and-the-o-1.png",
+   "scene": "Jaromir Jagr, Washington Capitals number 68 in the dark 2004-05 home sweater, cutting to the net past a Carolina Hurricanes defender, low angle from the goal line at the MCI Center, arena light catching the blade spray off his inside edge",
+   "tags": [
+    "arena",
+    "faceoff",
+    "jagr",
+    "wsh"
+   ],
+   "alt": "Jagr drives the net against Carolina at home",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-22/hockey-gazette-award-watch-jaromir-jagr-is-32-and-the-only-man-ahead-of-him-is-34"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-22-penalty-box-92-grade-8-wins-13-580-empty-seats-atlan-2.png",
+   "scene": "Wide interior shot of Philips Arena in Atlanta during warm-ups, mostly empty upper bowl showing dark blue seats, the ice sheet with one Thrashers forward in navy blue taking shots, the scoreboard visible showing the time, dim house lights, telephoto from the press box",
+   "tags": [
+    "atl",
+    "subject: arena"
+   ],
+   "alt": "Philips Arena upper bowl mostly empty during pregame",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-22/penalty-box-92-grade-8-wins-13-580-empty-seats-atlanta-is-wasting-the-best-21-year"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-22-queen-city-telegram-gaborik-sits-at-97-on-the-book-and-nobod-1.png",
+   "scene": "Marian Gaborik, Toronto Maple Leafs number 10 in the blue 2004-05 home sweater, cutting through the left circle toward the net during a power play at the Air Canada Centre, telephoto from the behind-the-net angle, arena light, the puck just leaving his stick",
+   "tags": [
+    "arena",
+    "gaborik",
+    "power-play",
     "tor"
    ],
-   "alt": "Marcus Bell interviews Alexander Mogilny in the corridor after Toronto's 9-2 win over St. Louis.",
-   "outlet": "the-tunnel",
+   "alt": "Gaborik releasing a shot from the left circle",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-mogilny-on-16-9-minutes-forty-three-points-what-do-you-want-from-me"
+    "2004-12-22/queen-city-telegram-gaborik-sits-at-97-on-the-book-and-nobody-on-this-roster-is-within-nin"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-22-the-tunnel-hasek-s-geometry-the-goalie-who-tells-lidstrom-when-to-breathe.png",
-   "scene": "candid colour television still from the mid-2000s, a 39-year-old hockey player in a corridor after a game, wearing a red hockey jersey, the jersey red with with white stripes on the sleeves and hem, the winged wheel crest on the chest, white numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-22-queen-city-telegram-the-panic-meter-code-green-because-mogil-1.png",
+   "scene": "Alexander Mogilny, Toronto Maple Leafs number 43 in the blue 2004-05 home sweater, turning behind the net and threading a backhand pass to a teammate during a game at the Air Canada Centre, telephoto from the glass behind the net, arena light, the puck visible on his stick blade",
    "tags": [
-    "det",
-    "hasek",
-    "interview",
-    "postgame"
+    "arena",
+    "assists",
+    "mogilny",
+    "tor"
    ],
-   "alt": "Marcus Bell interviews Dominik Hasek in the post-game tunnel, Hasek in his #39 jersey and full gear, bag over his shoulder.",
-   "outlet": "the-tunnel",
+   "alt": "Mogilny making a play from behind the net",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-hasek-s-geometry-the-goalie-who-tells-lidstrom-when-to-breathe"
+    "2004-12-22/queen-city-telegram-the-panic-meter-code-green-because-mogilny-has-29-assists-and-i-was-wr"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-22-the-tunnel-ryan-smyth-on-the-hart-a-young-room-and-a-road-that-leads-back-to-banf.png",
-   "scene": "candid colour television still from the mid-2000s, a 28-year-old hockey player in a television studio, dark jacket over an open-collared shirt, an armchair and a blue studio wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-22-slot-report-218-days-lost-the-most-injured-team-in-h-1.png",
+   "scene": "Mario Lemieux, Pittsburgh Penguins number 66, in the dark Pittsburgh Penguins home sweater with 66 on the sleeves and LEMIEUX across the shoulders, carrying the puck up the left wing at the Mellon Arena, a Los Angeles Kings defender in the white road sweater trailing half a step behind, telephoto from the blue line, arena light flat and white",
    "tags": [
-    "edm",
-    "interview",
-    "sitdown",
-    "smyth"
+    "arena",
+    "lemieux",
+    "pit",
+    "veteran"
    ],
-   "alt": "Marcus Bell and Ryan Smyth in armchairs, mid-interview, Smyth in his Oilers sweater leaning forward.",
-   "outlet": "the-tunnel",
+   "alt": "Lemieux carries through the neutral zone while a Kings defender trails",
+   "outlet": "slot-report",
    "used_by": [
-    "the-tunnel-ryan-smyth-on-the-hart-a-young-room-and-a-road-that-leads-back-to-banf"
+    "2004-12-22/slot-report-218-days-lost-the-most-injured-team-in-hockey-is-being-carried-by-a-39"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-24-hot-stove-payroll-dumps-phoenix-s-9-60m-expiring-c-1.png",
+   "scene": "Shane Doan, Phoenix Coyotes number 19 in the dark home sweater, skating the puck out of his own zone at America West Arena, the nearly-empty upper deck visible behind him, wide-angle from the blue line, arena light casting long shadows across the ice",
+   "tags": [
+    "arena",
+    "attendance",
+    "doan",
+    "phx"
+   ],
+   "alt": "Doan skates through a half-empty building in Phoenix",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-24/hot-stove-payroll-dumps-phoenix-s-9-60m-expiring-class-can-t-fit-in-12-092-seats"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
