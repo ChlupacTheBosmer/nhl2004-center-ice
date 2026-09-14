@@ -2602,6 +2602,22 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-01-08-hot-stove-rumor-meter-3-of-4-men-signed-january-2-1.png",
+   "scene": "Greg Hawgood in a New York Islanders home dark blue sweater with the Islanders crest on the chest, standing on the ice at Nassau Coliseum, seen from the front at the blue line, arms crossed, helmet with clear half visor, arena light casting hard shadow, telephoto from the lower bowl",
+   "tags": [
+    "arena",
+    "injury",
+    "nyi",
+    "veteran"
+   ],
+   "alt": "Greg Hawgood reports to the Islanders, whose IR carries 7 players",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2005-01-08/hot-stove-rumor-meter-3-of-4-men-signed-january-2-are-already-on-ir-the-only-sur"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
