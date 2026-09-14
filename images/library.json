@@ -2071,6 +2071,23 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2004-12-28-the-tunnel-iginla-the-game-calgary-can-play.png",
+   "scene": "candid colour television still from the mid-2000s, a 27-year-old hockey player in a corridor after a game, wearing a red hockey jersey, the jersey red with with black and gold trim, the black flaming C crest on the chest, white numbers outlined in black, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "cgy",
+    "iginla",
+    "interview",
+    "postgame"
+   ],
+   "alt": "Jarome Iginla in the Calgary tunnel, No. 12, sweater damp, mid-sentence with Jan Kowalczyk",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-iginla-the-game-calgary-can-play"
+   ],
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
