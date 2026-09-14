@@ -1664,19 +1664,21 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-19-hot-stove-rumor-meter-the-league-s-most-expensive-1.png",
-   "scene": "Chris Pronger, St. Louis Blues number 44 in the dark blue home sweater, standing at the blue line behind the play with his stick flat on the ice, reading the rush from a visiting team's forward in the white road sweater, telephoto from behind the net, arena light catching the shoulders and the Pronger nameplate",
+   "path": "images/library/2004-12-19-the-tunnel-gaborik-one-second-and-i-am-there.png",
+   "scene": "candid colour television still from the mid-2000s, a 22-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "pronger",
-    "stl",
-    "veteran"
+    "gaborik",
+    "interview",
+    "postgame",
+    "tor"
    ],
-   "alt": "Pronger at the blue line reading the play",
-   "outlet": "hot-stove",
+   "alt": "Marian Gaborik speaks with Marcus Bell in the corridor after Toronto's 4-2 win at Florida on December 18.",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2004-12-19/hot-stove-rumor-meter-the-league-s-most-expensive-expiring-deal-sits-on-an-8-17-"
+    "the-tunnel-gaborik-one-second-and-i-am-there"
    ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
