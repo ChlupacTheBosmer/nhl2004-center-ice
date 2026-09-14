@@ -127,8 +127,7 @@
     "2004-12-17/rinkside-at-27-we-finally-know-who-he-is-the-making-of-jean-sebastien-giguere",
     "2004-12-19/home-ice-network-injury-report-kings-lose-visnovsky-unspecified-return-targeted-for-dec",
     "2004-12-24/prospect-file-the-93-on-the-roster-at-columbus-pascal-leclaire-is-the-league-s-best-",
-    "2005-01-01/home-ice-network-recap-blue-jackets-7-sharks-2-12-goals-in-two-nights-against-san-jose",
-    "2005-01-04/home-ice-network-goalie-watch-los-angeles-flips-the-crease-cechmanek-out-huet-in"
+    "2005-01-01/home-ice-network-recap-blue-jackets-7-sharks-2-12-goals-in-two-nights-against-san-jose"
    ],
    "made": "2026-09-10"
   },
@@ -1960,8 +1959,7 @@
    "alt": "Mogilny making a play from behind the net",
    "outlet": "queen-city-telegram",
    "used_by": [
-    "2004-12-22/queen-city-telegram-the-panic-meter-code-green-because-mogilny-has-29-assists-and-i-was-wr",
-    "2005-01-04/queen-city-telegram-mogilny-out-one-more-night-back-tomorrow-the-lineup-completes-itself-b"
+    "2004-12-22/queen-city-telegram-the-panic-meter-code-green-because-mogilny-has-29-assists-and-i-was-wr"
    ],
    "made": "2026-09-14"
   },
@@ -1978,9 +1976,7 @@
    "outlet": "slot-report",
    "used_by": [
     "2004-12-22/slot-report-218-days-lost-the-most-injured-team-in-hockey-is-being-carried-by-a-39",
-    "2004-12-28/rinkside-the-hands-never-left-mario-lemieux-at-39-on-pace-for-167-in-a-room-tha",
-    "2005-01-04/penalty-box-a-75-on-the-fourth-line-a-68-at-2c-switch-them-coach",
-    "2005-01-04/hockey-gazette-mario-lemieux-is-39-and-second-in-the-league-in-points-per-game-and-pi"
+    "2004-12-28/rinkside-the-hands-never-left-mario-lemieux-at-39-on-pace-for-167-in-a-room-tha"
    ],
    "made": "2026-09-14"
   },
@@ -2456,36 +2452,38 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2005-01-04-hot-stove-rumor-meter-five-of-the-twelve-men-signe-1.png",
-   "scene": "Chad Kilger, Montreal Canadiens left winger, sits on the bench during a game at the Bell Centre in the white 2004-05 road sweater with his surname across the shoulders, left arm wrapped and elevated, watching a line change through the glass, arena fluorescent light, medium shot from behind the bench showing the empty seat beside him and the rink beyond",
+   "path": "images/library/2005-01-04-the-tunnel-sundin-buries-three-at-new-jersey-and-the-shorter-shift-shows.png",
+   "scene": "candid colour television still from the mid-2000s, a 33-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "bench",
-    "injury",
-    "kilger",
-    "mtl"
+    "interview",
+    "postgame",
+    "sundin",
+    "tor"
    ],
-   "alt": "Kilger watches from the bench, arm wrapped, the Canadiens' newest signing already unavailable",
-   "outlet": "hot-stove",
+   "alt": "Jan Kowalczyk interviews Mats Sundin in the tunnel at New Jersey after a 4-1 road win",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2005-01-04/hot-stove-rumor-meter-five-of-the-twelve-men-signed-since-december-29-are-alread"
+    "the-tunnel-sundin-buries-three-at-new-jersey-and-the-shorter-shift-shows"
    ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   },
   {
-   "path": "images/library/2005-01-04-queen-city-telegram-danforth-i-was-wrong-about-four-things-t-1.png",
-   "scene": "Mats Sundin, Toronto Maple Leafs number 13 in the dark 2004-05 home sweater, skating through the neutral zone with the puck during a game at the Air Canada Centre, a New Jersey Devils defender in white trailing behind him, telephoto from the glass at centre ice, arena light reflecting off the ice",
+   "path": "images/library/2005-01-04-the-tunnel-bertuzzi-on-the-shorthanded-back-end-you-miss-the-bodies-plain-and-sim.png",
+   "scene": "candid colour television still from the mid-2000s, a 29-year-old hockey player in a corridor after a game, wearing a navy blue hockey jersey, the jersey navy blue with with maroon, silver and white trim, the breaching orca in a C as the crest, white numbers, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "arena",
-    "sundin",
-    "tor",
-    "veteran"
+    "bertuzzi",
+    "interview",
+    "postgame",
+    "van"
    ],
-   "alt": "Sundin drives through the neutral zone",
-   "outlet": "queen-city-telegram",
+   "alt": "Todd Bertuzzi speaks into a Center Ice microphone in the Vancouver tunnel after a 6-3 home loss to Montreal.",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2005-01-04/queen-city-telegram-danforth-i-was-wrong-about-four-things-this-month-and-the-schedule-is-"
+    "the-tunnel-bertuzzi-on-the-shorthanded-back-end-you-miss-the-bodies-plain-and-sim"
    ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
