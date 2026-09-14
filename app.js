@@ -127,3 +127,33 @@ function rail(s) {
   window.addEventListener("hashchange", render);
   render();
 })();
+
+// The Tunnel's own filter. The header offers Post-game and Sit-downs as links to
+// #postgame and #sitdown, and nothing was listening: the buttons did nothing at all.
+// The kind lives on each row, so filtering is a matter of hiding the rest.
+(function () {
+  const list = document.querySelector(".home-tunnel");
+  if (!list) return;
+  const rows = () => document.querySelectorAll(".home-tunnel .ivrow, .home-tunnel .ivlead");
+  const empty = document.querySelector(".home-tunnel .ivempty");
+  const links = document.querySelectorAll(".masthead nav a, nav a");
+
+  function apply() {
+    const want = (location.hash || "").replace("#", "").trim();
+    const known = want === "postgame" || want === "sitdown" || want === "coach";
+    let shown = 0;
+    rows().forEach(el => {
+      const hit = !known || el.getAttribute("data-kind") === want;
+      el.hidden = !hit;
+      if (hit) shown++;
+    });
+    if (empty) empty.hidden = !(known && shown === 0);
+    links.forEach(a => {
+      const h = (a.getAttribute("href") || "");
+      const mine = known ? h.endsWith("#" + want) : (h.indexOf("#") === -1);
+      a.classList.toggle("cur", !!mine);
+    });
+  }
+  window.addEventListener("hashchange", apply);
+  apply();
+})();
