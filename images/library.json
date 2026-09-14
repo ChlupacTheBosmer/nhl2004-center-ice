@@ -137,8 +137,7 @@
    "outlet": "hot-stove",
    "used_by": [
     "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league",
-    "2004-12-20/the-sweater-a-trophy-on-the-shelf-what-the-hart-did-to-ryan-smyth",
-    "2004-12-22/hot-stove-contract-year-watch-the-1-00m-per-point-team-has-three-expiring-deals-"
+    "2004-12-20/the-sweater-a-trophy-on-the-shelf-what-the-hart-did-to-ryan-smyth"
    ],
    "made": "2026-09-10"
   },
@@ -1260,8 +1259,7 @@
    "alt": "Vokoun in the Nashville net, play cleared to the corner",
    "outlet": "hockey-gazette",
    "used_by": [
-    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an",
-    "2004-12-22/home-ice-network-notes-from-the-west-nashville-s-streak-hits-9-and-25-goals-against-in-"
+    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an"
    ],
    "made": "2026-09-14"
   },
@@ -1864,35 +1862,21 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-22-home-ice-network-morning-skate-notes-columbus-changes-15-1.png",
-   "scene": "Tyler Wright, Columbus Blue Jackets center, in the blue 2004-05 home sweater with red and silver trim, taking a faceoff at a center ice dot during a morning skate at Nationwide Arena, overhead light from the rink ceiling, wide angle showing both benches and the ice markings",
+   "path": "images/library/2004-12-22-the-tunnel-mogilny-on-16-9-minutes-forty-three-points-what-do-you-want-from-me.png",
+   "scene": "candid colour television still from the mid-2000s, a 35-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "cbj",
-    "subject: faceoff",
-    "wright"
+    "interview",
+    "mogilny",
+    "postgame",
+    "tor"
    ],
-   "alt": "Wright at a morning skate faceoff after moving up to the second line in Columbus",
-   "outlet": "home-ice-network",
+   "alt": "Marcus Bell interviews Alexander Mogilny in the corridor after Toronto's 9-2 win over St. Louis.",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2004-12-22/home-ice-network-morning-skate-notes-columbus-changes-15-spots-wright-up-to-the-second-"
+    "the-tunnel-mogilny-on-16-9-minutes-forty-three-points-what-do-you-want-from-me"
    ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2004-12-22-hockey-gazette-award-watch-jaromir-jagr-is-32-and-the-o-1.png",
-   "scene": "Jaromir Jagr, Washington Capitals number 68 in the dark 2004-05 home sweater, cutting to the net past a Carolina Hurricanes defender, low angle from the goal line at the MCI Center, arena light catching the blade spray off his inside edge",
-   "tags": [
-    "arena",
-    "faceoff",
-    "jagr",
-    "wsh"
-   ],
-   "alt": "Jagr drives the net against Carolina at home",
-   "outlet": "hockey-gazette",
-   "used_by": [
-    "2004-12-22/hockey-gazette-award-watch-jaromir-jagr-is-32-and-the-only-man-ahead-of-him-is-34"
-   ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
