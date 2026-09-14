@@ -1980,7 +1980,8 @@
     "2004-12-22/slot-report-218-days-lost-the-most-injured-team-in-hockey-is-being-carried-by-a-39",
     "2004-12-28/rinkside-the-hands-never-left-mario-lemieux-at-39-on-pace-for-167-in-a-room-tha",
     "2005-01-04/penalty-box-a-75-on-the-fourth-line-a-68-at-2c-switch-them-coach",
-    "2005-01-04/hockey-gazette-mario-lemieux-is-39-and-second-in-the-league-in-points-per-game-and-pi"
+    "2005-01-04/hockey-gazette-mario-lemieux-is-39-and-second-in-the-league-in-points-per-game-and-pi",
+    "2005-01-04/the-sweater-first-overall-twenty-one-years-later-lemieux-s-66-points-and-pittsburg"
    ],
    "made": "2026-09-14"
   },
@@ -2496,6 +2497,37 @@
     "la"
    ],
    "alt": "Cammalleri drives the left wing past a Chicago defender at the Staples Center",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2005-01-04/prospect-file-the-49th-pick-from-2001-now-outrates-11-of-that-draft-s-first-rounders"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-04-the-sweater-first-overall-twenty-one-years-later-lem-1.png",
+   "scene": "Mario Lemieux, Pittsburgh Penguins number 66 in the dark 2004-05 home sweater, carrying the puck through the neutral zone at the Mellon Arena, a Columbus Blue Jackets defender trailing at the blue line, telephoto from the press box, cold arena light reflecting off the ice",
+   "tags": [
+    "arena",
+    "lemieux",
+    "pit",
+    "veteran"
+   ],
+   "alt": "Lemieux in transition at home",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2005-01-04/the-sweater-first-overall-twenty-one-years-later-lemieux-s-66-points-and-pittsburg"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-04-prospect-file-the-49th-pick-from-2001-now-outrates-11-2.png",
+   "scene": "Mike Cammalleri, Los Angeles Kings, in the black 2004-05 home sweater, taking a shot from the right circle against a Philadelphia Flyers goaltender in the white road sweater at the Staples Center, low angle from the boards behind the net, crowd blurred in the background",
+   "tags": [
+    "cammalleri",
+    "faceoff",
+    "la"
+   ],
+   "alt": "Cammalleri releases a shot from the right circle",
    "outlet": "prospect-file",
    "used_by": [
     "2005-01-04/prospect-file-the-49th-pick-from-2001-now-outrates-11-of-that-draft-s-first-rounders"
