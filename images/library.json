@@ -301,7 +301,8 @@
    "used_by": [
     "2004-12-07/penalty-box-78-to-watch-cliff-ronning-play-8-8-minutes-philadelphia-is-the-new-mos",
     "2004-12-28/the-sweater-a-fifty-faceoff-captain-tony-amonte-and-the-geometry-of-heart",
-    "2004-12-29/penalty-box-profit-king-losing-king-minnesota-made-32-57-million-the-roster-cost-2"
+    "2004-12-29/penalty-box-profit-king-losing-king-minnesota-made-32-57-million-the-roster-cost-2",
+    "2005-01-10/penalty-box-87-5-and-checked-out-the-islanders-are-making-16-87-million-off-a-room"
    ],
    "made": "2026-09-10"
   },
@@ -2704,6 +2705,38 @@
    "outlet": "prospect-file",
    "used_by": [
     "2005-01-08/prospect-file-i-saw-him-when-the-12th-pick-has-a-94-and-a-coach-who-said-his-name"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-10-penalty-box-87-5-and-checked-out-the-islanders-are-m-1.png",
+   "scene": "Garth Snow of the New York Islanders in the blue 2004-05 home sweater, goaltender's equipment fully visible: painted mask with cage, oversized leg pads, blocker and catcher glove, sweater cut wide over chest protector. Standing in the crease at the Nassau Coliseum, shoulders slightly slumped, one leg pad angled out, the ice in front of him empty under cold arena fluorescent light. Camera at ice level from the front of the crease, telephoto.",
+   "tags": [
+    "goalie",
+    "ice",
+    "nyi",
+    "snow"
+   ],
+   "alt": "Snow alone in the crease",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2005-01-10/penalty-box-87-5-and-checked-out-the-islanders-are-making-16-87-million-off-a-room"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-10-home-ice-network-notes-from-the-central-nashville-sits-at-1.png",
+   "scene": "Tomas Vokoun of the Nashville Predators in the dark home sweater, the club crest on the chest, in full goaltending equipment: a painted mask with a cage, oversized leg pads, a blocker on one hand, a catching glove on the other, the sweater cut wide over a chest protector. He is set in the crease, tracking a San Jose Sharks forward who carries the puck across the blue line. Seen from the front, telephoto from the goal-side corner, arena light",
+   "tags": [
+    "arena",
+    "goalie",
+    "nsh",
+    "vokoun"
+   ],
+   "alt": "Vokoun set in the crease during a Nashville home game",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-10/home-ice-network-notes-from-the-central-nashville-sits-at-58-points-and-nobody-is-writi"
    ],
    "made": "2026-09-14"
   }
