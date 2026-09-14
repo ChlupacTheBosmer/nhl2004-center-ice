@@ -233,7 +233,8 @@
    "used_by": [
     "2004-12-04/queen-city-telegram-danforth-10-straight-wins-and-the-only-number-i-care-about-is-1-00m",
     "2004-12-07/slot-report-dollar-per-point-the-expiring-class-ranked",
-    "2004-12-20/rinkside-at-40-the-shot-is-still-the-story-brett-hull-s-last-year"
+    "2004-12-20/rinkside-at-40-the-shot-is-still-the-story-brett-hull-s-last-year",
+    "2005-01-08/hockey-gazette-the-kings-have-won-six-straight-and-the-man-carrying-them-is-32-and-gr"
    ],
    "made": "2026-09-10"
   },
@@ -1254,7 +1255,8 @@
    "outlet": "the-sweater",
    "used_by": [
     "2004-12-11/the-sweater-sons-of-hay-river-where-geoff-sanderson-learned-to-score",
-    "2005-01-05/the-sweater-the-long-way-round-geoff-sanderson-s-road-to-77-points-in-columbus"
+    "2005-01-05/the-sweater-the-long-way-round-geoff-sanderson-s-road-to-77-points-in-columbus",
+    "2005-01-08/penalty-box-he-picked-columbus-you-pay-81-to-sit-anywhere-else"
    ],
    "made": "2026-09-14"
   },
@@ -2357,7 +2359,8 @@
    "alt": "Petr Chlup skates alone during a morning skate",
    "outlet": "queen-city-telegram",
    "used_by": [
-    "2005-01-01/queen-city-telegram-chlup-returns-january-3-and-the-devils-are-the-first-thing-he-sees"
+    "2005-01-01/queen-city-telegram-chlup-returns-january-3-and-the-devils-are-the-first-thing-he-sees",
+    "2005-01-08/queen-city-telegram-danforth-petr-chlup-doesn-t-want-blowout-minutes-and-the-contracts-tel"
    ],
    "made": "2026-09-14"
   },
@@ -2604,38 +2607,102 @@
    "source": "pod-instantid"
   },
   {
-   "path": "images/library/2005-01-08-the-tunnel-richards-names-the-invisible-job-finally.png",
-   "scene": "candid colour television still from the mid-2000s, a 24-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2005-01-08-hot-stove-rumor-meter-3-of-4-men-signed-january-2-1.png",
+   "scene": "Greg Hawgood in a New York Islanders home dark blue sweater with the Islanders crest on the chest, standing on the ice at Nassau Coliseum, seen from the front at the blue line, arms crossed, helmet with clear half visor, arena light casting hard shadow, telephoto from the lower bowl",
    "tags": [
-    "interview",
-    "postgame",
-    "richards",
-    "tor"
+    "arena",
+    "injury",
+    "nyi",
+    "veteran"
    ],
-   "alt": "Jan Kowalczyk interviews Brad Richards in the tunnel after Toronto's 5-0 win over Boston on January 7, 2005.",
-   "outlet": "the-tunnel",
+   "alt": "Greg Hawgood reports to the Islanders, whose IR carries 7 players",
+   "outlet": "hot-stove",
    "used_by": [
-    "the-tunnel-richards-names-the-invisible-job-finally"
+    "2005-01-08/hot-stove-rumor-meter-3-of-4-men-signed-january-2-are-already-on-ir-the-only-sur"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2005-01-08-the-tunnel-luongo-the-crowd-helps-me-track.png",
-   "scene": "candid colour television still from the mid-2000s, a 25-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with red, navy and gold trim, the leaping panther crest on the chest, red numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2005-01-08-home-ice-network-goalie-watch-cechmanek-starts-again-in-l-1.png",
+   "scene": "Roman Cechmanek of the Los Angeles Kings in the black 2004-05 home sweater with the Kings crest on the chest, standing upright in the crease at Staples Center, full goaltending equipment including a painted mask with cage, oversized leg pads, blocker on the right hand, and catching glove on the left, seen from the front, telephoto from the corner boards, arena light",
    "tags": [
-    "fla",
-    "interview",
-    "luongo",
-    "postgame"
+    "cechmanek",
+    "crease",
+    "goalie",
+    "la"
    ],
-   "alt": "Kowalczyk interviews Luongo in the tunnel after Florida's 3-2 road win in Vancouver.",
-   "outlet": "the-tunnel",
+   "alt": "Cechmanek in the crease during a home game",
+   "outlet": "home-ice-network",
    "used_by": [
-    "the-tunnel-luongo-the-crowd-helps-me-track"
+    "2005-01-08/home-ice-network-goalie-watch-cechmanek-starts-again-in-los-angeles-and-6-straight-wins"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-08-home-ice-network-the-infirmary-ottawa-has-lost-25-days-to-1.png",
+   "scene": "Patrick Lalime of the Ottawa Senators in the black 2004-05 home sweater with the Senators crest on the chest, crouched in the crease at the Corel Centre, full goaltending equipment including a painted mask with cage, oversized leg pads, blocker on the right hand, and catching glove on the left, seen from behind the net, wide angle, arena light",
+   "tags": [
+    "crease",
+    "goalie",
+    "lalime",
+    "ott"
+   ],
+   "alt": "Lalime set in the crease during a home game",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-08/home-ice-network-the-infirmary-ottawa-has-lost-25-days-to-injury-fewest-in-the-league-a"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-08-queen-city-telegram-leafs-5-bruins-0-second-straight-clean-s-1.png",
+   "scene": "Rostislav Klesla of the Toronto Maple Leafs in the dark 2004-05 home sweater, the crest on his chest, stepping across his own blue line with a Boston Bruins forward in a white road sweater closing on his back at the Air Canada Centre, seen from the front, telephoto from the corner behind the net, arena light",
+   "tags": [
+    "arena",
+    "bos",
+    "defense",
+    "klesla",
+    "tor"
+   ],
+   "alt": "Klesla carries the puck out of the defensive zone against a Boston forward",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2005-01-08/queen-city-telegram-leafs-5-bruins-0-second-straight-clean-sheet-and-the-road-starts-monda"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-08-rinkside-the-first-time-he-picked-a-place-geoff-s-1.png",
+   "scene": "Geoff Sanderson of the Columbus Blue Jackets in the navy 2004-05 home sweater with the blue and red crest on the chest, standing at the faceoff dot in the neutral zone, stick on the ice, looking down the ice with his mouthguard visible through the half visor. A New Jersey Devils defender in the red road sweater is crouched across from him at the dot. The camera is low, just behind and to the side of the dot, telephoto, arena light overhead, the blue seats of Nationwide Arena visible and half empty behind the far boards.",
+   "tags": [
+    "arena",
+    "cbj",
+    "faceoff",
+    "sanderson"
+   ],
+   "alt": "Sanderson at the faceoff dot in a half-empty Columbus arena",
+   "outlet": "rinkside",
+   "used_by": [
+    "2005-01-08/rinkside-the-first-time-he-picked-a-place-geoff-sanderson-32-and-the-164-pace-n"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-08-prospect-file-i-saw-him-when-the-12th-pick-has-a-94-an-1.png",
+   "scene": "Roger Nylander of the San Jose Sharks in the dark 2004-05 home sweater, the Sharks logo on the chest, no league shield on the front, driving to the net past a Chicago Blackhawks defender at the SharkTank, seen from the boards at the half-wall, telephoto from the corner, arena light",
+   "tags": [
+    "2004 draft",
+    "arena",
+    "nylander",
+    "rookie",
+    "sj"
+   ],
+   "alt": "Nylander drives the net against Chicago",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2005-01-08/prospect-file-i-saw-him-when-the-12th-pick-has-a-94-and-a-coach-who-said-his-name"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
