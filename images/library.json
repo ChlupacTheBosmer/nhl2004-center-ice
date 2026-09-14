@@ -233,7 +233,8 @@
    "used_by": [
     "2004-12-04/queen-city-telegram-danforth-10-straight-wins-and-the-only-number-i-care-about-is-1-00m",
     "2004-12-07/slot-report-dollar-per-point-the-expiring-class-ranked",
-    "2004-12-20/rinkside-at-40-the-shot-is-still-the-story-brett-hull-s-last-year"
+    "2004-12-20/rinkside-at-40-the-shot-is-still-the-story-brett-hull-s-last-year",
+    "2005-01-08/hockey-gazette-the-kings-have-won-six-straight-and-the-man-carrying-them-is-32-and-gr"
    ],
    "made": "2026-09-10"
   },
@@ -1254,7 +1255,8 @@
    "outlet": "the-sweater",
    "used_by": [
     "2004-12-11/the-sweater-sons-of-hay-river-where-geoff-sanderson-learned-to-score",
-    "2005-01-05/the-sweater-the-long-way-round-geoff-sanderson-s-road-to-77-points-in-columbus"
+    "2005-01-05/the-sweater-the-long-way-round-geoff-sanderson-s-road-to-77-points-in-columbus",
+    "2005-01-08/penalty-box-he-picked-columbus-you-pay-81-to-sit-anywhere-else"
    ],
    "made": "2026-09-14"
   },
@@ -2616,6 +2618,22 @@
    "outlet": "hot-stove",
    "used_by": [
     "2005-01-08/hot-stove-rumor-meter-3-of-4-men-signed-january-2-are-already-on-ir-the-only-sur"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-08-home-ice-network-goalie-watch-cechmanek-starts-again-in-l-1.png",
+   "scene": "Roman Cechmanek of the Los Angeles Kings in the black 2004-05 home sweater with the Kings crest on the chest, standing upright in the crease at Staples Center, full goaltending equipment including a painted mask with cage, oversized leg pads, blocker on the right hand, and catching glove on the left, seen from the front, telephoto from the corner boards, arena light",
+   "tags": [
+    "cechmanek",
+    "crease",
+    "goalie",
+    "la"
+   ],
+   "alt": "Cechmanek in the crease during a home game",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-08/home-ice-network-goalie-watch-cechmanek-starts-again-in-los-angeles-and-6-straight-wins"
    ],
    "made": "2026-09-14"
   }
