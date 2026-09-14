@@ -2619,6 +2619,23 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-01-08-the-tunnel-luongo-the-crowd-helps-me-track.png",
+   "scene": "candid colour television still from the mid-2000s, a 25-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with red, navy and gold trim, the leaping panther crest on the chest, red numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "fla",
+    "interview",
+    "luongo",
+    "postgame"
+   ],
+   "alt": "Kowalczyk interviews Luongo in the tunnel after Florida's 3-2 road win in Vancouver.",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-luongo-the-crowd-helps-me-track"
+   ],
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
