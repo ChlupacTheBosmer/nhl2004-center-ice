@@ -273,8 +273,7 @@
    "outlet": "penalty-box",
    "used_by": [
     "2004-12-07/penalty-box-78-to-watch-cliff-ronning-play-8-8-minutes-philadelphia-is-the-new-mos",
-    "2004-12-28/the-sweater-a-fifty-faceoff-captain-tony-amonte-and-the-geometry-of-heart",
-    "2005-01-15/hot-stove-rumor-meter-philadelphia-signed-two-men-on-january-11-both-are-on-ir-b"
+    "2004-12-28/the-sweater-a-fifty-faceoff-captain-tony-amonte-and-the-geometry-of-heart"
    ],
    "made": "2026-09-10"
   },
@@ -3062,83 +3061,21 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2005-01-15-home-ice-network-flyers-sign-2-play-2-lose-2-1.png",
-   "scene": "Keith Primeau of the Philadelphia Flyers in the dark 2004-05 home sweater, orange and white, the Flyers wordmark across the chest, a clear half visor on his black helmet, carrying the puck up the left wing past an Atlanta Thrashers defender in a blue and gold road sweater, seen from the boards at center ice, arena light from above, telephoto lens compressing the two figures",
+   "path": "images/library/2005-01-15-the-tunnel-belfour-s-15th-win-and-the-one-save-he-wanted-back.png",
+   "scene": "candid colour television still from the mid-2000s, a 39-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "faceoff",
-    "phi",
-    "primeau",
-    "veteran"
-   ],
-   "alt": "Primeau in his first game as a Flyer",
-   "outlet": "home-ice-network",
-   "used_by": [
-    "2005-01-15/home-ice-network-flyers-sign-2-play-2-lose-2"
-   ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2005-01-15-home-ice-network-the-infirmary-pittsburgh-has-lost-376-da-1.png",
-   "scene": "Johan Hedberg, goaltender of the Pittsburgh Penguins, in full goaltending equipment: a painted white mask with cage, oversized white leg pads, a white blocker on one hand and a white catching glove on the other, the dark 2004-05 Penguins home sweater cut wide over a chest protector, crouched in the crease tracking a Boston Bruins shot from the point, seen from behind the net at a low angle, arena light reflecting off the ice",
-   "tags": [
-    "faceoff",
-    "goalie",
-    "hedberg",
-    "pit"
-   ],
-   "alt": "Hedberg back in the Pittsburgh crease",
-   "outlet": "home-ice-network",
-   "used_by": [
-    "2005-01-15/home-ice-network-the-infirmary-pittsburgh-has-lost-376-days-to-injury-the-league-s-most"
-   ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2005-01-15-penalty-box-12-051-empty-seats-an-80-on-the-fourth-l-1.png",
-   "scene": "Ladislav Nagy of the Phoenix Coyotes in the dark 2004-05 home sweater, standing at the blue line during warmups with his stick on the ice, seen from the front, wide-angle showing the vast empty seating bowl behind him, cold arena fluorescent light, sparse groups of fans in the upper deck",
-   "tags": [
-    "arena",
-    "faceoff",
-    "nagy",
-    "phx"
-   ],
-   "alt": "Nagy alone on the ice at America West Arena with thousands of empty seats visible",
-   "outlet": "penalty-box",
-   "used_by": [
-    "2005-01-15/penalty-box-12-051-empty-seats-an-80-on-the-fourth-line-and-a-66-playing-first-pai"
-   ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2005-01-15-hockey-gazette-ilya-kovalchuk-is-21-pacing-154-points-a-1.png",
-   "scene": "Ilya Kovalchuk of the Atlanta Thrashers in the dark home sweater with the Thrashers crest on the chest, skating with the puck on his backhand side, a Chicago Blackhawks defender trailing on his left shoulder, seen from the front at the blue line during a game at Philips Arena, arena lighting, telephoto from the boards",
-   "tags": [
-    "atl",
-    "faceoff",
-    "kovalchuk"
-   ],
-   "alt": "Kovalchuk carries the puck up ice in Atlanta's home sweater",
-   "outlet": "hockey-gazette",
-   "used_by": [
-    "2005-01-15/hockey-gazette-ilya-kovalchuk-is-21-pacing-154-points-and-the-next-player-on-the-atla"
-   ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2005-01-15-queen-city-telegram-leafs-road-trip-starts-with-a-matchup-wa-1.png",
-   "scene": "Petr Chlup of the Toronto Maple Leafs in the white 2004-05 road sweater, the leaf crest on the chest, skating a controlled lap at the Verizon Center in Landover, Maryland, seen from the boards at centre ice, telephoto from the far-side press box, fluorescent arena light",
-   "tags": [
-    "arena",
-    "chlup",
-    "rookie",
+    "belfour",
+    "interview",
+    "postgame",
     "tor"
    ],
-   "alt": "Chlup skates a warm-up lap before practice at the Verizon Center",
-   "outlet": "queen-city-telegram",
+   "alt": "Ed Belfour in his Toronto sweater holds his goalie glove and talks with Marcus Bell in the tunnel after a 7-1 win over Calgary.",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2005-01-15/queen-city-telegram-leafs-road-trip-starts-with-a-matchup-washington-handed-them"
+    "the-tunnel-belfour-s-15th-win-and-the-one-save-he-wanted-back"
    ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
