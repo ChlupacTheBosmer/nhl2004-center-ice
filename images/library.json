@@ -2723,6 +2723,23 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-01-10-the-tunnel-brodeur-on-the-shutout-that-never-comes-twenty-two-wins-and-not-one-ze.png",
+   "scene": "candid colour television still from the mid-2000s, a 32-year-old hockey player in a corridor after a game, wearing a red hockey jersey, the jersey red with with black stripes and white trim, the NJ-devil crest in a circle on the chest, white numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "brodeur",
+    "interview",
+    "nj",
+    "postgame"
+   ],
+   "alt": "Marcus Bell interviews Martin Brodeur in the tunnel after New Jersey's 3-2 win over Montreal",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-brodeur-on-the-shutout-that-never-comes-twenty-two-wins-and-not-one-ze"
+   ],
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
