@@ -452,7 +452,8 @@
    "used_by": [
     "2004-12-07/the-sweater-second-act-bill-guerin-came-back-to-the-club-that-let-him-go",
     "2004-12-20/rinkside-at-40-the-shot-is-still-the-story-brett-hull-s-last-year",
-    "2004-12-29/rinkside-the-jordan-promise-six-years-late-vincent-lecavalier-at-24"
+    "2004-12-29/rinkside-the-jordan-promise-six-years-late-vincent-lecavalier-at-24",
+    "2005-01-01/penalty-box-eight-wins-56-63-million-11-39-million-in-profit-the-st-louis-get-rich"
    ],
    "made": "2026-09-11"
   },
@@ -2428,6 +2429,23 @@
    "outlet": "home-ice-network",
    "used_by": [
     "2005-01-01/home-ice-network-goalie-watch-new-jersey-has-played-35-games-lost-49-days-to-injury-and"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-01-hockey-gazette-the-bubble-watch-martin-biron-has-a-4-33-1.png",
+   "scene": "Martin Biron, Buffalo Sabres number 32, in the white 2004-05 road sweater with blue and gold trim, standing tall in the crease with both pads down in a butterfly, a Carolina Hurricanes forward in a red home sweater approaching from the right circle. HSBC Arena, blue and gold seats visible in the background, arena light from above, telephoto from the end boards capturing the save attempt at the goal line.",
+   "tags": [
+    "arena",
+    "biron",
+    "buf",
+    "goalie",
+    "save"
+   ],
+   "alt": "Martin Biron makes a butterfly save in Buffalo's crease against Carolina",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2005-01-01/hockey-gazette-the-bubble-watch-martin-biron-has-a-4-33-goals-against-average-and-buf"
    ],
    "made": "2026-09-14"
   }
