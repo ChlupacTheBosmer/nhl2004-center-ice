@@ -53,7 +53,8 @@
     "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe",
     "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says",
     "2004-12-29/queen-city-telegram-the-panic-meter-code-green-and-i-despise-saying-that",
-    "2005-01-01/hot-stove-rumor-meter-two-depth-forwards-signed-this-week-both-are-on-the-ir-bef"
+    "2005-01-01/hot-stove-rumor-meter-two-depth-forwards-signed-this-week-both-are-on-the-ir-bef",
+    "2005-01-10/rinkside-undrafted-unselected-and-the-fastest-player-on-the-fourth-best-team-in"
    ],
    "made": "2026-09-10"
   },
@@ -2788,6 +2789,22 @@
    "outlet": "prospect-file",
    "used_by": [
     "2005-01-10/prospect-file-2005-mock-draft-1-0-three-99s-and-the-grades-that-don-t-match"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-10-hot-stove-rumor-meter-the-3-unhappiest-men-in-the-2.png",
+   "scene": "Geoff Sanderson of the Columbus Blue Jackets in the blue 2004-05 home sweater, raising his stick after a goal. A Detroit Red Wings defenceman in the white road sweater slides past in the background. Seen from the side, telephoto from the benches, arena light.",
+   "tags": [
+    "cbj",
+    "celebration",
+    "sanderson",
+    "veteran"
+   ],
+   "alt": "Sanderson celebrates a goal against Detroit",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2005-01-10/hot-stove-rumor-meter-the-3-unhappiest-men-in-the-league-wear-columbus-sweaters-"
    ],
    "made": "2026-09-14"
   }
