@@ -47,7 +47,8 @@
    "used_by": [
     "2004-12-04/queen-city-telegram-danforth-brad-richards-is-the-answer-and-that-is-what-terrifies-me",
     "2004-12-07/queen-city-telegram-league-best-offense-meets-east-best-defense-when-the-devils-visit-the-",
-    "2004-12-13/the-sweater-second-overall-finally-the-education-of-david-legwand"
+    "2004-12-13/the-sweater-second-overall-finally-the-education-of-david-legwand",
+    "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe"
    ],
    "made": "2026-09-10"
   },
@@ -118,7 +119,8 @@
    "used_by": [
     "2004-12-04/hot-stove-sources-morale-problems-brewing-in-minnesota",
     "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10",
-    "2004-12-17/rinkside-at-27-we-finally-know-who-he-is-the-making-of-jean-sebastien-giguere"
+    "2004-12-17/rinkside-at-27-we-finally-know-who-he-is-the-making-of-jean-sebastien-giguere",
+    "2004-12-19/home-ice-network-injury-report-kings-lose-visnovsky-unspecified-return-targeted-for-dec"
    ],
    "made": "2026-09-10"
   },
@@ -199,7 +201,8 @@
    "alt": "Aebischer covering the five-hole in the 6-0 shutout of Tampa Bay on December 3",
    "outlet": "queen-city-telegram",
    "used_by": [
-    "2004-12-04/queen-city-telegram-injury-desk-belfour-returns-tomorrow-and-aebischer-has-no-reason-to-gi"
+    "2004-12-04/queen-city-telegram-injury-desk-belfour-returns-tomorrow-and-aebischer-has-no-reason-to-gi",
+    "2004-12-19/queen-city-telegram-goalie-room-aebischer-takes-g1-and-the-index-does-the-arguing-for-him"
    ],
    "made": "2026-09-10"
   },
@@ -362,7 +365,8 @@
    "alt": "Lightning players celebrate one of their 7 goals against Edmonton",
    "outlet": "home-ice-network",
    "used_by": [
-    "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10"
+    "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10",
+    "2004-12-19/the-sweater-the-michael-jordan-of-hockey-six-years-later-vincent-lecavalier-at-24"
    ],
    "made": "2026-09-10"
   },
@@ -1188,7 +1192,8 @@
    "used_by": [
     "2004-12-11/rinkside-the-league-s-scoring-defenseman-plays-for-the-team-that-can-t-keep-puc",
     "2004-12-13/rinkside-the-reinvention-of-mike-komisarek",
-    "2004-12-13/rinkside-the-reinvention-of-mike-komisarek"
+    "2004-12-13/rinkside-the-reinvention-of-mike-komisarek",
+    "2004-12-19/prospect-file-i-saw-him-when-mike-komisarek-and-the-7th-pick-s-39-point-leap"
    ],
    "made": "2026-09-14"
   },
@@ -1664,38 +1669,98 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-19-the-tunnel-gaborik-one-second-and-i-am-there.png",
-   "scene": "candid colour television still from the mid-2000s, a 22-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-19-hot-stove-rumor-meter-the-league-s-most-expensive-1.png",
+   "scene": "Chris Pronger, St. Louis Blues number 44 in the dark blue home sweater, standing at the blue line behind the play with his stick flat on the ice, reading the rush from a visiting team's forward in the white road sweater, telephoto from behind the net, arena light catching the shoulders and the Pronger nameplate",
    "tags": [
-    "gaborik",
-    "interview",
-    "postgame",
-    "tor"
+    "pronger",
+    "stl",
+    "veteran"
    ],
-   "alt": "Marian Gaborik speaks with Marcus Bell in the corridor after Toronto's 4-2 win at Florida on December 18.",
-   "outlet": "the-tunnel",
+   "alt": "Pronger at the blue line reading the play",
+   "outlet": "hot-stove",
    "used_by": [
-    "the-tunnel-gaborik-one-second-and-i-am-there"
+    "2004-12-19/hot-stove-rumor-meter-the-league-s-most-expensive-expiring-deal-sits-on-an-8-17-"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-19-the-tunnel-turco-points-to-the-first-not-the-third-after-phi-blows-out-dallas.png",
-   "scene": "candid colour television still from the mid-2000s, a 29-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with green, black and gold trim, the green star crest on the chest, green numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-19-home-ice-network-recap-philadelphia-5-dallas-1-a-7-game-s-1.png",
+   "scene": "Jeff Hackett, Philadelphia Flyers goaltender in the orange 2004-05 home sweater with black and white trim, pushing a puck away with his left pad at the left post at the Wachovia Center while a Dallas Stars forward in the white road sweater closes in, telephoto from the side boards, arena light",
    "tags": [
+    "arena",
     "dal",
-    "interview",
-    "postgame",
-    "turco"
+    "goalie",
+    "hackett",
+    "phi"
    ],
-   "alt": "Jan Kowalczyk interviews Marty Turco in the tunnel after a road loss",
-   "outlet": "the-tunnel",
+   "alt": "Hackett makes a save during the Flyers' 5-1 win over Dallas",
+   "outlet": "home-ice-network",
    "used_by": [
-    "the-tunnel-turco-points-to-the-first-not-the-third-after-phi-blows-out-dallas"
+    "2004-12-19/home-ice-network-recap-philadelphia-5-dallas-1-a-7-game-skid-ends-behind-hackett-s-retu"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-penalty-box-the-3-50-million-man-who-wants-out-edmon-1.png",
+   "scene": "Tommy Salo, Edmonton Oilers number 31 in the blue 2004-05 home sweater, standing alone on his crease at Skyreach Centre, looking back over his left shoulder toward empty benches, his goalie mask tucked under his arm, the ice stretched out behind him, telephoto from behind the net, cold blue arena light on the boards",
+   "tags": [
+    "edm",
+    "salo",
+    "subject: bench",
+    "subject: goalie"
+   ],
+   "alt": "Salo stands alone on his crease, mask under his arm, staring at nothing",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-19/penalty-box-the-3-50-million-man-who-wants-out-edmonton-s-goalie-outranks-the-hart"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-hockey-gazette-the-blaine-rankings-week-7-the-oilers-bu-1.png",
+   "scene": "Mike Comrie, Edmonton Oilers number 22 in the blue and orange 2004-05 home sweater, driving through the neutral zone with the puck on his forehand, a blurred Columbus Blue Jackets defender trailing on his left shoulder, low telephoto from the glass behind the Oilers bench, arena light from above",
+   "tags": [
+    "comrie",
+    "edm",
+    "faceoff"
+   ],
+   "alt": "Mike Comrie carries the puck through the neutral zone at Skyreach Centre",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-19/hockey-gazette-the-blaine-rankings-week-7-the-oilers-buy-the-second-cheapest-point-in"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-queen-city-telegram-danforth-21-shots-4-goals-a-9-3-road-rec-1.png",
+   "scene": "Marian Gaborik, Toronto Maple Leafs number 10, in the white 2004-05 road sweater, stickhandling through the neutral zone against a Tampa Bay Lightning defender in a blue home sweater at the St. Pete Times Forum, telephoto from the blue line, arena light overhead, Gaborik's head up scanning the far post",
+   "tags": [
+    "gaborik",
+    "subject: faceoff",
+    "team:tor"
+   ],
+   "alt": "Gaborik carries the puck through the neutral zone in road gear at Tampa",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-19/queen-city-telegram-danforth-21-shots-4-goals-a-9-3-road-record-and-i-still-cannot-find-a-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-rinkside-22-8-minutes-a-night-the-year-alexander-1.png",
+   "scene": "Alexander Frolov, Los Angeles Kings number 24 in the black 2004-05 home sweater, carrying the puck up the left wing with his stick extended toward the blue line, a New Jersey Devils defender in the white road sweater trailing a half-stride behind. The glass is low in the frame, the crowd is a dark smear above. Telephoto from the bench side, arena light catching the top of the visor.",
+   "tags": [
+    "arena",
+    "frolov",
+    "la",
+    "veteran"
+   ],
+   "alt": "Frolov carries the puck into the offensive zone with a trailing defender",
+   "outlet": "rinkside",
+   "used_by": [
+    "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
