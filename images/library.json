@@ -1324,49 +1324,37 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-15-the-sweater-twenty-four-goals-and-nowhere-to-go-jaro-1.png",
-   "scene": "Jarome Iginla, Calgary Flames number 12 in the red 2004-05 home sweater, splitting the hash marks to the net with the puck on his forehand, a Colorado Avalanche defender in the white road sweater chasing his hip, at the Pengrowth Saddledome, low angle from behind the goal line, arena light, 400mm telephoto",
+   "path": "images/library/2004-12-15-the-tunnel-the-few-minutes-spent-petr-chlup-turns-11-6-into-11-goals.png",
+   "scene": "Petr Chlup, the exact same person as in the reference image, his face unchanged, wearing the Toronto Maple Leafs home sweater of the mid-2000s: royal blue body with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, a reporter's handheld broadcast microphone held up to him from the edge of the frame, at the boards by the bench, the ice behind them behind him out of focus, television lighting. No words or letters anywhere in the picture.",
    "tags": [
-    "celebration",
-    "cgy",
-    "iginla"
+    "chlup",
+    "interview",
+    "postgame",
+    "tor"
    ],
-   "alt": "Iginla cutting to the net past an Avalanche defender",
-   "outlet": "the-sweater",
+   "alt": "Marcus Bell interviews Petr Chlup in the tunnel, Chlup in a wet white sweaters with a 69",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2004-12-15/the-sweater-twenty-four-goals-and-nowhere-to-go-jarome-iginla-s-winter-in-calgary"
+    "the-tunnel-the-few-minutes-spent-petr-chlup-turns-11-6-into-11-goals"
    ],
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-15-the-sweater-twenty-four-goals-and-nowhere-to-go-jaro-2.png",
-   "scene": "Jarome Iginla, Calgary Flames number 12 in the red 2004-05 home sweater, helmet off, sitting on the bench with his gloves off and his hands on his knees after a loss, the bench behind him empty, the scoreboard showing a five-goal deficit, dark arena light, from the tunnel side of the bench",
+   "path": "images/library/2004-12-15-the-tunnel-joe-thornton-on-the-new-look-line-30-goals-in-30-games-and-a-loss-that.png",
+   "scene": "candid colour television still from the mid-2000s, a 25-year-old hockey player in a corridor after a game, wearing a black hockey jersey, the jersey black with with gold and white stripes, the spoked-B crest on the chest, white numbers outlined in gold, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "bench",
-    "cgy",
-    "iginla"
+    "bos",
+    "interview",
+    "postgame",
+    "thornton"
    ],
-   "alt": "Iginla alone on the bench after a loss",
-   "outlet": "the-sweater",
+   "alt": "Thornton leaning in the tunnel after the Ottawa loss",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2004-12-15/the-sweater-twenty-four-goals-and-nowhere-to-go-jarome-iginla-s-winter-in-calgary"
+    "the-tunnel-joe-thornton-on-the-new-look-line-30-goals-in-30-games-and-a-loss-that"
    ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2004-12-15-the-sweater-the-defenceman-who-started-scoring-mike-1.png",
-   "scene": "Mike Komisarek, Montreal Canadiens number 26 in the white 2004-05 road sweater, clearing the front of the net with his stick low and his eyes up the ice, a Boston Bruins forward in the black home sweater boxing him out, at the Bell Centre, wide angle from the corner, arena light",
-   "tags": [
-    "celebration",
-    "komisarek",
-    "mtl"
-   ],
-   "alt": "Komisarek clearing the crease against Boston",
-   "outlet": "the-sweater",
-   "used_by": [
-    "2004-12-15/the-sweater-the-defenceman-who-started-scoring-mike-komisarek-s-borrowed-january"
-   ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
