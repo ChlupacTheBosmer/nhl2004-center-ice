@@ -54,7 +54,8 @@
     "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says",
     "2004-12-29/queen-city-telegram-the-panic-meter-code-green-and-i-despise-saying-that",
     "2005-01-01/hot-stove-rumor-meter-two-depth-forwards-signed-this-week-both-are-on-the-ir-bef",
-    "2005-01-10/rinkside-undrafted-unselected-and-the-fastest-player-on-the-fourth-best-team-in"
+    "2005-01-10/rinkside-undrafted-unselected-and-the-fastest-player-on-the-fourth-best-team-in",
+    "2005-01-14/prospect-file-the-92-speed-nobody-uses-vaclav-nedorost-has-florida-s-best-attributes"
    ],
    "made": "2026-09-10"
   },
@@ -3036,6 +3037,21 @@
    "outlet": "slot-report",
    "used_by": [
     "2005-01-14/slot-report-1-435-vs-2-349-the-ice-time-gap-that-separates-the-best-rooms-from-the"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-14-slot-report-29-97m-35-men-2-349-minutes-minnesota-ru-1.png",
+   "scene": "A wide-angle view of the Xcel Energy Center from the upper bowl, the ice empty, the boards dark with no advertising visible, arena lights casting sharp shadows across the unmarked surface, no crowd, quiet rink, seen from behind the net at a low angle",
+   "tags": [
+    "arena",
+    "empty",
+    "min"
+   ],
+   "alt": "The Xcel Energy Center sits empty between periods",
+   "outlet": "slot-report",
+   "used_by": [
+    "2005-01-14/slot-report-29-97m-35-men-2-349-minutes-minnesota-runs-the-thinnest-bench-in-hocke"
    ],
    "made": "2026-09-14"
   }
