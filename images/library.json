@@ -147,7 +147,8 @@
    "alt": "Toronto's bench during a game in their 2004-05 sweater",
    "outlet": "hot-stove",
    "used_by": [
-    "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league"
+    "2004-12-04/hot-stove-contract-year-watch-5-expiring-deals-and-the-best-record-in-the-league",
+    "2004-12-17/hockey-gazette-defending-the-cup-the-14-is-over-and-the-50-is-still-there"
    ],
    "made": "2026-09-10"
   },
@@ -1485,6 +1486,36 @@
    "outlet": "penalty-box",
    "used_by": [
     "2004-12-17/penalty-box-nine-games-two-34-year-olds-and-a-streak-that-is-borrowed-time"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-hockey-gazette-the-blaine-rankings-week-5-the-streak-is-1.png",
+   "scene": "The empty Atlanta Arena at 11pm on a Thursday in December, the ice still fresh under the lights, a single line of skaters' boot marks from warmup crossing the blue line, the scoreboard frozen at 7-3 in the corner, the arena seats dark and curved, the light hitting the ice at a low angle from the upper deck",
+   "tags": [
+    "arena",
+    "atl",
+    "scoreboard"
+   ],
+   "alt": "Empty ice at Atlanta Arena after the 7-3 loss to Toronto",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-17/hockey-gazette-the-blaine-rankings-week-5-the-streak-is-over-and-the-standings-barely"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-prospect-file-future-files-anaheim-is-a-home-team-and-1.png",
+   "scene": "Anaheim Arena, empty seat rows in the upper deck, a wide shot of the ice during a road team's warm-up, the white away sweaters of the visiting players visible at the far blue line, arena light casting long shadows across the boards, telephoto from the upper corner",
+   "tags": [
+    "ana",
+    "arena",
+    "road-game"
+   ],
+   "alt": "Anaheim Arena upper deck during a road game warm-up",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2004-12-17/prospect-file-future-files-anaheim-is-a-home-team-and-a-road-team-and-they-are-not-t"
    ],
    "made": "2026-09-14"
   }
