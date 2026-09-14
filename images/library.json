@@ -12,7 +12,8 @@
    "outlet": "hot-stove",
    "used_by": [
     "2004-12-04/hot-stove-the-rental-market-la-and-chicago-are-the-deadline-s-supply-side",
-    "2004-12-07/hot-stove-rumor-meter-12-deals-signed-this-week-6-players-injured-same-4-day-win"
+    "2004-12-07/hot-stove-rumor-meter-12-deals-signed-this-week-6-players-injured-same-4-day-win",
+    "2005-01-05/home-ice-network-the-infirmary-6-islanders-are-on-the-shelf-and-17-men-changed-lines-tu"
    ],
    "made": "2026-09-10"
   },
@@ -2501,6 +2502,22 @@
    ],
    "made": "2026-09-14",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-01-05-home-ice-network-goalie-watch-fernandez-has-started-36-of-1.png",
+   "scene": "Manny Fernandez, Minnesota Wild number 29 in the dark 2004-05 home sweater, standing on his crease at the Xcel Energy Center after a goal against, glove raised, head turned toward the scoreboard. Arena light from above, shallow depth of field, telephoto from the net-cam angle.",
+   "tags": [
+    "arena",
+    "fernandez",
+    "goalie",
+    "min"
+   ],
+   "alt": "Fernandez stands alone on the ice after another Wild goal against",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-05/home-ice-network-goalie-watch-fernandez-has-started-36-of-40-in-minnesota-and-the-wild-"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
