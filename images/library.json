@@ -1260,7 +1260,8 @@
    "alt": "Vokoun in the Nashville net, play cleared to the corner",
    "outlet": "hockey-gazette",
    "used_by": [
-    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an"
+    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an",
+    "2004-12-22/home-ice-network-notes-from-the-west-nashville-s-streak-hits-9-and-25-goals-against-in-"
    ],
    "made": "2026-09-14"
   },
@@ -1859,6 +1860,37 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2004-12-20/queen-city-telegram-danforth-the-coach-moved-gaborik-to-the-second-line-and-i-am-calling-i"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-22-home-ice-network-morning-skate-notes-columbus-changes-15-1.png",
+   "scene": "Tyler Wright, Columbus Blue Jackets center, in the blue 2004-05 home sweater with red and silver trim, taking a faceoff at a center ice dot during a morning skate at Nationwide Arena, overhead light from the rink ceiling, wide angle showing both benches and the ice markings",
+   "tags": [
+    "cbj",
+    "subject: faceoff",
+    "wright"
+   ],
+   "alt": "Wright at a morning skate faceoff after moving up to the second line in Columbus",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-22/home-ice-network-morning-skate-notes-columbus-changes-15-spots-wright-up-to-the-second-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-22-hockey-gazette-award-watch-jaromir-jagr-is-32-and-the-o-1.png",
+   "scene": "Jaromir Jagr, Washington Capitals number 68 in the dark 2004-05 home sweater, cutting to the net past a Carolina Hurricanes defender, low angle from the goal line at the MCI Center, arena light catching the blade spray off his inside edge",
+   "tags": [
+    "arena",
+    "faceoff",
+    "jagr",
+    "wsh"
+   ],
+   "alt": "Jagr drives the net against Carolina at home",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-22/hockey-gazette-award-watch-jaromir-jagr-is-32-and-the-only-man-ahead-of-him-is-34"
    ],
    "made": "2026-09-14"
   }
