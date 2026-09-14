@@ -49,8 +49,7 @@
     "2004-12-07/queen-city-telegram-league-best-offense-meets-east-best-defense-when-the-devils-visit-the-",
     "2004-12-13/the-sweater-second-overall-finally-the-education-of-david-legwand",
     "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe",
-    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says",
-    "2004-12-29/queen-city-telegram-the-panic-meter-code-green-and-i-despise-saying-that"
+    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says"
    ],
    "made": "2026-09-10"
   },
@@ -2158,51 +2157,21 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-29-queen-city-telegram-leafs-visit-vancouver-with-six-straight-1.png",
-   "scene": "Ed Belfour, Toronto Maple Leafs number 50 in the white 2004-05 road sweater, crouched in the crease at Rexall Place in Edmonton, glove hand raised after a save, legs splayed, the red goal frame behind him, arena light overhead, telephoto from directly behind the net",
+   "path": "images/library/2004-12-29-the-tunnel-gary-roberts-a-clean-kill-and-an-early-goal-carried-a-4-0-shutout-in-e.png",
+   "scene": "candid colour television still from the mid-2000s, a 38-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
    "tags": [
-    "arena",
-    "goalie",
+    "interview",
+    "postgame",
+    "roberts",
     "tor"
    ],
-   "alt": "Belfour tracks the puck in the crease during the shutout at Edmonton",
-   "outlet": "queen-city-telegram",
+   "alt": "Gary Roberts (TOR #7) talks to Marcus Bell in the tunnel after a 4-0 shutout in Edmonton",
+   "outlet": "the-tunnel",
    "used_by": [
-    "2004-12-29/queen-city-telegram-leafs-visit-vancouver-with-six-straight-wins-and-a-blue-line-missing-i"
+    "the-tunnel-gary-roberts-a-clean-kill-and-an-early-goal-carried-a-4-0-shutout-in-e"
    ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2004-12-29-the-sweater-the-fastest-man-making-0-90m-martin-havl-1.png",
-   "scene": "Martin Havlat, Ottawa Senators number 9 in the red 2004-05 home sweater, accelerating up the left wing with the puck on his tape, a Montreal Canadiens defender trailing three strides behind, telephoto from the boards at centre ice in Ottawa, arena light catching the blade spray off his skates",
-   "tags": [
-    "havlat",
-    "ott",
-    "skating",
-    "speed"
-   ],
-   "alt": "Havlat at full speed up the left wing past a Canadiens defender",
-   "outlet": "the-sweater",
-   "used_by": [
-    "2004-12-29/the-sweater-the-fastest-man-making-0-90m-martin-havlat-s-last-winter-in-ottawa"
-   ],
-   "made": "2026-09-14"
-  },
-  {
-   "path": "images/library/2004-12-29-the-sweater-the-fastest-man-making-0-90m-martin-havl-2.png",
-   "scene": "Martin Havlat, Ottawa Senators number 9 in the red 2004-05 home sweater, raising both arms in a goal celebration beside Daniel Alfredsson, number 11, also in the red Ottawa home sweater, both players near the net with their backs to the glass, the crowd blurred behind them in the Ottawa arena, wide-angle from behind the goal",
-   "tags": [
-    "alfredsson",
-    "celebration",
-    "havlat",
-    "ott"
-   ],
-   "alt": "Havlat celebrates with Alfredsson after a goal",
-   "outlet": "the-sweater",
-   "used_by": [
-    "2004-12-29/the-sweater-the-fastest-man-making-0-90m-martin-havlat-s-last-winter-in-ottawa"
-   ],
-   "made": "2026-09-14"
+   "made": "2026-09-14",
+   "source": "pod-instantid"
   }
  ]
 }
