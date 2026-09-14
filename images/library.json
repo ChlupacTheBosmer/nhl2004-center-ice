@@ -568,7 +568,8 @@
    "alt": "Jenna Kowalczyk interviews Marty Turco in the tunnel after a win in Dallas.",
    "outlet": "the-tunnel",
    "used_by": [
-    "the-tunnel-turco-back-in-the-net-and-team-dal-keeps-finding-ways"
+    "the-tunnel-turco-back-in-the-net-and-team-dal-keeps-finding-ways",
+    "2004-12-17/hot-stove-the-turco-anomaly-96-overall-0-60m-and-a-9-game-win-streak"
    ],
    "made": "2026-09-13"
   },
@@ -1420,6 +1421,38 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2004-12-17/queen-city-telegram-young-guns-watch-klesla-at-22-19-points-and-the-index-says-he-is-still"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-penalty-box-babcock-we-can-t-play-60-minutes-thank-y-1.png",
+   "scene": "Mike Babcock, head coach of the Anaheim Ducks, standing at the press conference table after a home loss, both hands flat on the table, mouth open mid-sentence, a Ducks player in the dark 2004-05 home sweater seated behind him with his head down, the arena's blue overhead light catching Babcock's jaw, camera at chest level, slightly low angle, telephoto",
+   "tags": [
+    "ana",
+    "babcock",
+    "bench",
+    "subject: coach"
+   ],
+   "alt": "Babcock at the table after the loss",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-17/penalty-box-babcock-we-can-t-play-60-minutes-thank-you-coach"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-hot-stove-the-rebuild-math-in-detroit-80-89m-no-fi-1.png",
+   "scene": "Brendan Shanahan, Detroit Red Wings number 18 in the dark 2004-05 home sweater, standing at the boards with his stick in one hand, looking down the ice toward the far net, the Joe Louis Arena light coming from above, a Detroit defender in the white road sweater skating past in the background, telephoto from the bench level, shallow depth of field on Shanahan",
+   "tags": [
+    "arena",
+    "det",
+    "shanahan",
+    "subject: veteran"
+   ],
+   "alt": "Brendan Shanahan at the boards, Detroit home sweater, looking down the ice",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-17/hot-stove-the-rebuild-math-in-detroit-80-89m-no-first-no-yzerman"
    ],
    "made": "2026-09-14"
   }
