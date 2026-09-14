@@ -2286,7 +2286,8 @@
    "alt": "Leclaire in the butterfly, glove hand up, against a road attacker",
    "outlet": "hockey-gazette",
    "used_by": [
-    "2004-12-29/hockey-gazette-pascal-leclaire-has-won-10-of-14-in-15-starts-and-columbus-is-38-point"
+    "2004-12-29/hockey-gazette-pascal-leclaire-has-won-10-of-14-in-15-starts-and-columbus-is-38-point",
+    "2005-01-10/hot-stove-rumor-meter-the-3-unhappiest-men-in-the-league-wear-columbus-sweaters-"
    ],
    "made": "2026-09-14"
   },
@@ -2771,6 +2772,22 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2005-01-10/queen-city-telegram-leafs-2-penguins-1-13-shots-34-saves-and-the-crease-question-that-answ"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-10-prospect-file-2005-mock-draft-1-0-three-99s-and-the-gr-1.png",
+   "scene": "Petri Makiaho, a centre in a generic dark practice jersey with no visible team crest, standing at centre ice during an unfocused junior training session, stick on the ice in front of his skates, head up looking toward the camera, a lone defenceman blurred in the background near the blue line, overhead arena fluorescent light, wide shot from behind the glass at ice level, the camera is in front of him",
+   "tags": [
+    "faceoff",
+    "junior",
+    "prospect",
+    "training"
+   ],
+   "alt": "Makiaho at centre ice during a junior development camp",
+   "outlet": "prospect-file",
+   "used_by": [
+    "2005-01-10/prospect-file-2005-mock-draft-1-0-three-99s-and-the-grades-that-don-t-match"
    ],
    "made": "2026-09-14"
   }
