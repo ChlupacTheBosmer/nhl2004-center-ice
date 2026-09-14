@@ -418,3 +418,15 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
 .box.iv-box audio { width: 100%; margin-top: .4rem; }
 @media (max-width: 640px) { .ivlead, .ivrow { grid-template-columns: 1fr; } .turn { grid-template-columns: 1fr; gap: .2rem; } }
 .ivvideo { margin: 1rem 0 .5rem; } .ivvideo video { width: 100%; max-width: 960px; display: block; background: #000; border-radius: 6px; } .ivkind.k-video { background: #b3261e; color: #fff; }
+
+/* the full file: every piece a desk has filed, under whatever the register features */
+.archive { margin: 2.4rem auto 3rem; }
+.archive h2 { font-size: 1rem; letter-spacing: .04em; text-transform: uppercase; opacity: .7; border-bottom: 1px solid color-mix(in srgb, var(--ci-ink) 14%, transparent); padding-bottom: .5rem; }
+.archive h2 .n { float: right; font-weight: 400; opacity: .6; text-transform: none; letter-spacing: 0; }
+.arch { list-style: none; margin: .6rem 0 0; padding: 0; }
+.arch li { display: flex; gap: .8rem; align-items: baseline; padding: .38rem 0; border-bottom: 1px solid color-mix(in srgb, var(--ci-ink) 7%, transparent); }
+.arch li time { flex: 0 0 6.5rem; font-size: .8rem; opacity: .6; }
+.arch li a { flex: 1 1 auto; text-decoration: none; }
+.arch li a:hover { text-decoration: underline; }
+.arch li .k { flex: 0 0 auto; font-size: .72rem; opacity: .55; text-transform: uppercase; letter-spacing: .04em; }
+@media (max-width: 640px) { .arch li { flex-wrap: wrap; } .arch li time { flex-basis: 100%; } }
