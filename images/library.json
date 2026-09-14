@@ -1228,38 +1228,34 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-13-the-tunnel-fischer-on-the-mccabe-pairing-he-wants-the-puck-so-you-give-it.png",
-   "scene": "candid colour television still from the mid-2000s, a 24-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-13-hockey-gazette-the-blaine-rankings-week-4-the-fourth-te-1.png",
+   "scene": "Tomas Vokoun, Nashville Predators number 29 in the white 2004-05 road sweater, glove raised as the puck drops to his blocker at the end of a save, the Nashville blueline clearing the front of the net at the Gaylord Entertainment Center, camera low at the ice through the glass, arena light washing the crease",
    "tags": [
-    "fischer",
-    "interview",
-    "postgame",
-    "tor"
+    "nsh",
+    "subject: goalie",
+    "vokoun"
    ],
-   "alt": "Jan Kowalczyk interviews Jiri Fischer in the tunnel after Toronto's win in Philadelphia",
-   "outlet": "the-tunnel",
+   "alt": "Vokoun in the Nashville net, play cleared to the corner",
+   "outlet": "hockey-gazette",
    "used_by": [
-    "the-tunnel-fischer-on-the-mccabe-pairing-he-wants-the-puck-so-you-give-it"
+    "2004-12-13/hockey-gazette-the-blaine-rankings-week-4-the-fourth-team-in-the-west-is-nashville-an"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-13-the-tunnel-brodeur-we-have-to-be-better-that-s-it-after-third-period-slip.png",
-   "scene": "candid colour television still from the mid-2000s, a 32-year-old hockey player in a corridor after a game, wearing a red hockey jersey, the jersey red with with black stripes and white trim, the NJ-devil crest in a circle on the chest, white numbers, his goalie mask pushed up on his head, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-13-home-ice-network-montreal-1-boston-5-the-canadiens-season-1.png",
+   "scene": "Jose Theodore, Montreal Canadiens goaltender in the dark 2004-05 home sweater, glove high and square to the shooter at the Bell Centre during Tuesday's rematch with Boston, light washing in from above the glass, medium lens from the corner",
    "tags": [
-    "brodeur",
-    "interview",
-    "nj",
-    "postgame"
+    "mtl",
+    "subject: goalie",
+    "theodore"
    ],
-   "alt": "Brodeur in the Devils' tunnel after the 3-4 loss to San Jose",
-   "outlet": "the-tunnel",
+   "alt": "Jose Theodore square to a shot at the Bell Centre",
+   "outlet": "home-ice-network",
    "used_by": [
-    "the-tunnel-brodeur-we-have-to-be-better-that-s-it-after-third-period-slip"
+    "2004-12-13/home-ice-network-montreal-1-boston-5-the-canadiens-season-stopped-being-a-slump-weeks-a"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   }
  ]
 }
