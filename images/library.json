@@ -118,7 +118,8 @@
    "used_by": [
     "2004-12-04/hot-stove-sources-morale-problems-brewing-in-minnesota",
     "2004-12-07/home-ice-network-recap-tampa-bay-7-edmonton-1-a-29-shot-night-and-41-goals-in-10",
-    "2004-12-17/rinkside-at-27-we-finally-know-who-he-is-the-making-of-jean-sebastien-giguere"
+    "2004-12-17/rinkside-at-27-we-finally-know-who-he-is-the-making-of-jean-sebastien-giguere",
+    "2004-12-19/home-ice-network-injury-report-kings-lose-visnovsky-unspecified-return-targeted-for-dec"
    ],
    "made": "2026-09-10"
   },
@@ -1664,21 +1665,67 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-19-the-tunnel-gaborik-one-second-and-i-am-there.png",
-   "scene": "candid colour television still from the mid-2000s, a 22-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-19-hot-stove-rumor-meter-the-league-s-most-expensive-1.png",
+   "scene": "Chris Pronger, St. Louis Blues number 44 in the dark blue home sweater, standing at the blue line behind the play with his stick flat on the ice, reading the rush from a visiting team's forward in the white road sweater, telephoto from behind the net, arena light catching the shoulders and the Pronger nameplate",
    "tags": [
-    "gaborik",
-    "interview",
-    "postgame",
-    "tor"
+    "pronger",
+    "stl",
+    "veteran"
    ],
-   "alt": "Marian Gaborik speaks with Marcus Bell in the corridor after Toronto's 4-2 win at Florida on December 18.",
-   "outlet": "the-tunnel",
+   "alt": "Pronger at the blue line reading the play",
+   "outlet": "hot-stove",
    "used_by": [
-    "the-tunnel-gaborik-one-second-and-i-am-there"
+    "2004-12-19/hot-stove-rumor-meter-the-league-s-most-expensive-expiring-deal-sits-on-an-8-17-"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-home-ice-network-recap-philadelphia-5-dallas-1-a-7-game-s-1.png",
+   "scene": "Jeff Hackett, Philadelphia Flyers goaltender in the orange 2004-05 home sweater with black and white trim, pushing a puck away with his left pad at the left post at the Wachovia Center while a Dallas Stars forward in the white road sweater closes in, telephoto from the side boards, arena light",
+   "tags": [
+    "arena",
+    "dal",
+    "goalie",
+    "hackett",
+    "phi"
+   ],
+   "alt": "Hackett makes a save during the Flyers' 5-1 win over Dallas",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-19/home-ice-network-recap-philadelphia-5-dallas-1-a-7-game-skid-ends-behind-hackett-s-retu"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-penalty-box-the-3-50-million-man-who-wants-out-edmon-1.png",
+   "scene": "Tommy Salo, Edmonton Oilers number 31 in the blue 2004-05 home sweater, standing alone on his crease at Skyreach Centre, looking back over his left shoulder toward empty benches, his goalie mask tucked under his arm, the ice stretched out behind him, telephoto from behind the net, cold blue arena light on the boards",
+   "tags": [
+    "edm",
+    "salo",
+    "subject: bench",
+    "subject: goalie"
+   ],
+   "alt": "Salo stands alone on his crease, mask under his arm, staring at nothing",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-19/penalty-box-the-3-50-million-man-who-wants-out-edmonton-s-goalie-outranks-the-hart"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-19-hockey-gazette-the-blaine-rankings-week-7-the-oilers-bu-1.png",
+   "scene": "Mike Comrie, Edmonton Oilers number 22 in the blue and orange 2004-05 home sweater, driving through the neutral zone with the puck on his forehand, a blurred Columbus Blue Jackets defender trailing on his left shoulder, low telephoto from the glass behind the Oilers bench, arena light from above",
+   "tags": [
+    "comrie",
+    "edm",
+    "faceoff"
+   ],
+   "alt": "Mike Comrie carries the puck through the neutral zone at Skyreach Centre",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-19/hockey-gazette-the-blaine-rankings-week-7-the-oilers-buy-the-second-cheapest-point-in"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
