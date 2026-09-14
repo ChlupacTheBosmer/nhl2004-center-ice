@@ -404,7 +404,8 @@
    "alt": "Kovalchuk cutting to the net from the left circle",
    "outlet": "the-sweater",
    "used_by": [
-    "2004-12-07/the-sweater-first-overall-last-place-ilya-kovalchuk-plays-for-july"
+    "2004-12-07/the-sweater-first-overall-last-place-ilya-kovalchuk-plays-for-july",
+    "2004-12-13/prospect-file-future-files-atlanta-has-two-elite-young-wings-and-the-league-s-worst-"
    ],
    "made": "2026-09-11"
   },
@@ -500,7 +501,8 @@
    "alt": "Marcus Bell holds a Center Ice microphone toward Mats Sundin, number 13, seated at the end of a bench in the visiting dressing room after Toronto's 4-0 win.",
    "outlet": "the-tunnel",
    "used_by": [
-    "the-tunnel-sundin-and-the-quiet-ones-11-straight-and-he-didn-t-score"
+    "the-tunnel-sundin-and-the-quiet-ones-11-straight-and-he-didn-t-score",
+    "2004-12-13/queen-city-telegram-leafs-7-phi-1-sundin-and-tellqvist-back-for-the-rangers-mccabe-a-day-l"
    ],
    "made": "2026-09-12"
   },
@@ -1299,6 +1301,22 @@
    "outlet": "penalty-box",
    "used_by": [
     "2004-12-13/penalty-box-the-31-09-million-savings-account-wears-a-hockey-sweater"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-13-queen-city-telegram-leafs-7-phi-1-sundin-and-tellqvist-back-2.png",
+   "scene": "Mikael Tellqvist and Ed Belfour, the Toronto Maple Leafs goaltenders in the dark blue 2004-05 home sweaters and full masks, walking from the bench to the crease during the morning skate at the Air Canada Centre, from the tunnel, flat arena light",
+   "tags": [
+    "belfour",
+    "subject: goalie",
+    "tellqvist",
+    "tor"
+   ],
+   "alt": "Tellqvist and Belfour at morning skate",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-13/queen-city-telegram-leafs-7-phi-1-sundin-and-tellqvist-back-for-the-rangers-mccabe-a-day-l"
    ],
    "made": "2026-09-14"
   }
