@@ -1193,7 +1193,8 @@
     "2004-12-11/rinkside-the-league-s-scoring-defenseman-plays-for-the-team-that-can-t-keep-puc",
     "2004-12-13/rinkside-the-reinvention-of-mike-komisarek",
     "2004-12-13/rinkside-the-reinvention-of-mike-komisarek",
-    "2004-12-19/prospect-file-i-saw-him-when-mike-komisarek-and-the-7th-pick-s-39-point-leap"
+    "2004-12-19/prospect-file-i-saw-him-when-mike-komisarek-and-the-7th-pick-s-39-point-leap",
+    "2004-12-20/penalty-box-3-and-11-on-the-road-53-2-million-in-payroll-montreal-is-the-next-emba"
    ],
    "made": "2026-09-14"
   },
@@ -1775,6 +1776,53 @@
    "outlet": "hot-stove",
    "used_by": [
     "2004-12-20/hot-stove-4-of-the-15-unhappiest-men-in-the-league-wear-one-sweater-the-most-exp"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-20-home-ice-network-notes-from-the-east-buffalo-allows-4-63-1.png",
+   "scene": "Martin Biron, Buffalo Sabres goaltender in the dark 2004-05 home sweater, sprawling across the crease with his glove extended, a Boston Bruins forward in the white 2004-05 road sweater closing on the backdoor, telephoto from the corner behind the net, arena light",
+   "tags": [
+    "biron",
+    "buf",
+    "subject: goalie"
+   ],
+   "alt": "Biron stretched out in the crease as a Bruins forward attacks the far post",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2004-12-20/home-ice-network-notes-from-the-east-buffalo-allows-4-63-a-night-and-biron-has-started-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-20-hockey-gazette-the-blaine-rankings-week-8-david-legwand-1.png",
+   "scene": "David Legwand, Nashville Predators number 11 in the gold 2004-05 home sweater with LEGWAND across the shoulders and number 11 on the back and sleeves, driving hard up the left wing with the puck on his forehand, past a Colorado Avalanche defender in a white 2004-05 road sweater, Gaylord Entertainment Center, low angle from the near boards, arena lighting, telephoto",
+   "tags": [
+    "col",
+    "legwand",
+    "nsh",
+    "veteran"
+   ],
+   "alt": "Legwand accelerates up the wing in Nashville's gold home sweater",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-20/hockey-gazette-the-blaine-rankings-week-8-david-legwand-is-the-second-overall-pick-na"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-20-hockey-gazette-the-blaine-rankings-week-8-david-legwand-2.png",
+   "scene": "Tomas Vokoun, Nashville Predators goaltender in the gold 2004-05 home sweater and a Nashville goalie mask, crouched in the crease tracking the puck through traffic, a Minnesota Wild forward in a white 2004-05 road sweater closing the far post, Gaylord Entertainment Center, wide angle from the side of the ice",
+   "tags": [
+    "min",
+    "nsh",
+    "subject: goalie",
+    "vokoun"
+   ],
+   "alt": "Vokoun tracks the puck through a screen during Nashville's 4-3 win over Minnesota",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2004-12-20/hockey-gazette-the-blaine-rankings-week-8-david-legwand-is-the-second-overall-pick-na"
    ],
    "made": "2026-09-14"
   }
