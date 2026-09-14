@@ -2568,21 +2568,97 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2005-01-05-the-tunnel-mogilny-before-i-carry-now-i-pass-and-i-go.png",
-   "scene": "candid colour television still from the mid-2000s, a 35-year-old hockey player in a corridor after a game, wearing a royal blue hockey jersey, the jersey royal blue with with white stripes on the sleeves and hem, the white eleven-point maple leaf crest with TORONTO MAPLE LEAFS lettered inside it, white numbers, small maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2005-01-05-hot-stove-rumor-meter-la-s-three-expiring-deals-pu-1.png",
+   "scene": "Jason Allison, Los Angeles Kings number 10 in the black 2004-05 home sweater, accepting a pass at the left circle and driving the net against a Dallas Stars defenseman at the Staples Center, telephoto from the behind-the-net position, arena light, crowd blurred in the background",
    "tags": [
-    "interview",
-    "mogilny",
-    "postgame",
-    "tor"
+    "allison",
+    "arena",
+    "la"
    ],
-   "alt": "Marcus Bell interviews Alexander Mogilny in the tunnel after Toronto's 7-0 win over New Jersey",
-   "outlet": "the-tunnel",
+   "alt": "Jason Allison driving the net in Los Angeles",
+   "outlet": "hot-stove",
    "used_by": [
-    "the-tunnel-mogilny-before-i-carry-now-i-pass-and-i-go"
+    "2005-01-05/hot-stove-rumor-meter-la-s-three-expiring-deals-put-12-80m-on-the-table-in-a-16-"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-penalty-box-5-and-14-at-home-77-a-seat-23-68-million-1.png",
+   "scene": "A wide shot from the upper deck of a nearly full hockey arena showing fans in dark-colored sweaters filling the lower bowl while a scoreboard in the background shows a home team losing. The ice is empty, lights dimmed to intermission level, one lone Zamboni driver visible at center ice. The crowd is standing and heading toward exits during what looks like the third period.",
+   "tags": [
+    "arena",
+    "attendance"
+   ],
+   "alt": "Fans heading for the exits during the third period at a Chicago home game",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2005-01-05/penalty-box-5-and-14-at-home-77-a-seat-23-68-million-in-profit-chicago-has-figured"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-penalty-box-5-and-14-at-home-77-a-seat-23-68-million-2.png",
+   "scene": "Ryan VandenBussche, Chicago Blackhawks number 27 in the red 2004-05 home sweater, number 27 in black on the sleeves and back, surname VANDEMBUSSCHE arched across the shoulders in white, skating along the boards in his own defensive zone with a helmet and clear half visor, stick on the ice, head down, alone with no teammates nearby. Telephoto from the glass, late arena lighting, shallow depth of field.",
+   "tags": [
+    "arena",
+    "player surname",
+    "team abbr",
+    "veteran"
+   ],
+   "alt": "Ryan VandenBussche skates alone on the forecheck during a Chicago home game",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2005-01-05/penalty-box-5-and-14-at-home-77-a-seat-23-68-million-in-profit-chicago-has-figured"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-hockey-gazette-the-lightning-have-21-wins-and-nobody-s-1.png",
+   "scene": "Nikolai Khabibulin, Tampa Bay Lightning number 20 in the navy-blue 2004-05 home sweater, tracking a puck through traffic at the crease during a game at the Ice Palace, telephoto from the goal-side glass, arena light reflecting off his mask",
+   "tags": [
+    "goalie",
+    "khabibulin",
+    "subject: goalie",
+    "tb"
+   ],
+   "alt": "Khabibulin in the crease during a home game",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2005-01-05/hockey-gazette-the-lightning-have-21-wins-and-nobody-s-watching-a-team-at-53-points-w"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-slot-report-ottawa-s-room-16-points-between-the-top-1.png",
+   "scene": "Bryan Smolinski, Ottawa Senators number 26 in the orange and black 2004-05 home sweater, standing at the end of the players' bench with his helmet off, looking down the length of the ice during a line change. His hands rest on the boards. The ice behind him shows Ottawa's center-ice logo. A teammate skates past in the background wearing the same home sweater, number obscured. Warm arena lighting, telephoto from behind the bench.",
+   "tags": [
+    "bench",
+    "morale",
+    "ott",
+    "smolinski"
+   ],
+   "alt": "Smolinski at the end of the bench, 11.5 minutes and $2.40M",
+   "outlet": "slot-report",
+   "used_by": [
+    "2005-01-05/slot-report-ottawa-s-room-16-points-between-the-top-and-the-bottom"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-05-slot-report-ottawa-s-room-16-points-between-the-top-2.png",
+   "scene": "Peter Schaefer, Ottawa Senators number 17 in the orange and black 2004-05 home sweater, taking a faceoff at the left circle during a third-period game. His opponent is a New Jersey Devils center in the red 2004-05 home sweater. Schaefer leans forward, stick on the ice, eyes locked on the linesman's hands. The puck is about to drop. Telephoto from the corner, arena light, the crowd behind the glass is dark and blurred.",
+   "tags": [
+    "faceoff",
+    "nj",
+    "ott",
+    "schaefer"
+   ],
+   "alt": "Schaefer wins a third-period draw, 11.2 minutes a night",
+   "outlet": "slot-report",
+   "used_by": [
+    "2005-01-05/slot-report-ottawa-s-room-16-points-between-the-top-and-the-bottom"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
