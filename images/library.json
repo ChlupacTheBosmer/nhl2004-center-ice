@@ -64,7 +64,8 @@
    "outlet": "home-ice-network",
    "used_by": [
     "2004-12-04/home-ice-network-goalie-watch-belfour-returns-to-a-crease-that-kept-winning-without-him",
-    "2004-12-07/queen-city-telegram-danforth-6-50m-buys-10-starts-and-a-folding-chair-and-i-have-made-peac"
+    "2004-12-07/queen-city-telegram-danforth-6-50m-buys-10-starts-and-a-folding-chair-and-i-have-made-peac",
+    "2004-12-17/queen-city-telegram-goalie-room-tellqvist-back-friday-and-the-three-way-is-finally-over"
    ],
    "made": "2026-09-10"
   },
@@ -567,7 +568,8 @@
    "alt": "Jenna Kowalczyk interviews Marty Turco in the tunnel after a win in Dallas.",
    "outlet": "the-tunnel",
    "used_by": [
-    "the-tunnel-turco-back-in-the-net-and-team-dal-keeps-finding-ways"
+    "the-tunnel-turco-back-in-the-net-and-team-dal-keeps-finding-ways",
+    "2004-12-17/hot-stove-the-turco-anomaly-96-overall-0-60m-and-a-9-game-win-streak"
    ],
    "made": "2026-09-13"
   },
@@ -1374,21 +1376,117 @@
    "source": "pod-instantid"
   },
   {
-   "path": "images/library/2004-12-17-the-tunnel-klesla-we-are-not-perfect-and-that-is-good.png",
-   "scene": "candid colour television still from the mid-2000s, a 22-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-17-queen-city-telegram-leafs-3-atl-7-15-straight-done-and-it-to-1.png",
+   "scene": "Toronto Maple Leafs skaters in white road sweaters standing on the penalty bench during a stoppage in the third period, the Atlanta Thrashers home scoreboard visible in the upper background showing a 7-3 score, arena light flat and white, wide angle from bench level, the Georgia Dome boards and glass behind",
    "tags": [
-    "interview",
-    "klesla",
-    "postgame",
+    "atl",
+    "bench",
+    "loss",
     "tor"
    ],
-   "alt": "Klesla in the tunnel after the 3-7 loss at Atlanta, Bell holding the mic at chest level",
-   "outlet": "the-tunnel",
+   "alt": "Leafs on the penalty bench in Atlanta, 3-7",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-klesla-we-are-not-perfect-and-that-is-good"
+    "2004-12-17/queen-city-telegram-leafs-3-atl-7-15-straight-done-and-it-took-the-7-win-team-to-do-it"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-queen-city-telegram-defensive-desk-svehla-and-salo-both-sitt-1.png",
+   "scene": "Rostislav Klesla, Toronto Maple Leafs defenceman in the dark home sweater, carrying the puck up the left side of his own zone at the Air Canada Centre, a defender closing from the corner, the boards and glass behind, telephoto from the corner, arena light, the crowd a blur of dark and white",
+   "tags": [
+    "defense",
+    "klesla",
+    "rookie",
+    "tor"
+   ],
+   "alt": "Klesla carries it up the left side",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-17/queen-city-telegram-defensive-desk-svehla-and-salo-both-sitting-and-the-chart-gets-thin-fa"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-queen-city-telegram-young-guns-watch-klesla-at-22-19-points-1.png",
+   "scene": "Rostislav Klesla, Toronto Maple Leafs defenceman in the dark home sweater, making a pass along the boards in his own zone at the Air Canada Centre, the puck leaving his stick, a forward skating toward the net in the background, the boards and glass behind, telephoto from the corner, arena light",
+   "tags": [
+    "defense",
+    "klesla",
+    "pass",
+    "rookie",
+    "tor"
+   ],
+   "alt": "Klesla makes the play along the boards",
+   "outlet": "queen-city-telegram",
+   "used_by": [
+    "2004-12-17/queen-city-telegram-young-guns-watch-klesla-at-22-19-points-and-the-index-says-he-is-still"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-penalty-box-babcock-we-can-t-play-60-minutes-thank-y-1.png",
+   "scene": "Mike Babcock, head coach of the Anaheim Ducks, standing at the press conference table after a home loss, both hands flat on the table, mouth open mid-sentence, a Ducks player in the dark 2004-05 home sweater seated behind him with his head down, the arena's blue overhead light catching Babcock's jaw, camera at chest level, slightly low angle, telephoto",
+   "tags": [
+    "ana",
+    "babcock",
+    "bench",
+    "subject: coach"
+   ],
+   "alt": "Babcock at the table after the loss",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-17/penalty-box-babcock-we-can-t-play-60-minutes-thank-you-coach"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-hot-stove-the-rebuild-math-in-detroit-80-89m-no-fi-1.png",
+   "scene": "Brendan Shanahan, Detroit Red Wings number 18 in the dark 2004-05 home sweater, standing at the boards with his stick in one hand, looking down the ice toward the far net, the Joe Louis Arena light coming from above, a Detroit defender in the white road sweater skating past in the background, telephoto from the bench level, shallow depth of field on Shanahan",
+   "tags": [
+    "arena",
+    "det",
+    "shanahan",
+    "subject: veteran"
+   ],
+   "alt": "Brendan Shanahan at the boards, Detroit home sweater, looking down the ice",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-17/hot-stove-the-rebuild-math-in-detroit-80-89m-no-first-no-yzerman"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-penalty-box-vancouver-s-paying-34-94-million-you-re-1.png",
+   "scene": "Markus Naslund, Vancouver Canucks, in the dark 2004-05 home sweater, skating the neutral zone with the puck along his stick, a defender in a white road sweater closing from the left, the rink's white boards and advertising visible behind him, arena light from directly above, telephoto from the opposite bench, shallow depth of field",
+   "tags": [
+    "naslund",
+    "neutral zone",
+    "subject: skater",
+    "van"
+   ],
+   "alt": "Naslund carrying in the neutral zone",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-17/penalty-box-vancouver-s-paying-34-94-million-you-re-paying-80-89-the-math-is-an-in"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-17-penalty-box-nine-games-two-34-year-olds-and-a-streak-1.png",
+   "scene": "Mike Modano, Dallas Stars, in the dark 2004-05 home sweater, standing at the top of the circle after a goal, arms slightly out, looking toward the bench, the crowd a blur of dark and light behind him, the rink's white ice catching the overhead light, camera from the corner low to the ice, wide angle",
+   "tags": [
+    "celebration",
+    "dal",
+    "modano",
+    "subject: skater"
+   ],
+   "alt": "Modano at the top of the circle",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-17/penalty-box-nine-games-two-34-year-olds-and-a-streak-that-is-borrowed-time"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
