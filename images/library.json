@@ -2294,7 +2294,8 @@
    "outlet": "hockey-gazette",
    "used_by": [
     "2004-12-29/hockey-gazette-pascal-leclaire-has-won-10-of-14-in-15-starts-and-columbus-is-38-point",
-    "2005-01-10/hot-stove-rumor-meter-the-3-unhappiest-men-in-the-league-wear-columbus-sweaters-"
+    "2005-01-10/hot-stove-rumor-meter-the-3-unhappiest-men-in-the-league-wear-columbus-sweaters-",
+    "2005-01-14/home-ice-network-morning-skate-notes-columbus-moves-18-men-and-rebuilds-a-fourth-line-o"
    ],
    "made": "2026-09-14"
   },
@@ -2957,6 +2958,22 @@
    "outlet": "rinkside",
    "used_by": [
     "2005-01-12/rinkside-97-on-0-80m-jean-sebastien-giguere-the-conn-smythe-man-who-had-to-rebu"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-14-home-ice-network-numbers-game-washington-is-15-9-on-the-r-1.png",
+   "scene": "Olaf Kolzig of the Washington Capitals, a goaltender in full equipment including a painted mask with cage, oversized leg pads, a blocker on one hand and a catching glove on the other, his wide dark home sweater over a chest protector, crouched in the crease at MCI Center, seen from behind the goal net at a low angle, arena light catching the mask paint",
+   "tags": [
+    "arena",
+    "goalie",
+    "kolzig",
+    "wsh"
+   ],
+   "alt": "Kolzig in the crease during a Capitals home game",
+   "outlet": "home-ice-network",
+   "used_by": [
+    "2005-01-14/home-ice-network-numbers-game-washington-is-15-9-on-the-road-tied-with-colorado-for-the"
    ],
    "made": "2026-09-14"
   }
