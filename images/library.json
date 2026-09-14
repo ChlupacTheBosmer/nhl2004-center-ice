@@ -1229,7 +1229,8 @@
     "2004-12-13/rinkside-the-reinvention-of-mike-komisarek",
     "2004-12-13/rinkside-the-reinvention-of-mike-komisarek",
     "2004-12-19/prospect-file-i-saw-him-when-mike-komisarek-and-the-7th-pick-s-39-point-leap",
-    "2004-12-20/penalty-box-3-and-11-on-the-road-53-2-million-in-payroll-montreal-is-the-next-emba"
+    "2004-12-20/penalty-box-3-and-11-on-the-road-53-2-million-in-payroll-montreal-is-the-next-emba",
+    "2005-01-12/the-sweater-the-contract-year-mike-komisarek-plays-for-july-at-22-on-a-team-that-h"
    ],
    "made": "2026-09-14"
   },
@@ -2925,6 +2926,37 @@
    "outlet": "prospect-file",
    "used_by": [
     "2005-01-12/prospect-file-the-2004-first-round-six-months-on-three-men-the-book-has-already-writ"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-12-the-sweater-the-contract-year-mike-komisarek-plays-f-1.png",
+   "scene": "Mike Komisarek of the Montreal Canadiens in the blue home sweater with the red and white CH crest on the chest, standing at the blue line during warmups, holding his stick across the ice with both hands, looking up at the scoreboard. He wears a black helmet with a clear half visor. Camera from center ice, slightly elevated, arena light reflecting off the freshly resurfaced ice. A Zamboni door is visible in the background at boards level.",
+   "tags": [
+    "arena",
+    "komisarek",
+    "mtl",
+    "veteran"
+   ],
+   "alt": "Komisarek surveys the ice during warmups in Montreal's blue sweater",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2005-01-12/the-sweater-the-contract-year-mike-komisarek-plays-for-july-at-22-on-a-team-that-h"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2005-01-12-rinkside-97-on-0-80m-jean-sebastien-giguere-the-c-1.png",
+   "scene": "Jean-Sebastien Giguere of the Anaheim Ducks in the dark 2004-05 home sweater, in full goaltending equipment: painted white mask with a black cage, oversized white leg pads with the Ducks crest on the outer face, a white blocker on his right hand, a catching glove on the left, the jersey cut wide over a chest protector. He is crouched in the crease, glove hand raised, tracking a shot coming from the left point. The net is behind him, the blue of the ice visible at his pad edges. The arena light is flat and white, no crowd visible. Camera is low behind the net, looking forward past his left pad toward the shooter.",
+   "tags": [
+    "ana",
+    "giguere",
+    "goalie"
+   ],
+   "alt": "Giguere square in the crease, glove raised",
+   "outlet": "rinkside",
+   "used_by": [
+    "2005-01-12/rinkside-97-on-0-80m-jean-sebastien-giguere-the-conn-smythe-man-who-had-to-rebu"
    ],
    "made": "2026-09-14"
   }
