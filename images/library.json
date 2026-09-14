@@ -49,7 +49,8 @@
     "2004-12-07/queen-city-telegram-league-best-offense-meets-east-best-defense-when-the-devils-visit-the-",
     "2004-12-13/the-sweater-second-overall-finally-the-education-of-david-legwand",
     "2004-12-19/rinkside-22-8-minutes-a-night-the-year-alexander-frolov-stopped-being-a-maybe",
-    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says"
+    "2004-12-22/the-sweater-sergei-fedorov-at-35-what-the-book-says-what-the-room-says",
+    "2004-12-29/queen-city-telegram-the-panic-meter-code-green-and-i-despise-saying-that"
    ],
    "made": "2026-09-10"
   },
@@ -293,7 +294,8 @@
    "outlet": "penalty-box",
    "used_by": [
     "2004-12-07/penalty-box-78-to-watch-cliff-ronning-play-8-8-minutes-philadelphia-is-the-new-mos",
-    "2004-12-28/the-sweater-a-fifty-faceoff-captain-tony-amonte-and-the-geometry-of-heart"
+    "2004-12-28/the-sweater-a-fifty-faceoff-captain-tony-amonte-and-the-geometry-of-heart",
+    "2004-12-29/penalty-box-profit-king-losing-king-minnesota-made-32-57-million-the-roster-cost-2"
    ],
    "made": "2026-09-10"
   },
@@ -2157,38 +2159,113 @@
    "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-29-the-tunnel-gary-roberts-a-clean-kill-and-an-early-goal-carried-a-4-0-shutout-in-e.png",
-   "scene": "candid colour television still from the mid-2000s, a 38-year-old hockey player in a corridor after a game, wearing a white hockey jersey, the jersey white with with blue stripes, the blue eleven-point maple leaf crest on the chest, blue numbers, small blue maple leafs on the shoulders, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-29-queen-city-telegram-leafs-visit-vancouver-with-six-straight-1.png",
+   "scene": "Ed Belfour, Toronto Maple Leafs number 50 in the white 2004-05 road sweater, crouched in the crease at Rexall Place in Edmonton, glove hand raised after a save, legs splayed, the red goal frame behind him, arena light overhead, telephoto from directly behind the net",
    "tags": [
-    "interview",
-    "postgame",
-    "roberts",
+    "arena",
+    "goalie",
     "tor"
    ],
-   "alt": "Gary Roberts (TOR #7) talks to Marcus Bell in the tunnel after a 4-0 shutout in Edmonton",
-   "outlet": "the-tunnel",
+   "alt": "Belfour tracks the puck in the crease during the shutout at Edmonton",
+   "outlet": "queen-city-telegram",
    "used_by": [
-    "the-tunnel-gary-roberts-a-clean-kill-and-an-early-goal-carried-a-4-0-shutout-in-e"
+    "2004-12-29/queen-city-telegram-leafs-visit-vancouver-with-six-straight-wins-and-a-blue-line-missing-i"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
   },
   {
-   "path": "images/library/2004-12-29-the-tunnel-forsberg-scores-three-as-the-avalanche-outlast-the-flyers-in-overtime.png",
-   "scene": "candid colour television still from the mid-2000s, a 31-year-old hockey player in a corridor after a game, wearing a burgundy hockey jersey, the jersey burgundy with with steel blue, black and silver trim, the burgundy-and-blue A-and-puck crest on the chest, white numbers, no helmet, hair damp, cinder-block wall behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "path": "images/library/2004-12-29-the-sweater-the-fastest-man-making-0-90m-martin-havl-1.png",
+   "scene": "Martin Havlat, Ottawa Senators number 9 in the red 2004-05 home sweater, accelerating up the left wing with the puck on his tape, a Montreal Canadiens defender trailing three strides behind, telephoto from the boards at centre ice in Ottawa, arena light catching the blade spray off his skates",
    "tags": [
-    "col",
-    "forsberg",
-    "interview",
-    "postgame"
+    "havlat",
+    "ott",
+    "skating",
+    "speed"
    ],
-   "alt": "Jan Kowalczyk interviews Peter Forsberg in a concrete tunnel after a 6-5 overtime win.",
-   "outlet": "the-tunnel",
+   "alt": "Havlat at full speed up the left wing past a Canadiens defender",
+   "outlet": "the-sweater",
    "used_by": [
-    "the-tunnel-forsberg-scores-three-as-the-avalanche-outlast-the-flyers-in-overtime"
+    "2004-12-29/the-sweater-the-fastest-man-making-0-90m-martin-havlat-s-last-winter-in-ottawa"
    ],
-   "made": "2026-09-14",
-   "source": "pod-instantid"
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-29-the-sweater-the-fastest-man-making-0-90m-martin-havl-2.png",
+   "scene": "Martin Havlat, Ottawa Senators number 9 in the red 2004-05 home sweater, raising both arms in a goal celebration beside Daniel Alfredsson, number 11, also in the red Ottawa home sweater, both players near the net with their backs to the glass, the crowd blurred behind them in the Ottawa arena, wide-angle from behind the goal",
+   "tags": [
+    "alfredsson",
+    "celebration",
+    "havlat",
+    "ott"
+   ],
+   "alt": "Havlat celebrates with Alfredsson after a goal",
+   "outlet": "the-sweater",
+   "used_by": [
+    "2004-12-29/the-sweater-the-fastest-man-making-0-90m-martin-havlat-s-last-winter-in-ottawa"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-29-hot-stove-rumor-meter-sylvain-cote-signed-on-chris-1.png",
+   "scene": "Empty penalty-kill box at the MCI Center, Washington, D.C. The boards are clear, no players visible. A single pair of skates sits on the bench in the background with a white helmet resting on top, red sweater number not visible. Fluorescent arena light, slightly cold tone, wide angle from the corner of the defensive zone.",
+   "tags": [
+    "arena",
+    "bench",
+    "wsh"
+   ],
+   "alt": "Empty penalty-kill box and a bench with gear left behind",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-29/hot-stove-rumor-meter-sylvain-cote-signed-on-christmas-he-s-on-the-shelf-by-the-"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-29-hot-stove-rumor-meter-two-91-pointers-at-1-10m-on-1.png",
+   "scene": "Ilya Kovalchuk, Atlanta Thrashers number 17, in the navy 2004-05 home sweater with the Thrashers logo at the chest and the number 17 on the sleeves and back, standing at the blue line during warmups at Philips Arena. No visor, dark hair. The arena is mostly empty, early light from the upper deck, telephoto shot from the press box looking down the left wing boards.",
+   "tags": [
+    "arena",
+    "atl",
+    "player:509",
+    "veteran"
+   ],
+   "alt": "Kovalchuk during warmups at Philips Arena",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-29/hot-stove-rumor-meter-two-91-pointers-at-1-10m-on-the-league-s-worst-team-atlant"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-29-hot-stove-rumor-meter-two-91-pointers-at-1-10m-on-2.png",
+   "scene": "Dany Heatley, Atlanta Thrashers number 15, in the white 2004-05 road sweater with the number 15 on the back and sleeves and HEATLEY across the shoulders, standing on the bench with his stick across his knees during a stoppage. A teammate's helmet rests on the dasher next to him. Flat arena lighting, shot from the glass at bench level.",
+   "tags": [
+    "atl",
+    "bench",
+    "player:377",
+    "rookie"
+   ],
+   "alt": "Heatley on the bench during a road game",
+   "outlet": "hot-stove",
+   "used_by": [
+    "2004-12-29/hot-stove-rumor-meter-two-91-pointers-at-1-10m-on-the-league-s-worst-team-atlant"
+   ],
+   "made": "2026-09-14"
+  },
+  {
+   "path": "images/library/2004-12-29-penalty-box-profit-king-losing-king-minnesota-made-3-2.png",
+   "scene": "Willie Mitchell, Minnesota Wild, in the dark green 2004-05 home sweater at the blue line during a breakout pass against a Nashville Predators forward in the white road sweater, shot from the half-wall, puck visible on his stick blade, telephoto compression flattening the ice depth, arena light on the boards",
+   "tags": [
+    "defense",
+    "min",
+    "player"
+   ],
+   "alt": "Willie Mitchell carries the puck out of Minnesota's zone against Nashville",
+   "outlet": "penalty-box",
+   "used_by": [
+    "2004-12-29/penalty-box-profit-king-losing-king-minnesota-made-32-57-million-the-roster-cost-2"
+   ],
+   "made": "2026-09-14"
   }
  ]
 }
