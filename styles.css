@@ -484,7 +484,9 @@ table.led tr.us td { background: rgba(31, 92, 74, .09); }
 .reg-ledger .body h2 { font-family: var(--ci-font-body); font-size: 1.15rem; letter-spacing: .01em; border-top: 1px solid var(--ci-line); padding-top: 1.1rem; margin-top: 2.2rem; }
 .reg-ledger .body table { font-variant-numeric: tabular-nums; font-size: .88rem; }
 .reg-ledger .body figure.chart { background: #fffaf3; border: 1px solid var(--ci-line); padding: .8rem; }
-@media (max-width: 860px) { .home-ledger { grid-template-columns: 1fr; } }
+/* `1fr` is minmax(auto, 1fr) and will not shrink below its content, so the single
+   column came out wider than the phone. minmax(0, 1fr) lets it collapse. */
+@media (max-width: 860px) { .home-ledger { grid-template-columns: minmax(0, 1fr); } }
 
 /* The Postbag: a newspaper's letters column. One narrow measure of serif type on
    white, hairline rules, and no furniture. Everything here exists to get out of
@@ -529,9 +531,13 @@ table.led tr.us td { background: rgba(31, 92, 74, .09); }
    indent, and a hairline above so the eye knows a new correspondent has begun. */
 .reg-letters .body blockquote { position: relative; margin: 2.2rem 0 1.4rem; padding: 1.4rem 0 0 2.4rem; border: 0; border-top: 1px solid #e4e2dc; font-style: italic; color: var(--ci-ink); }
 .reg-letters .body blockquote::before { content: "\201C"; position: absolute; left: 0; top: .5rem; font-family: var(--ci-font-display); font-size: 3.4rem; line-height: 1; color: var(--ci-accent); opacity: .5; }
-/* the signature the desk writes under a letter: "-- Name, City" */
-.reg-letters .body blockquote + p em:only-child,
-.reg-letters .body p > em:only-child { display: block; text-align: right; font-style: normal; font-size: .82rem; letter-spacing: .09em; text-transform: uppercase; color: var(--ci-muted); margin-top: -.6rem; }
+/* The signature the desk sets under a letter: a whole paragraph in italics and
+   nothing else. The renderer emits <i>, not <em>. Set right, in small caps, hard
+   against the letter above it, the way a newspaper signs a correspondent. */
+.reg-letters .body blockquote + p { margin-top: -.5rem; }
+.reg-letters .body p > i:only-child { display: block; text-align: right; font-style: normal;
+  font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ci-muted); }
+.reg-letters .body p > i:only-child::before { content: "\2014\00a0"; color: var(--ci-accent); }
 .reg-letters .body h2, .reg-letters .body h3 { font-family: var(--ci-font-display); font-size: 1.12rem; letter-spacing: .01em; margin: 2.4rem 0 .6rem; }
 .reg-letters .body strong { font-weight: 700; }
 .reg-letters .article .share { border-top: 1px solid #e4e2dc; margin-top: 2.4rem; padding-top: 1rem; }
