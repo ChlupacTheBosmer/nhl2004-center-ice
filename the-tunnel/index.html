@@ -2,20 +2,20 @@
 <html lang="en" data-outlet="the-tunnel" class="reg-tunnel">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="build" content="20260915211418">
+<meta name="build" content="20260915214026">
 <title>The Tunnel · The Tunnel</title>
 <meta name="description" content="Post-game interviews and studio sit-downs, on the record">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600;700&family=Inter:wght@400;600;700;800&family=Libre+Franklin:wght@400;700;800&family=Merriweather:wght@400;700;900&family=Oswald:wght@500;600;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;700;900&family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400;600&family=Spectral:ital,wght@0,400;0,600;0,800;1,400&family=Work+Sans:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
-<link rel="stylesheet" href="../assets/brand/outlets.css?b=20260915211418">
+<link rel="stylesheet" href="../assets/brand/outlets.css?b=20260915214026">
 <style>[data-outlet='the-tunnel']{--ci-font-display:'Barlow Condensed', 'Arial Narrow', sans-serif;--ci-font-body:'Roboto', system-ui, sans-serif;--ci-font-mono:'Roboto Mono', monospace;}</style>
-<link rel="stylesheet" href="../styles.css?b=20260915211418">
+<link rel="stylesheet" href="../styles.css?b=20260915214026">
 <link rel="icon" href="../assets/brand/the-tunnel/emblem.png">
 
 </head>
 <body>
 <header class="mh mh-tunnel"><div class="wrap"><a class="brand" href="../the-tunnel/"><img class="emblem" src="../assets/brand/the-tunnel/emblem.png" alt=""><span class="wm">The Tunnel</span><span class="live">Audio</span></a>
-        <nav><a class="cur" href="../the-tunnel/">Interviews</a><a href="../the-tunnel/#postgame">Post-game</a><a href="../the-tunnel/#sitdown">Sit-downs</a><a href="../the-tunnel/#coach">The coach</a><a class="hub" href="../">Center Ice</a></nav></div>
+        <nav><a class="cur" href="../the-tunnel/">Interviews</a><a href="../the-tunnel/#postgame">Post-game</a><a href="../the-tunnel/#sitdown">Sit-downs</a><a href="../the-tunnel/#coach">The coach</a><a href="../the-tunnel/#gm">The GM</a><a class="hub" href="../">Center Ice</a></nav></div>
         <div class="wrap desks"><span>Desks</span><a href="../league-wire/"  title="League Wire">Wire</a><a href="../plus-minus/"  title="Plus/Minus">Plus/Minus</a><a href="../home-ice-network/"  title="Home Ice Network">HIN</a><a href="../queen-city-telegram/"  title="Queen City Telegram">Telegram</a><a href="../slot-report/"  title="The Slot Report">Slot Report</a><a href="../hot-stove/"  title="The Hot Stove">Hot Stove</a><a href="../hockey-gazette/"  title="The Hockey Gazette">Gazette</a><a href="../prospect-file/"  title="The Prospect File">Prospect File</a><a href="../penalty-box/"  title="The Penalty Box">Penalty Box</a><a href="../scouting-bureau/"  title="League Scouting Bureau">LSB</a><a href="../rinkside/"  title="Rinkside">Rinkside</a><a href="../the-building/"  title="The Building">Building</a><a href="../the-postbag/"  title="The Postbag">Postbag</a><a href="../the-sweater/"  title="The Sweater">Sweater</a><a href="../the-tunnel/" class=cur title="The Tunnel">Tunnel</a><a href="../second-intermission/"  title="The Second Intermission">Podcast</a></div></header><main class="wrap home-tunnel"><section class="ivlead" data-kind="postgame"><a class="pic" href="../the-tunnel/2005/01/15/kolzig-knows-what-the-crease-sounds-like-at-home-and-it-is-not-this.html"><img src="../images/library/2005-01-15-the-tunnel-kolzig-knows-what-the-crease-sounds-like-at-home-and-it-is-not-this-837.png?v=1789490978" alt=""></a><div class="ib">
             <div class="meta"><span class="ivkind k-postgame">Post-game</span><img class="crest" src="../assets/crests/WSH.png" alt="WSH" title="WSH"><time>Saturday, 15 January 2005</time><span>·</span><span>2:38</span></div>
             <h1><a href="../the-tunnel/2005/01/15/kolzig-knows-what-the-crease-sounds-like-at-home-and-it-is-not-this.html">Kolzig knows what the crease sounds like at home, and it is not this</a></h1><p class="dek">After a 1-3 loss to New York Islanders® that made his home mark 10-10, the Capitals&#x27; goaltender talks about the noise, the shutout drought, and why the road suits him better than the building.</p><audio controls preload="metadata" src="../audio/interviews/the-tunnel-kolzig-knows-what-the-crease-sounds-like-at-home-and-it-is-not-this.m4a"></audio>
@@ -139,7 +139,7 @@
   var links = document.querySelectorAll("nav a");
   function apply() {
     var want = (location.hash || "").replace("#", "").trim();
-    var known = want === "postgame" || want === "sitdown" || want === "coach";
+    var known = want === "postgame" || want === "sitdown" || want === "coach" || want === "gm";
     var shown = 0;
     Array.prototype.forEach.call(rows(), function (el) {
       var hit = !known || el.getAttribute("data-kind") === want;

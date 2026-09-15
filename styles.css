@@ -436,11 +436,103 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
    stayed on screen and the buttons looked dead. This settles it. */
 [hidden] { display: none !important; }
 
-/* The Building: a business desk. Ink and brass on a warm paper, so it does not
-   read as another analytics site sitting next to The Slot Report. */
-[data-outlet='the-building'] { --ci-ink: #15201c; --ci-surface: #1e2f28; --ci-paper: #f7f6f2; --ci-primary: #2f6d55; --ci-accent: #b4832b; --ci-muted: #6d7a74; }
+/* The Building: the business pages. Printed on tinted stock the way a financial
+   paper is, so it is recognisable as the money section from across the room and
+   cannot be mistaken for The Slot Report, which is white and about players. Serif
+   headlines, a ticker across the top, and every figure in tabular numerals so a
+   column of money lines up. */
+[data-outlet='the-building'] { --ci-ink: #1c1a15; --ci-surface: #2a271f; --ci-paper: #f6ecdf; --ci-primary: #1f5c4a; --ci-accent: #99310f; --ci-muted: #7b7263; --ci-line: #e0d2bf; }
 .reg-ledger body { background: var(--ci-paper); }
 
-/* The Postbag: a letters page. Postal blue and a stamp red on off-white. */
-[data-outlet='the-postbag'] { --ci-ink: #1a1c2b; --ci-surface: #232741; --ci-paper: #fbfaf6; --ci-primary: #2d3f7c; --ci-accent: #b03a2e; --ci-muted: #6e7285; }
+.mh-ledger { background: var(--ci-paper); border-bottom: 2px solid var(--ci-ink); }
+.mh-ledger .ticker { background: var(--ci-ink); color: var(--ci-paper); font-size: .74rem; letter-spacing: .04em; }
+.mh-ledger .ticker .wrap { display: flex; gap: 2rem; padding-block: .42rem; overflow-x: auto; white-space: nowrap; }
+.mh-ledger .ticker .tk b { color: var(--ci-paper); opacity: .62; font-weight: 500; text-transform: uppercase; letter-spacing: .1em; margin-right: .4rem; }
+.mh-ledger .ticker .tk { font-variant-numeric: tabular-nums; }
+.mh-ledger > .wrap { display: flex; align-items: center; gap: 1rem; padding-block: 1.1rem; }
+.mh-ledger .brand { display: flex; align-items: center; gap: .8rem; }
+.mh-ledger .emblem { width: 44px; height: 44px; }
+.mh-ledger .words { display: flex; flex-direction: column; }
+.mh-ledger .wm { font-family: var(--ci-font-body); font-weight: 700; font-size: 1.9rem; letter-spacing: -.02em; color: var(--ci-ink); line-height: 1; }
+.mh-ledger .tag { font-size: .73rem; letter-spacing: .13em; text-transform: uppercase; color: var(--ci-muted); margin-top: .22rem; }
+.mh-ledger nav { margin-left: auto; } .mh-ledger nav a { color: var(--ci-ink); font-size: .85rem; }
+.mh-ledger .desks { border-top: 1px solid var(--ci-line); padding-block: .5rem; }
+
+/* the front page: a lead, then the ledger itself */
+.home-ledger { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(300px, 1fr); gap: 2.4rem; padding-block: 2rem; align-items: start; }
+.home-ledger .lead .filed { margin-top: 1.4rem; border-top: 1px solid var(--ci-line); }
+.home-ledger .ledger { border: 1px solid var(--ci-ink); background: #fffaf3; padding: 1.1rem 1.15rem 1.3rem; }
+.home-ledger .ledger h2 { font-family: var(--ci-font-body); font-size: 1.15rem; letter-spacing: .01em; border-bottom: 2px solid var(--ci-ink); padding-bottom: .45rem; }
+.home-ledger .ledger .note { font-size: .82rem; line-height: 1.5; color: var(--ci-muted); margin: .7rem 0 .9rem; }
+.home-ledger .ledger .src { font-size: .74rem; line-height: 1.5; color: var(--ci-muted); margin: .9rem 0 0; border-top: 1px solid var(--ci-line); padding-top: .6rem; }
+.home-ledger .scroll { overflow-x: auto; }
+table.led { width: 100%; border-collapse: collapse; font-size: .8rem; font-variant-numeric: tabular-nums; }
+table.led th { text-align: left; font-weight: 600; font-size: .68rem; letter-spacing: .09em; text-transform: uppercase; color: var(--ci-muted); padding: .35rem .4rem; border-bottom: 1px solid var(--ci-ink); }
+table.led td { padding: .33rem .4rem; border-bottom: 1px solid var(--ci-line); }
+table.led td.n, table.led th.n { text-align: right; }
+table.led td.strong { font-weight: 700; }
+table.led td.neg { color: var(--ci-accent); }
+table.led td.club { display: flex; align-items: center; gap: .35rem; font-weight: 600; }
+table.led td.club img, table.led td.club svg { width: 16px; height: 16px; }
+table.led tr.us td { background: rgba(31, 92, 74, .09); }
+
+/* the piece */
+.reg-ledger .article .col { max-width: 700px; }
+.reg-ledger .article h1 { font-family: var(--ci-font-body); font-weight: 700; letter-spacing: -.02em; font-size: clamp(1.8rem, 3.6vw, 2.5rem); }
+.reg-ledger .article .dek { font-size: 1.1rem; line-height: 1.55; color: var(--ci-muted); border-bottom: 2px solid var(--ci-ink); padding-bottom: 1.1rem; margin-bottom: 1.2rem; }
+.reg-ledger .body { font-size: 1.08rem; line-height: 1.68; font-variant-numeric: tabular-nums; }
+.reg-ledger .body h2 { font-family: var(--ci-font-body); font-size: 1.15rem; letter-spacing: .01em; border-top: 1px solid var(--ci-line); padding-top: 1.1rem; margin-top: 2.2rem; }
+.reg-ledger .body table { font-variant-numeric: tabular-nums; font-size: .88rem; }
+.reg-ledger .body figure.chart { background: #fffaf3; border: 1px solid var(--ci-line); padding: .8rem; }
+@media (max-width: 860px) { .home-ledger { grid-template-columns: 1fr; } }
+
+/* The Postbag: a newspaper's letters column. One narrow measure of serif type on
+   white, hairline rules, and no furniture. Everything here exists to get out of
+   the way of the correspondence. Postal blue and a stamp red for the two marks
+   that are allowed to be coloured. */
+[data-outlet='the-postbag'] { --ci-ink: #1a1c2b; --ci-surface: #232741; --ci-paper: #ffffff; --ci-primary: #2d3f7c; --ci-accent: #b03a2e; --ci-muted: #6e7285; }
 .reg-letters body { background: var(--ci-paper); }
+
+.mh-letters { background: #fff; border-bottom: 1px solid #e4e2dc; padding-top: 1.4rem; }
+.mh-letters .wrap { display: flex; align-items: center; gap: 1rem; }
+.mh-letters .brand { display: flex; align-items: center; gap: .85rem; }
+.mh-letters .emblem { width: 46px; height: 46px; }
+.mh-letters .words { display: flex; flex-direction: column; gap: .18rem; }
+.mh-letters .wm { font-family: var(--ci-font-display); font-weight: 700; font-size: 1.85rem; letter-spacing: -.015em; color: var(--ci-ink); line-height: 1; }
+.mh-letters .rule { display: block; width: 2.2rem; height: 2px; background: var(--ci-accent); }
+.mh-letters .tag { font-size: .72rem; letter-spacing: .16em; text-transform: uppercase; color: var(--ci-muted); }
+.mh-letters nav { margin-left: auto; } .mh-letters nav a { color: var(--ci-ink); font-size: .85rem; }
+.mh-letters .desks { border-top: 1px solid #f0eee8; margin-top: 1rem; padding-block: .5rem; }
+
+/* the index: a dated list, set in type */
+.home-letters .col { max-width: 660px; margin: 0 auto; padding: 2.5rem clamp(16px, 4vw, 28px) 3rem; }
+.home-letters .standfirst { font-family: var(--ci-font-body); font-size: 1.05rem; line-height: 1.65; color: var(--ci-muted); font-style: italic; margin: 0 0 2.2rem; padding-bottom: 1.6rem; border-bottom: 2px solid var(--ci-ink); }
+.home-letters .ed { padding-block: 1.5rem; border-bottom: 1px solid #eceae4; }
+.home-letters .ed time { font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--ci-accent); }
+.home-letters .ed h2 { font-family: var(--ci-font-display); font-size: 1.5rem; font-weight: 700; letter-spacing: -.012em; margin: .35rem 0 .45rem; }
+.home-letters .ed h2 a { color: var(--ci-ink); text-decoration: none; }
+.home-letters .ed h2 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.home-letters .ed p { margin: 0; color: var(--ci-muted); line-height: 1.6; }
+.home-letters .ed .crests { display: flex; gap: .35rem; margin-top: .7rem; opacity: .75; }
+.home-letters .ed .crests img, .home-letters .ed .crests svg { width: 17px; height: 17px; }
+
+/* the column itself */
+.reg-letters .article .col { max-width: 640px; padding-top: 2.5rem; }
+.reg-letters .colmark { display: block; width: 54px; height: 54px; margin: 0 auto 1.4rem; }
+.reg-letters .section { text-align: center; font-size: .72rem; letter-spacing: .2em; text-transform: uppercase; color: var(--ci-accent); margin: 0 0 1rem; }
+.reg-letters .article h1 { font-family: var(--ci-font-display); font-size: clamp(1.85rem, 4vw, 2.5rem); font-weight: 700; letter-spacing: -.018em; text-align: center; line-height: 1.15; }
+.reg-letters .article .dek { text-align: center; font-style: italic; color: var(--ci-muted); font-size: 1.08rem; line-height: 1.55; margin: .9rem auto 1.1rem; max-width: 34em; }
+.reg-letters .dateline { text-align: center; font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: var(--ci-muted); margin: 0 0 1.8rem; padding-bottom: 1.6rem; border-bottom: 2px solid var(--ci-ink); }
+.reg-letters .body { font-family: var(--ci-font-body); font-size: 1.12rem; line-height: 1.72; }
+.reg-letters .body > p:first-of-type::first-letter { float: left; font-family: var(--ci-font-display); font-size: 3.3rem; line-height: .82; font-weight: 700; padding: .12rem .5rem .1rem 0; color: var(--ci-ink); }
+/* a letter, as the desk sets it: a blockquote. A hanging quotation mark, an
+   indent, and a hairline above so the eye knows a new correspondent has begun. */
+.reg-letters .body blockquote { position: relative; margin: 2.2rem 0 1.4rem; padding: 1.4rem 0 0 2.4rem; border: 0; border-top: 1px solid #e4e2dc; font-style: italic; color: var(--ci-ink); }
+.reg-letters .body blockquote::before { content: "\201C"; position: absolute; left: 0; top: .5rem; font-family: var(--ci-font-display); font-size: 3.4rem; line-height: 1; color: var(--ci-accent); opacity: .5; }
+/* the signature the desk writes under a letter: "-- Name, City" */
+.reg-letters .body blockquote + p em:only-child,
+.reg-letters .body p > em:only-child { display: block; text-align: right; font-style: normal; font-size: .82rem; letter-spacing: .09em; text-transform: uppercase; color: var(--ci-muted); margin-top: -.6rem; }
+.reg-letters .body h2, .reg-letters .body h3 { font-family: var(--ci-font-display); font-size: 1.12rem; letter-spacing: .01em; margin: 2.4rem 0 .6rem; }
+.reg-letters .body strong { font-weight: 700; }
+.reg-letters .article .share { border-top: 1px solid #e4e2dc; margin-top: 2.4rem; padding-top: 1rem; }
+.reg-letters .after { max-width: 660px; margin: 0 auto; }
