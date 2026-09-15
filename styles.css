@@ -435,3 +435,12 @@ figcaption { font-size: .78rem; color: var(--ci-muted); margin-top: .35rem; }
    display:none -- which an author rule like .ivrow{display:grid} overrides, so the rows
    stayed on screen and the buttons looked dead. This settles it. */
 [hidden] { display: none !important; }
+
+/* The Building: a business desk. Ink and brass on a warm paper, so it does not
+   read as another analytics site sitting next to The Slot Report. */
+[data-outlet='the-building'] { --ci-ink: #15201c; --ci-surface: #1e2f28; --ci-paper: #f7f6f2; --ci-primary: #2f6d55; --ci-accent: #b4832b; --ci-muted: #6d7a74; }
+.reg-ledger body { background: var(--ci-paper); }
+
+/* The Postbag: a letters page. Postal blue and a stamp red on off-white. */
+[data-outlet='the-postbag'] { --ci-ink: #1a1c2b; --ci-surface: #232741; --ci-paper: #fbfaf6; --ci-primary: #2d3f7c; --ci-accent: #b03a2e; --ci-muted: #6e7285; }
+.reg-letters body { background: var(--ci-paper); }

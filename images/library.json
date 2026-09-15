@@ -109,7 +109,8 @@
    "outlet": "queen-city-telegram",
    "used_by": [
     "2004-12-04/queen-city-telegram-young-guns-watch-4-leafs-on-the-index-risers-and-i-cannot-find-a-reaso",
-    "2004-12-28/prospect-file-the-book-says-92-the-coach-says-healthy-scratch"
+    "2004-12-28/prospect-file-the-book-says-92-the-coach-says-healthy-scratch",
+    "2005-01-15/the-building-what-a-point-costs-edmonton-runs-the-league-s-worst-building-and-its-c"
    ],
    "made": "2026-09-10"
   },
@@ -1498,7 +1499,8 @@
    "alt": "Brendan Shanahan at the boards, Detroit home sweater, looking down the ice",
    "outlet": "hot-stove",
    "used_by": [
-    "2004-12-17/hot-stove-the-rebuild-math-in-detroit-80-89m-no-first-no-yzerman"
+    "2004-12-17/hot-stove-the-rebuild-math-in-detroit-80-89m-no-first-no-yzerman",
+    "2005-01-15/penalty-box-you-re-paying-81-to-watch-a-63-on-first-pair-detroit-has-the-most-expe"
    ],
    "made": "2026-09-14"
   },
@@ -3407,6 +3409,53 @@
    ],
    "made": "2026-09-15",
    "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-01-15-hockey-gazette-detroit-pays-80-89m-the-most-in-the-leag-1.png",
+   "scene": "Brett Hull of the Detroit Red Wings in the dark home sweater, the winged wheel crest clear on the chest, driving the puck up the left wing at Joe Louis Arena. He is mid-stride, head turned to read a Chicago Blackhawks defenseman closing from the near boards. The defenseman is reaching with his stick, body between Hull and the play. A second Chicago forward backchecks in the far corner. Shot from the press box above the glass on the bench side, arena light catching the spray off Hull's skate blade, crowd blurred behind.",
+   "tags": [
+    "arena",
+    "chicago",
+    "detroit",
+    "hull",
+    "veteran"
+   ],
+   "alt": "Brett Hull drives the wing against a closing Chicago defenseman at Joe Louis Arena",
+   "outlet": "hockey-gazette",
+   "used_by": [
+    "2005-01-15/hockey-gazette-detroit-pays-80-89m-the-most-in-the-league-and-it-is-0-and-6-against-t"
+   ],
+   "made": "2026-09-15"
+  },
+  {
+   "path": "images/library/2005-01-15-the-postbag-the-postbag-nine-straight-in-tampa-and-t-1.png",
+   "scene": "Vincent Lecavalier, number 4 for the Tampa Bay Lightning, in the dark blue and black home sweater with the lightning bolt crest on the chest, carrying the puck over the offensive blue line with his head turned to his left shoulder, a Pittsburgh Penguins defender in the white road sweater reaching across and closing the gap, at home in Tampa, shot from the corner of the stands with a telephoto, arena lights hot on the ice and the crowd dark beyond them.",
+   "tags": [
+    "arena",
+    "lecavalier",
+    "tb"
+   ],
+   "alt": "Vincent Lecavalier carries the puck over the blue line, a Pittsburgh defender closing on him",
+   "outlet": "the-postbag",
+   "used_by": [
+    "2005-01-15/the-postbag-the-postbag-nine-straight-in-tampa-and-the-page-that-finally-says-so"
+   ],
+   "made": "2026-09-15"
+  },
+  {
+   "path": "images/library/2005-01-15-the-postbag-the-postbag-nine-straight-in-tampa-and-t-2.png",
+   "scene": "An Edmonton Oilers forward in the dark home sweater with the oil drop crest, low in frame, head down over the puck along the half wall in his own end, the top half of the rink lost in the flat shadow of an old building's roof, one stanchion of the glass catching the arena light, the crowd a dark band above the boards, shot from behind the glass near the corner.",
+   "tags": [
+    "arena",
+    "atmosphere",
+    "edm"
+   ],
+   "alt": "An Edmonton forward works the puck along the wall under the building's shadow",
+   "outlet": "the-postbag",
+   "used_by": [
+    "2005-01-15/the-postbag-the-postbag-nine-straight-in-tampa-and-the-page-that-finally-says-so"
+   ],
+   "made": "2026-09-15"
   }
  ]
 }
