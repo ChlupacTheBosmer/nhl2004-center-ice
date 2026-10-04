@@ -177,6 +177,15 @@
     "the-tunnel-heatley-on-a-day-off-a-father-s-phone-call-and-being-from-the-bus"
    ]
   },
+  "429|CGY|jacket": {
+   "alt": "Jarome Iginla in the Calgary Flames home sweater sits across from Jan Kowalczyk in the Center Ice studio.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-04",
+   "path": "images/library/2005-02-19-the-tunnel-iginla-i-don-t-ask-about-the-phone.png",
+   "used_by": [
+    "the-tunnel-iginla-i-don-t-ask-about-the-phone"
+   ]
+  },
   "429|CGY|sweater": {
    "alt": "Jarome Iginla in the Calgary tunnel, No. 12, sweater damp, mid-sentence with Jan Kowalczyk",
    "credit": "Center Ice illustration",
@@ -443,7 +452,8 @@
    "made": "2026-09-15",
    "path": "images/library/2004-12-07-the-tunnel-babcock-on-a-room-that-cannot-win-on-the-road-we-have-to-be-a-better-t-7231.png",
    "used_by": [
-    "the-tunnel-babcock-on-a-room-that-cannot-win-on-the-road-we-have-to-be-a-better-t"
+    "the-tunnel-babcock-on-a-room-that-cannot-win-on-the-road-we-have-to-be-a-better-t",
+    "the-tunnel-babcock-three-forwards-out-same-game"
    ]
   },
   "coach-13|LA|suit": {
