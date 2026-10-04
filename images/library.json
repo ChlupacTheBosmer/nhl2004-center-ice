@@ -3081,8 +3081,7 @@
    "used_by": [
     "2005-01-15/the-sweater-99-deking-225-pounds-todd-bertuzzi-plays-for-july-at-his-best",
     "2005-01-19/rinkside-at-31-the-league-s-best-scorer-is-on-the-cheapest-team-in-the-playoff-",
-    "2005-01-19/the-building-what-a-point-costs-vancouver-runs-the-league-s-cheapest-engine-from-a-",
-    "2005-02-07/slot-report-0-49m-per-point-98-6-morale-the-cheapest-room-in-hockey-is-also-the-ha"
+    "2005-01-19/the-building-what-a-point-costs-vancouver-runs-the-league-s-cheapest-engine-from-a-"
    ],
    "made": "2026-09-14"
   },
@@ -3514,6 +3513,23 @@
    "outlet": "the-tunnel",
    "used_by": [
     "the-tunnel-trotz-we-didn-t-earn-it-pretty-but-we-earned-it"
+   ],
+   "made": "2026-10-04",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-02-07-the-tunnel-burns-puts-his-top-line-where-his-mouth-is.png",
+   "scene": "candid colour television still from the mid-2000s, a man in his forties in a dark suit, white shirt and tie, a dark curtain behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "burns",
+    "coach",
+    "interview",
+    "nj"
+   ],
+   "alt": "Pat Burns in the visitor's tunnel after the overtime win at Washington, arms crossed, speaking to Marcus Bell.",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-burns-puts-his-top-line-where-his-mouth-is"
    ],
    "made": "2026-10-04",
    "source": "pod-instantid"
