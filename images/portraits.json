@@ -19,7 +19,8 @@
     "the-tunnel-turco-back-in-the-net-and-team-dal-keeps-finding-ways",
     "the-tunnel-turco-points-to-the-first-not-the-third-after-phi-blows-out-dallas",
     "the-tunnel-turco-nineteen-and-five-here-means-something-and-tonight-we-wasted-it",
-    "the-tunnel-marty-turco-sometimes-a-team-just-works-harder-in-the-corners-than-you"
+    "the-tunnel-marty-turco-sometimes-a-team-just-works-harder-in-the-corners-than-you",
+    "the-tunnel-turco-collects-his-30th-and-a-clean-night-that-got-away"
    ]
   },
   "1044|NSH|sweater": {
@@ -293,7 +294,8 @@
    "made": "2026-10-04",
    "path": "images/library/2004-12-07-the-tunnel-bertuzzi-one-week-in-i-feel-like-i-ve-been-here-a-month.png",
    "used_by": [
-    "the-tunnel-bertuzzi-i-had-to-stop-being-twenty-two"
+    "the-tunnel-bertuzzi-i-had-to-stop-being-twenty-two",
+    "the-tunnel-todd-bertuzzi-i-m-not-going-to-lose-sleep-over-a-july-date"
    ]
   },
   "68|VAN|sweater": {
@@ -406,6 +408,15 @@
     "the-tunnel-joe-thornton-on-the-new-look-line-30-goals-in-30-games-and-a-loss-that"
    ]
   },
+  "None|CHI|sweater": {
+   "alt": "A telephone and a microphone on a front-office desk overlooking an empty rink.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-04",
+   "path": "images/library/2005-01-15-the-tunnel-we-are-actually-not-really-buying-this-year-says-taylor-with-one-excep.png",
+   "used_by": [
+    "the-tunnel-hughes-the-dollars-are-right-the-points-are-not"
+   ]
+  },
   "None|FLA|sweater": {
    "alt": "Roberto Luongo speaks with Marcus Bell in the Florida Panthers tunnel after a 2-1 win over Carolina.",
    "credit": "Center Ice illustration",
@@ -476,6 +487,15 @@
    "path": "images/library/2004-12-04-penalty-box-hot-seat-meter-five-coaches-polishing-th.png",
    "used_by": [
     "the-tunnel-hartley-calls-the-next-three-at-home-his-window"
+   ]
+  },
+  "coach-20|OTT|suit": {
+   "alt": "Marcus Bell interviews Ottawa head coach Bryan Murray in the tunnel after the 4-1 win at Toronto.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-04",
+   "path": "images/library/2005-02-16-the-tunnel-bryan-murray-liked-the-win-not-his-own-february.png",
+   "used_by": [
+    "the-tunnel-bryan-murray-liked-the-win-not-his-own-february"
    ]
   },
   "coach-21|PHI|suit": {

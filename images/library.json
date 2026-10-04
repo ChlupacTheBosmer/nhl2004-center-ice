@@ -66,8 +66,7 @@
     "2005-02-06/home-ice-network-numbers-game-buffalo-and-new-york-sit-at-55-points-for-8th-and-they-pl",
     "2005-02-06/queen-city-telegram-northeast-ledger-7-3-1-in-the-division-and-the-only-even-series-is-the",
     "2005-02-09/hockey-gazette-florida-draws-15-051-for-9-18-hockey-at-home-and-its-general-manager-i",
-    "2005-02-12/slot-report-faceoff-kings-4-of-the-league-s-13-best-draw-men-play-under-12-minutes",
-    "2005-02-16/the-sweater-sons-of-st-albert-where-jarome-iginla-learned-to-score-92"
+    "2005-02-12/slot-report-faceoff-kings-4-of-the-league-s-13-best-draw-men-play-under-12-minutes"
    ],
    "made": "2026-09-10"
   },
@@ -3425,7 +3424,8 @@
    "alt": "A telephone and a microphone on a front-office desk overlooking an empty rink.",
    "outlet": "the-tunnel",
    "used_by": [
-    "the-tunnel-we-are-actually-not-really-buying-this-year-says-taylor-with-one-excep"
+    "the-tunnel-we-are-actually-not-really-buying-this-year-says-taylor-with-one-excep",
+    "the-tunnel-hughes-the-dollars-are-right-the-points-are-not"
    ],
    "made": "2026-09-15"
   },
@@ -3577,6 +3577,23 @@
    "outlet": "the-tunnel",
    "used_by": [
     "the-tunnel-burns-puts-his-top-line-where-his-mouth-is"
+   ],
+   "made": "2026-10-04",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-02-16-the-tunnel-bryan-murray-liked-the-win-not-his-own-february.png",
+   "scene": "candid colour television still from the mid-2000s, a man in his forties in a dark suit, white shirt and tie, a dark curtain behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "coach",
+    "interview",
+    "murray",
+    "ott"
+   ],
+   "alt": "Marcus Bell interviews Ottawa head coach Bryan Murray in the tunnel after the 4-1 win at Toronto.",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-bryan-murray-liked-the-win-not-his-own-february"
    ],
    "made": "2026-10-04",
    "source": "pod-instantid"
