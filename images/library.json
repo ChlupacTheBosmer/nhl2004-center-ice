@@ -21,8 +21,7 @@
     "2005-02-12/hot-stove-rumor-meter-we-called-the-streak-dead-at-57-it-s-at-65-every-man-signe",
     "2005-02-12/penalty-box-88-86-third-line-11-975-in-the-building-someone-in-phoenix-should-be-f",
     "2005-02-19/penalty-box-the-4th-happiest-room-in-hockey-lost-21-of-31-at-home-banked-15-77-mil",
-    "2005-03-07/penalty-box-thirteen-times-to-overtime-thirteen-times-to-the-loss-column",
-    "2005-03-14/hot-stove-confirmed-san-jose-moves-sturm-the-desk-called-it-on-february-26"
+    "2005-03-07/penalty-box-thirteen-times-to-overtime-thirteen-times-to-the-loss-column"
    ],
    "made": "2026-09-10"
   },
@@ -2649,8 +2648,7 @@
     "2005-02-09/prospect-file-the-7th-pick-from-2001-has-65-points-a-1-year-deal-and-a-team-at-44",
     "2005-02-13/home-ice-network-three-signings-three-designations-every-february-9-free-agent-lands-on",
     "2005-02-26/hot-stove-rumor-meter-team-sj-holds-the-19th-and-26th-best-expirings-last-in-the",
-    "2005-03-04/penalty-box-8-and-24-on-the-road-not-one-top-30-scorer-21-19-million-in-the-till-t",
-    "2005-03-14/hockey-gazette-34-6-percent-mike-komisarek-carries-nearly-a-third-of-montreal-s-offen"
+    "2005-03-04/penalty-box-8-and-24-on-the-road-not-one-top-30-scorer-21-19-million-in-the-till-t"
    ],
    "made": "2026-09-14"
   },
@@ -2962,8 +2960,7 @@
    "alt": "Lecavalier carries the puck through the neutral zone against the Islanders at home",
    "outlet": "hockey-gazette",
    "used_by": [
-    "2005-01-12/hockey-gazette-the-lightning-have-won-eight-straight-and-pulled-4-clear-of-carolina-a",
-    "2005-03-11/the-building-the-road-tax-tampa-bay-pays-the-maximum-travel-penalty-and-wins-20-of-"
+    "2005-01-12/hockey-gazette-the-lightning-have-won-eight-straight-and-pulled-4-clear-of-carolina-a"
    ],
    "made": "2026-09-14"
   },
@@ -3760,6 +3757,23 @@
     "the-tunnel-robert-lang-the-bureau-said-61-and-i-am-here-anyway"
    ],
    "made": "2026-10-04",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-03-11-the-tunnel-kitchen-puts-brent-johnson-back-between-the-pipes-for-saturday.png",
+   "scene": "candid colour television still from the mid-2000s, a man in his forties in a dark suit, white shirt and tie, a dark curtain behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "coach",
+    "interview",
+    "kitchen",
+    "stl"
+   ],
+   "alt": "Jan Kowalczyk interviews Mike Kitchen in the Savis Center tunnel before Saturday's game against San Jose.",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-kitchen-puts-brent-johnson-back-between-the-pipes-for-saturday"
+   ],
+   "made": "2026-10-05",
    "source": "pod-instantid"
   }
  ]
