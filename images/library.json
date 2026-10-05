@@ -175,9 +175,7 @@
     "2005-03-04/hockey-gazette-phoenix-has-won-7-in-a-row-on-minus-11-hockey-the-longest-active-strea",
     "2005-03-07/home-ice-network-first-meeting-tampa-bay-and-colorado-have-not-played-and-the-table-say",
     "2005-03-11/hockey-gazette-first-in-the-west-on-a-goaltender-graded-78-colorado-has-the-league-s-",
-    "2005-03-16/home-ice-network-notes-from-the-west-phoenix-has-lost-two-defensemen-for-the-season-and",
-    "2005-03-16/slot-report-8-designations-14-contracts-5-points-phoenix-holds-the-final-spot-on-e",
-    "2005-03-16/hockey-gazette-the-lowest-77-boston-is-5th-in-the-east-on-a-goaltender-the-book-puts-"
+    "2005-03-16/home-ice-network-notes-from-the-west-phoenix-has-lost-two-defensemen-for-the-season-and"
    ],
    "made": "2026-09-10"
   },
@@ -3782,6 +3780,23 @@
     "the-tunnel-robert-lang-the-bureau-said-61-and-i-am-here-anyway"
    ],
    "made": "2026-10-04",
+   "source": "pod-instantid"
+  },
+  {
+   "path": "images/library/2005-03-16-the-tunnel-crawford-moved-one-chair-this-week-and-it-s-the-one-with-the-pads-on-i.png",
+   "scene": "candid colour television still from the mid-2000s, a man in his forties in a dark suit, white shirt and tie, a dark curtain behind him out of focus, chest up, facing the camera, soft studio lighting, natural skin texture, a little 35mm film grain, colour photograph",
+   "tags": [
+    "coach",
+    "crawford",
+    "interview",
+    "van"
+   ],
+   "alt": "Marcus Bell interviews Canucks coach Marc Crawford on the bench after the loss to Toronto",
+   "outlet": "the-tunnel",
+   "used_by": [
+    "the-tunnel-crawford-moved-one-chair-this-week-and-it-s-the-one-with-the-pads-on-i"
+   ],
+   "made": "2026-10-05",
    "source": "pod-instantid"
   }
  ]
