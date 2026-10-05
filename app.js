@@ -95,6 +95,26 @@ function leafsNav(s) {
     <div class="box"><h2>Front office</h2><a href="${D.index.front_office}">Internal system</a><a href="${D.index.front_office}#lines">Lines</a><a href="${D.index.front_office}#roster">Roster</a></div>`;
   document.querySelectorAll("[data-nav]").forEach(a => a.onclick = e => { e.preventDefault(); const [k, v] = a.dataset.nav.split(":"); setState(k === "all" ? { outlet: "", kind: "" } : { [k]: state()[k] === v ? "" : v }); });
 }
+// The current round of the playoffs, for the rail. The data is derived at build
+// (data/league.json, "bracket"): a series is a pairing after the regular
+// season's 1,230th game, its score is the games won, and it is over only when
+// the schedule has moved a club on. Nothing here says how many wins end one.
+function bracketBox() {
+  const B = D.league.bracket; if (!B) return "";
+  const rd = B.current_round, seed = B.seed || {};
+  const name = { 1: "First round", 2: "Second round", 3: "Conference finals", 4: "Stanley Cup Final" }[rd] || `Round ${rd}`;
+  const tag = t => seed[t] == null ? "" : (B.confirmed ? `<small>(${seed[t]})</small>` : `<small>${seed[t]}th</small>`);
+  const short = d => new Date(d + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+  const box = s => {
+    const hi = s.teams.slice().sort((a, b) => (seed[a] ?? 99) - (seed[b] ?? 99))[0], lo = s.teams.find(t => t !== hi);
+    const row = t => `<div class="mu-row ${s.over ? (s.advanced === t ? "won" : "out") : (s.leader === t ? "lead" : "")}">${crest(t)}<span class="ab">${t}${tag(t)}</span><span class="w">${s.wins[t]}</span></div>`;
+    const foot = s.over ? `${s.advanced} advance` : s.next ? `G${s.played + 1} · ${short(s.next.game_date)} at ${s.next.home}` : "";
+    return `<a class="mu" href="${root}playoffs/#${hi}-${lo}">${row(hi)}${row(lo)}${foot ? `<div class="mu-foot">${foot}</div>` : ""}</a>`;
+  };
+  const conf = c => B.series.filter(s => s.conference === c && s.round === rd).sort((a, b) => Math.min(...a.teams.map(t => seed[t] ?? 99)) - Math.min(...b.teams.map(t => seed[t] ?? 99)));
+  const col = (c, label) => { const xs = conf(c); return xs.length ? `<div class="mu-conf"><h4>${label}</h4>${xs.map(box).join("")}</div>` : ""; };
+  return `<div class="box bracket-box"><h2>Stanley Cup Playoffs</h2><p class="rd-name">${name}</p>${col(1, "East")}${col(0, "West")}<a class="more" href="${root}playoffs/">Full bracket, results and the stories &rarr;</a></div>`;
+}
 function rail(s) {
   const L = D.league, st = L.standings, us = L.team;
   const div = D.teams[us]?.division;
@@ -105,7 +125,7 @@ function rail(s) {
   const next = L.upcoming[0];
   const trending = D.index.items.filter(a => (a.teams || []).includes("TOR") && !["league-wire", "plus-minus"].includes(a.outlet)).slice(0, 6);
   if (page === "leafs") {
-    $("#side").innerHTML = `<div class="box trend"><h2>Trending</h2><ul class="hl">${trending.map((a, i) => `<li><span class="n">${i + 1}</span><div><a href="${root}${a.url}">${esc(a.headline)}</a><small>${esc(outletOf(a).name)} · ${esc(a.byline || "")}</small></div></li>`).join("")}</ul></div>
+    $("#side").innerHTML = `${bracketBox()}<div class="box trend"><h2>Trending</h2><ul class="hl">${trending.map((a, i) => `<li><span class="n">${i + 1}</span><div><a href="${root}${a.url}">${esc(a.headline)}</a><small>${esc(outletOf(a).name)} · ${esc(a.byline || "")}</small></div></li>`).join("")}</ul></div>
       <div class="box"><h2>Next</h2>${next ? `<b>${next.at_home ? "vs" : "at"} ${esc(D.teams[next.opponent]?.name || next.opponent)}</b><br><span class="muted">${fmt(next.game_date)}</span>` : "No game scheduled"}
       <h2>Last games</h2><ul class="hl">${L.recent.slice(0, 6).map(g => `<li><div><b>${g.result}</b> ${g.gf}-${g.ga} ${g.at_home ? "vs" : "at"} ${esc(g.opponent)}${g.overtime ? " (OT)" : ""}<small>${fmtS(g.game_date)}</small></div></li>`).join("")}</ul></div>
       <div class="box"><h2>${esc(D.teams[us]?.division_name || "Division")}</h2>${table(north)}</div>
@@ -116,7 +136,7 @@ function rail(s) {
   const ivBox = iv ? `<div class="box iv-box"><h2>The Tunnel</h2><a href="${root}${iv.url}">${esc(iv.headline)}</a><small class="muted"> · ${fmt(iv.date)}${iv.seconds ? " · " + Math.round(iv.seconds / 60) + " min" : ""}</small><audio controls preload="none" src="${root}${iv.audio}"></audio></div>` : "";
   const pod = D.index.podcast;
   const podBox = pod ? `<div class="box pod-box"><h2>The Second Intermission</h2><a class="art" href="${root}second-intermission/${pod.id}.html"><img src="${root}assets/brand/second-intermission/cover.jpg" alt=""><div><b>${esc(pod.title)}</b><small>Week of ${fmt(pod.start)}${pod.seconds ? " · " + Math.round(pod.seconds / 60) + " min" : ""}</small></div></a><audio controls preload="none" src="${root}${pod.audio}"></audio></div>` : "";
-  $("#side").innerHTML = `${ivBox}${podBox}<div class="box"><h2>Latest from each desk</h2><ul class="hl">${desks}</ul></div>
+  $("#side").innerHTML = `${bracketBox()}${ivBox}${podBox}<div class="box"><h2>Latest from each desk</h2><ul class="hl">${desks}</ul></div>
     <div class="box"><h2>Upcoming games</h2><ul class="hl games">${(L.upcoming_all || []).slice(0, 10).map(g => `<li><div class="g"><span>${crest(g.away)} ${g.away}</span><span class="at">at</span><span>${crest(g.home)} ${g.home}</span></div><small>${fmt(g.game_date)}</small></li>`).join("")}</ul></div>
     <div class="box"><h2>League</h2>${table(st.slice(0, 10))}</div>
     <div class="box"><h2>${esc(D.teams[us]?.division_name || "Division")}</h2>${table(north)}</div>`;
