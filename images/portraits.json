@@ -291,7 +291,8 @@
    "made": "2026-09-15",
    "path": "images/library/2004-12-22-the-tunnel-hasek-s-geometry-the-goalie-who-tells-lidstrom-when-to-breathe.png",
    "used_by": [
-    "the-tunnel-hasek-s-geometry-the-goalie-who-tells-lidstrom-when-to-breathe"
+    "the-tunnel-hasek-s-geometry-the-goalie-who-tells-lidstrom-when-to-breathe",
+    "the-tunnel-hasek-on-watching-the-series-from-the-bench-i-play-when-they-put-me-in"
    ]
   },
   "478|TB|sweater": {
@@ -370,6 +371,15 @@
    "path": "images/library/2005-03-05-the-tunnel-robert-lang-the-bureau-said-61-and-i-am-here-anyway.png",
    "used_by": [
     "the-tunnel-robert-lang-the-bureau-said-61-and-i-am-here-anyway"
+   ]
+  },
+  "55|OTT|sweater": {
+   "alt": "Marcus Bell interviews Ed Belfour in the tunnel after his trade to Ottawa, Belfour wearing the black Senators sweater.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-07",
+   "path": "images/library/2005-05-31-the-tunnel-belfour-traded-from-toronto-to-ottawa-on-a-cup-day.png",
+   "used_by": [
+    "the-tunnel-belfour-traded-from-toronto-to-ottawa-on-a-cup-day"
    ]
   },
   "55|TOR|sweater": {
