@@ -618,10 +618,11 @@ a.mu:hover { border-color: var(--ci-accent); text-decoration: none; transform: t
 .dr-h2 { margin: 2rem 0 .25rem; font-family: var(--ci-font-display); }
 .dr-grp { margin: 1.2rem 0 2rem; } .dr-grp h3 { font-family: var(--ci-font-display); margin: 0 0 .6rem; } .dr-grp h3 small { color: var(--ci-muted); font-weight: 500; font-size: .8rem; }
 .dr-cmp { display: grid; grid-template-columns: minmax(260px, 420px) 1fr; gap: 1.5rem; align-items: start; }
-.radar { width: 100%; height: auto; } .radar .rr { fill: none; stroke: color-mix(in srgb, var(--ci-ink) 18%, transparent); } .radar .rr-rim { stroke: color-mix(in srgb, var(--ci-ink) 35%, transparent); }
-.radar .rs { stroke: color-mix(in srgb, var(--ci-ink) 14%, transparent); } .radar .rv { font-size: 9px; fill: var(--ci-muted); } .radar .rl { font-size: 11px; font-weight: 700; fill: currentColor; }
-.radar .rp polygon { fill-opacity: .12; stroke-width: 2; } .radar .rt { font-size: 11px; font-weight: 700; fill: currentColor; }
-.legend { display: flex; flex-wrap: wrap; gap: .4rem 1rem; margin-bottom: .6rem; font-size: .82rem; } .legend .lg i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: .35rem; } .legend small { color: var(--ci-muted); }
-.strips { display: grid; gap: .35rem; } .strip { display: grid; grid-template-columns: 3.2rem 1fr; gap: .5rem; align-items: center; } .strip .sk { font-size: .72rem; font-weight: 700; letter-spacing: .04em; }
-.sts { display: grid; gap: 2px; } .st { display: grid; grid-template-columns: 1fr 2rem; align-items: center; gap: .4rem; height: 12px; } .st i { display: block; height: 8px; border-radius: 2px; opacity: .8; } .st b { font-size: .72rem; font-weight: 600; text-align: right; } .st-best b { color: var(--ci-accent); } .st-best i { opacity: 1; }
+.dr-radar .radar { width: 100%; height: auto; } .dr-radar .radar .rr { fill: none; stroke: color-mix(in srgb, var(--ci-ink) 18%, transparent); } .dr-radar .radar .rr-rim { stroke: color-mix(in srgb, var(--ci-ink) 35%, transparent); }
+.dr-radar .radar .rs { stroke: color-mix(in srgb, var(--ci-ink) 14%, transparent); } .dr-radar .radar .rv { font-size: 9px; fill: var(--ci-muted); } .dr-radar .radar .rl { font-size: 11px; font-weight: 700; fill: currentColor; }
+.dr-radar .radar .rp polygon { fill-opacity: .12; stroke-width: 2; } .dr-radar .radar .rt { font-size: 11px; font-weight: 700; fill: currentColor; }
+/* every class here is prefixed dr-: .st and .board were already taken by the standings and the Bureau, and each collision broke a page */
+.dr-legend { display: flex; flex-wrap: wrap; gap: .4rem 1rem; margin-bottom: .6rem; font-size: .82rem; } .dr-legend .dr-lg i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: .35rem; } .dr-legend small { color: var(--ci-muted); }
+.dr-strips { display: grid; gap: .35rem; } .dr-strip { display: grid; grid-template-columns: 3.2rem 1fr; gap: .5rem; align-items: center; } .dr-strip .dr-sk { font-size: .72rem; font-weight: 700; letter-spacing: .04em; }
+.dr-sts { display: grid; gap: 2px; } .dr-st { display: grid; grid-template-columns: 1fr 2rem; align-items: center; gap: .4rem; height: 12px; } .dr-st i { display: block; height: 8px; border-radius: 2px; opacity: .8; } .dr-st b { font-size: .72rem; font-weight: 600; text-align: right; } .dr-best b { color: var(--ci-accent); } .dr-best i { opacity: 1; }
 @media (max-width: 800px) { .dr-cmp { grid-template-columns: 1fr; } }

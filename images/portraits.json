@@ -33,7 +33,11 @@
     "the-tunnel-turco-on-the-road-again-you-just-try-to-steal-two-out-of-two",
     "the-tunnel-turco-owns-the-rust-keeps-the-streak",
     "the-tunnel-marty-turco-saw-the-geometry-change-from-the-crease",
-    "the-tunnel-marty-turco-knows-what-a-quiet-night-costs-you"
+    "the-tunnel-marty-turco-knows-what-a-quiet-night-costs-you",
+    "the-tunnel-turco-the-third-period-didn-t-lose-this-one",
+    "the-tunnel-turco-2-on-the-index-says-the-back-end-is-doing-the-heavy-lifting",
+    "the-tunnel-turco-i-saw-it-i-just-pushed-it",
+    "the-tunnel-turco-and-the-men-in-front-of-him-when-they-re-doing-their-job-i-make-"
    ]
   },
   "1044|NSH|sweater": {
@@ -89,7 +93,9 @@
    "used_by": [
     "the-tunnel-brodeur-on-the-shutout-that-never-comes-twenty-two-wins-and-not-one-ze",
     "the-tunnel-brodeur-we-have-to-be-better-that-s-it-after-third-period-slip",
-    "the-tunnel-brodeur-wants-the-overtime-one-back"
+    "the-tunnel-brodeur-wants-the-overtime-one-back",
+    "the-tunnel-brodeur-s-clean-ice-keeps-coming-up-short-in-montreal",
+    "the-tunnel-brodeur-on-the-3-1-in-detroit-two-of-those-i-want-back"
    ]
   },
   "1202|CBJ|jacket": {
@@ -98,7 +104,8 @@
    "made": "2026-10-07",
    "path": "images/library/2005-01-05-the-tunnel-geoff-sanderson-has-been-everywhere-so-why-is-he-scoring-like-a-man-wi.png",
    "used_by": [
-    "the-tunnel-pascal-leclaire-knows-the-number-50-he-is-not-losing-sleep-over-it"
+    "the-tunnel-pascal-leclaire-knows-the-number-50-he-is-not-losing-sleep-over-it",
+    "the-tunnel-pascal-leclaire-wants-the-feet-and-the-body-in-the-same-conversation"
    ]
   },
   "1209|CHI|jacket": {
@@ -107,7 +114,17 @@
    "made": "2026-10-07",
    "path": "images/library/2004-12-07-the-tunnel-teemu-selanne-the-long-way-round-still-scoring-at-28.png",
    "used_by": [
-    "the-tunnel-radulov-the-split-the-room-and-why-51-is-fine-by-him"
+    "the-tunnel-radulov-the-split-the-room-and-why-51-is-fine-by-him",
+    "the-tunnel-radulov-i-just-play-the-contract-is-not-my-job"
+   ]
+  },
+  "1211|STL|jacket": {
+   "alt": "Marcus Bell and Pavol Demitra in armchairs during a studio sit-down",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-08",
+   "path": "images/library/2005-03-02-the-tunnel-pavol-demitra-82-games-every-night-that-is-the-work.png",
+   "used_by": [
+    "the-tunnel-brandon-reid-on-the-208th-pick-14-3-minutes-and-why-he-is-not-surprise"
    ]
   },
   "14|PHI|jacket": {
@@ -135,7 +152,9 @@
    "path": "images/library/2005-04-15-the-tunnel-komisarek-i-didn-t-change-my-game-i-just-got-the-ice.png",
    "used_by": [
     "the-tunnel-komisarek-i-didn-t-change-my-game-i-just-got-the-ice",
-    "the-tunnel-komisarek-i-m-not-the-guy-i-was-at-michigan-anymore-and-that-s-the-pro"
+    "the-tunnel-komisarek-i-m-not-the-guy-i-was-at-michigan-anymore-and-that-s-the-pro",
+    "the-tunnel-mike-komisarek-97-speed-and-51-fighting-on-the-room-and-the-years-afte",
+    "the-tunnel-mike-komisarek-the-coach-the-clock-and-the-one-thing-he-s-building-for"
    ]
   },
   "219|STL|jacket": {
@@ -144,7 +163,17 @@
    "made": "2026-10-04",
    "path": "images/library/2005-03-02-the-tunnel-pavol-demitra-82-games-every-night-that-is-the-work.png",
    "used_by": [
-    "the-tunnel-pavol-demitra-82-games-every-night-that-is-the-work"
+    "the-tunnel-pavol-demitra-82-games-every-night-that-is-the-work",
+    "the-tunnel-pavol-demitra-227th-overall-and-tenth-in-the-league"
+   ]
+  },
+  "229|NYI|jacket": {
+   "alt": "Rick DiPietro in his Islanders 39 sweater sits in a studio armchair facing Marcus Bell with a microphone.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-07",
+   "path": "images/library/2005-10-24-the-tunnel-rick-dipietro-on-21-games-7-wins-and-the-four-winters-it-took.png",
+   "used_by": [
+    "the-tunnel-rick-dipietro-on-21-games-7-wins-and-the-four-winters-it-took"
    ]
   },
   "23|DAL|jacket": {
@@ -219,7 +248,11 @@
     "the-tunnel-forsberg-my-one-point-is-enough-tonight",
     "the-tunnel-forsberg-s-half-second-the-56-goal-season-explained-in-overtime",
     "the-tunnel-forsberg-lets-the-building-do-the-work-that-crowd-they-carried-us-in-t",
-    "the-tunnel-forsberg-ten-in-six-is-not-a-step-down"
+    "the-tunnel-forsberg-ten-in-six-is-not-a-step-down",
+    "the-tunnel-forsberg-not-concern-not-happy",
+    "the-tunnel-forsberg-on-the-short-handed-work-and-the-road-ahead",
+    "the-tunnel-forsberg-scores-colorado-falls-to-three-straight-in-nashville",
+    "the-tunnel-forsberg-on-the-form-coming-back-i-feel-the-puck-more"
    ]
   },
   "308|TOR|sweater": {
@@ -263,7 +296,13 @@
     "the-tunnel-gaborik-sits-at-99-the-ceiling-after-a-silent-night-at-the-garden",
     "the-tunnel-gaborik-watches-six-go-in-wants-his-name-on-the-next-one",
     "the-tunnel-gaborik-the-speed-makes-the-space",
-    "the-tunnel-gaborik-he-make-the-save-we-score-after-40-saves-and-17-shots"
+    "the-tunnel-gaborik-he-make-the-save-we-score-after-40-saves-and-17-shots",
+    "the-tunnel-gaborik-we-just-not-let-them-run",
+    "the-tunnel-gaborik-we-play-at-home-crowd-is-here-it-is-different",
+    "the-tunnel-gaborik-the-kill-gave-us-our-legs",
+    "the-tunnel-gaborik-at-99-quiet-at-2-4-grade-doesn-t-score-for-you",
+    "the-tunnel-gaborik-they-shoot-40-we-trust-our-net-that-is-the-way",
+    "the-tunnel-gaborik-watches-five-names-score-wants-his-own"
    ]
   },
   "317|ANA|sweater": {
@@ -286,7 +325,8 @@
     "the-tunnel-giguere-four-straight-and-the-last-one-came-on-the-road-that-s-the-one",
     "the-tunnel-giguere-wants-the-zero-and-points-at-the-penalty-kill",
     "the-tunnel-giguere-still-chasing-his-first-zero-after-60-games",
-    "the-tunnel-giguere-gives-three-on-eighteen-still-gets-the-two"
+    "the-tunnel-giguere-gives-three-on-eighteen-still-gets-the-two",
+    "the-tunnel-giguere-watched-the-coverage-shift-tonight-and-could-not-stop-the-four"
    ]
   },
   "373|OTT|jacket": {
@@ -329,7 +369,17 @@
    "made": "2026-09-15",
    "path": "images/library/2004-12-28-the-tunnel-iginla-the-game-calgary-can-play.png",
    "used_by": [
-    "the-tunnel-iginla-the-game-calgary-can-play"
+    "the-tunnel-iginla-the-game-calgary-can-play",
+    "the-tunnel-iginla-s-two-put-him-at-16-in-18-and-he-won-t-chase-the-pace"
+   ]
+  },
+  "42|BOS|jacket": {
+   "alt": "Marcus Bell interviews Teemu Selanne in the Center Ice studio, both seated in armchairs.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-07",
+   "path": "images/library/2004-12-07-the-tunnel-teemu-selanne-the-long-way-round-still-scoring-at-28.png",
+   "used_by": [
+    "the-tunnel-the-man-boston-traded-for-a-norris-morrisonn-on-being-the-price-tag-an"
    ]
   },
   "434|WSH|sweater": {
@@ -369,6 +419,15 @@
     "the-tunnel-klesla-we-are-not-perfect-and-that-is-good"
    ]
   },
+  "498|MIN|jacket": {
+   "alt": "Saku Koivu sits with hands clasped and a wrapped left shoulder, listening to Jan Kowalczyk in a studio chair.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-08",
+   "path": "images/library/2005-11-26-the-tunnel-koivu-has-two-years-no-shoulder-and-no-plan-to-rush-either.png",
+   "used_by": [
+    "the-tunnel-koivu-has-two-years-no-shoulder-and-no-plan-to-rush-either"
+   ]
+  },
   "4|TOR|sweater": {
    "alt": "Aebischer makes the saves Roberts gave to Belfour",
    "credit": "Center Ice illustration",
@@ -399,7 +458,8 @@
     "the-tunnel-kovalchuk-picks-his-best-and-talks-about-being-little",
     "the-tunnel-kovalchuk-i-am-not-the-kid-the-paper-wrote-about",
     "the-tunnel-ilya-kovalchuk-the-shoulder-the-byng-and-the-coach-who-said-again",
-    "the-tunnel-kovalchuk-i-don-t-need-to-be-there-when-the-hit-comes"
+    "the-tunnel-kovalchuk-i-don-t-need-to-be-there-when-the-hit-comes",
+    "the-tunnel-ilya-kovalchuk-on-the-year-that-turned-play-the-same-when-it-s-hard"
    ]
   },
   "511|NYR|sweater": {
@@ -552,7 +612,8 @@
    "used_by": [
     "the-tunnel-glen-murray-i-want-to-go-out-on-my-terms",
     "the-tunnel-glen-murray-on-coming-home-a-ceiling-nobody-saw-and-a-contract-that-ru",
-    "the-tunnel-glen-murray-takes-the-61-and-keeps-the-trophy"
+    "the-tunnel-glen-murray-takes-the-61-and-keeps-the-trophy",
+    "the-tunnel-glen-murray-i-ve-been-here-the-whole-time-and-i-m-not-done"
    ]
   },
   "6|TOR|sweater": {
@@ -620,7 +681,8 @@
    "used_by": [
     "the-tunnel-i-want-the-coach-to-say-my-name-when-the-game-is-on-the-line-pierre-ma",
     "the-tunnel-pierre-marc-bouchard-on-the-number-everyone-has-circled-checking-52",
-    "the-tunnel-bouchard-the-coach-said-play-fast-that-is-everything"
+    "the-tunnel-bouchard-the-coach-said-play-fast-that-is-everything",
+    "the-tunnel-pierre-marc-bouchard-at-21-on-what-comes-after-the-building"
    ]
   },
   "934|EDM|jacket": {
@@ -652,7 +714,12 @@
     "the-tunnel-sundin-sits-quiet-the-line-still-scores",
     "the-tunnel-sundin-watches-six-names-score-and-is-content-to-be-the-quiet-one",
     "the-tunnel-sundin-the-third-period-was-the-problem-not-the-power-play",
-    "the-tunnel-sundin-s-29th-stands-alone-as-toronto-drops-the-second"
+    "the-tunnel-sundin-s-29th-stands-alone-as-toronto-drops-the-second",
+    "the-tunnel-sundin-the-points-matter-now",
+    "the-tunnel-sundin-i-don-t-look-at-that-number",
+    "the-tunnel-sundin-maple-leafs-win-on-12-shots-in-overtime-at-ottawa",
+    "the-tunnel-sundin-the-shots-are-not-the-story-tonight",
+    "the-tunnel-sundin-passes-it-in-as-toronto-makes-it-four-straight-in-philadelphia"
    ]
   },
   "996|BOS|sweater": {
@@ -664,13 +731,23 @@
     "the-tunnel-joe-thornton-on-the-new-look-line-30-goals-in-30-games-and-a-loss-that"
    ]
   },
+  "None|CBJ|sweater": {
+   "alt": "Marcus Bell and Geoff Sanderson in a studio sit-down for The Tunnel",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-08",
+   "path": "images/library/2005-01-05-the-tunnel-geoff-sanderson-has-been-everywhere-so-why-is-he-scoring-like-a-man-wi.png",
+   "used_by": [
+    "the-tunnel-brent-o-connor-the-money-is-here-the-rooms-are-not-and-sanderson-is-st"
+   ]
+  },
   "None|CHI|sweater": {
    "alt": "A telephone and a microphone on a front-office desk overlooking an empty rink.",
    "credit": "Center Ice illustration",
    "made": "2026-10-04",
    "path": "images/library/2005-01-15-the-tunnel-we-are-actually-not-really-buying-this-year-says-taylor-with-one-excep.png",
    "used_by": [
-    "the-tunnel-hughes-the-dollars-are-right-the-points-are-not"
+    "the-tunnel-hughes-the-dollars-are-right-the-points-are-not",
+    "the-tunnel-hughes-on-nine-straight-and-the-rooms-he-hasn-t-touched"
    ]
   },
   "None|EDM|sweater": {
@@ -730,13 +807,23 @@
     "the-tunnel-hui-i-don-t-have-that-guy-and-we-both-know-it"
    ]
   },
+  "None|PIT|sweater": {
+   "alt": "A telephone and a microphone on a front-office desk overlooking an empty rink.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-08",
+   "path": "images/library/2005-01-15-the-tunnel-we-are-actually-not-really-buying-this-year-says-taylor-with-one-excep.png",
+   "used_by": [
+    "the-tunnel-eric-lippmann-and-the-cheapest-18-points-in-the-league"
+   ]
+  },
   "None|TB|sweater": {
    "alt": "Khabibulin in his Tampa Bay 35 sweater and pads, pads still on, speaks with Marcus Bell in the concrete tunnel after the 7-1 win over Edmonton.",
    "credit": "Center Ice illustration",
    "made": "2026-10-05",
    "path": "images/library/2004-12-07-the-tunnel-khabibulin-the-puck-is-same-puck-after-tampa-bay-s-7-1-win-over-edmont.png",
    "used_by": [
-    "the-tunnel-michael-burt-on-90-points-a-broken-leg-and-10-days"
+    "the-tunnel-michael-burt-on-90-points-a-broken-leg-and-10-days",
+    "the-tunnel-burt-vincent-s-the-cheapest-86-in-the-league-and-i-ve-got-a-workout-ro"
    ]
   },
   "None|WSH|sweater": {
@@ -774,7 +861,19 @@
    "made": "2026-10-05",
    "path": "images/library/2005-03-25-the-tunnel-mactavish-on-the-slide-one-goal-in-two-and-six-left.png",
    "used_by": [
-    "the-tunnel-mactavish-on-the-slide-one-goal-in-two-and-six-left"
+    "the-tunnel-mactavish-on-the-slide-one-goal-in-two-and-six-left",
+    "the-tunnel-mactavish-defends-the-net-the-top-line-and-the-structure-after-boston"
+   ]
+  },
+  "coach-12|FLA|suit": {
+   "alt": "Jan Kowalczyk holds a microphone toward Florida Panthers head coach Jacques Martin in the tunnel at MCI Center after the 4-3 overtime loss to Washington.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-08",
+   "path": "images/library/2005-11-09-the-tunnel-martin-aebischer-s-our-guy-and-he-stays-our-guy.png",
+   "used_by": [
+    "the-tunnel-martin-aebischer-s-our-guy-and-he-stays-our-guy",
+    "the-tunnel-martin-won-t-name-his-starter-for-saturday",
+    "the-tunnel-martin-on-the-road-the-net-and-the-lines-he-hasn-t-moved"
    ]
   },
   "coach-13|LA|suit": {
@@ -792,7 +891,9 @@
    "made": "2026-10-04",
    "path": "images/library/2005-01-31-the-tunnel-lemaire-on-the-hole-wallin-left-and-the-ones-who-fill-it.png",
    "used_by": [
-    "the-tunnel-lemaire-on-the-hole-wallin-left-and-the-ones-who-fill-it"
+    "the-tunnel-lemaire-on-the-hole-wallin-left-and-the-ones-who-fill-it",
+    "the-tunnel-lemaire-we-are-in-the-games-that-is-the-problem-and-that-is-also-the-h",
+    "the-tunnel-lemaire-on-3-and-8-at-home-we-know-we-do-not-fix-it-by-talking"
    ]
   },
   "coach-15|MTL|suit": {
@@ -802,7 +903,8 @@
    "path": "images/library/2004-12-07-the-tunnel-babcock-on-a-room-that-cannot-win-on-the-road-we-have-to-be-a-better-t.png",
    "used_by": [
     "the-tunnel-julien-nobody-fills-45-goals-and-the-net-goes-to-whoever-earns-it",
-    "the-tunnel-julien-we-need-40-minutes-from-everyone-not-15-from-a-few"
+    "the-tunnel-julien-we-need-40-minutes-from-everyone-not-15-from-a-few",
+    "the-tunnel-julien-keeps-the-same-lines-and-the-same-net-and-the-1-5-road-record-i"
    ]
   },
   "coach-16|NSH|suit": {
@@ -835,6 +937,15 @@
     "the-tunnel-stirling-holds-the-lines-no-shuffle-and-a-23-year-old-in-the-net"
    ]
   },
+  "coach-19|NYR|suit": {
+   "alt": "Marcus Bell interviews Tom Renney in the tunnel after a 0-2 road loss in Toronto.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-07",
+   "path": "images/library/2005-10-27-the-tunnel-renney-owns-the-shot-gap-after-toronto-shutout-we-were-chasing-for-lon.png",
+   "used_by": [
+    "the-tunnel-renney-owns-the-shot-gap-after-toronto-shutout-we-were-chasing-for-lon"
+   ]
+  },
   "coach-1|ATL|suit": {
    "alt": "A lone coach confronts an empty bench after a late loss",
    "credit": "Center Ice illustration",
@@ -852,7 +963,8 @@
    "path": "images/library/2005-02-16-the-tunnel-bryan-murray-liked-the-win-not-his-own-february.png",
    "used_by": [
     "the-tunnel-bryan-murray-liked-the-win-not-his-own-february",
-    "the-tunnel-bryan-murray-two-goals-in-two-games-that-s-not-a-mystery"
+    "the-tunnel-bryan-murray-two-goals-in-two-games-that-s-not-a-mystery",
+    "the-tunnel-murray-s-ottawa-fired-58-shots-and-lost-we-have-to-be-better-at-the-ot"
    ]
   },
   "coach-21|PHI|suit": {
@@ -882,7 +994,8 @@
    "path": "images/library/2005-01-04-the-tunnel-wilson-you-don-t-throw-away-cap-room-for-a-rental.png",
    "used_by": [
     "the-tunnel-wilson-you-don-t-throw-away-cap-room-for-a-rental",
-    "the-tunnel-wilson-on-three-more-on-the-road-and-why-the-ice-isn-t-different"
+    "the-tunnel-wilson-on-three-more-on-the-road-and-why-the-ice-isn-t-different",
+    "the-tunnel-wilson-on-the-3-8-start-at-home-we-re-not-good-enough-in-our-own-build"
    ]
   },
   "coach-25|STL|suit": {
@@ -900,7 +1013,8 @@
    "made": "2026-10-05",
    "path": "images/library/2005-04-07-the-tunnel-tortorella-on-the-net-and-the-next-seven-days-i-m-not-going-to-run-him.png",
    "used_by": [
-    "the-tunnel-tortorella-on-the-net-and-the-next-seven-days-i-m-not-going-to-run-him"
+    "the-tunnel-tortorella-on-the-net-and-the-next-seven-days-i-m-not-going-to-run-him",
+    "the-tunnel-tortorella-on-five-overtime-losses-that-s-not-luck-that-s-coaching"
    ]
   },
   "coach-28|VAN|suit": {
@@ -937,7 +1051,8 @@
    "path": "images/library/2004-12-28-the-tunnel-sutter-on-the-fourth-overtime-loss-the-details-weren-t-there.png",
    "used_by": [
     "the-tunnel-sutter-on-the-fourth-overtime-loss-the-details-weren-t-there",
-    "the-tunnel-sutter-s-lines-don-t-move-even-at-17-and-30"
+    "the-tunnel-sutter-s-lines-don-t-move-even-at-17-and-30",
+    "the-tunnel-sutter-on-the-klee-signing-the-room-and-the-five-days-ahead"
    ]
   },
   "coach-6|CHI|suit": {
