@@ -174,7 +174,8 @@
    "made": "2026-10-07",
    "path": "images/library/2005-10-24-the-tunnel-rick-dipietro-on-21-games-7-wins-and-the-four-winters-it-took.png",
    "used_by": [
-    "the-tunnel-rick-dipietro-on-21-games-7-wins-and-the-four-winters-it-took"
+    "the-tunnel-rick-dipietro-on-21-games-7-wins-and-the-four-winters-it-took",
+    "the-tunnel-rick-dipietro-wants-the-boring-save"
    ]
   },
   "23|DAL|jacket": {
@@ -775,6 +776,15 @@
     "the-tunnel-hughes-on-nine-straight-and-the-rooms-he-hasn-t-touched"
    ]
   },
+  "None|COL|sweater": {
+   "alt": "Marcus Bell interviews Teemu Selanne in the Center Ice studio, both seated in armchairs.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-09",
+   "path": "images/library/2004-12-07-the-tunnel-teemu-selanne-the-long-way-round-still-scoring-at-28.png",
+   "used_by": [
+    "the-tunnel-morassutti-you-don-t-sign-them-all-the-math-won-t-let-you"
+   ]
+  },
   "None|EDM|sweater": {
    "alt": "A telephone and a microphone on a front-office desk overlooking an empty rink.",
    "credit": "Center Ice illustration",
@@ -949,7 +959,8 @@
    "made": "2026-10-04",
    "path": "images/library/2005-02-07-the-tunnel-burns-puts-his-top-line-where-his-mouth-is.png",
    "used_by": [
-    "the-tunnel-burns-puts-his-top-line-where-his-mouth-is"
+    "the-tunnel-burns-puts-his-top-line-where-his-mouth-is",
+    "the-tunnel-burns-gives-them-the-first-and-third-not-the-second-and-stays-close-to"
    ]
   },
   "coach-18|NYI|suit": {
