@@ -63,6 +63,15 @@
     "the-tunnel-brendl-you-feel-like-a-thing-on-a-list"
    ]
   },
+  "10|OTT|jacket": {
+   "alt": "Marcus Bell interviews Daniel Alfredsson in a studio sit-down, both seated in armchairs under warm light.",
+   "credit": "Center Ice illustration",
+   "made": "2026-10-09",
+   "path": "images/library/2006-01-12-the-tunnel-daniel-alfredsson-one-year-left-the-room-does-not-need-a-speech.png",
+   "used_by": [
+    "the-tunnel-daniel-alfredsson-one-year-left-the-room-does-not-need-a-speech"
+   ]
+  },
   "10|OTT|sweater": {
    "alt": "Jan Kowalczyk interviews Daniel Alfredsson in the corridor at the Air Canada Centre after Ottawa's 4-1 loss to Toronto.",
    "credit": "Center Ice illustration",
@@ -1117,7 +1126,8 @@
    "made": "2026-09-15",
    "path": "images/library/2005-01-12-the-tunnel-sullivan-takes-the-two-points-not-the-statement.png",
    "used_by": [
-    "the-tunnel-sullivan-takes-the-two-points-not-the-statement"
+    "the-tunnel-sullivan-takes-the-two-points-not-the-statement",
+    "the-tunnel-sullivan-on-44-shots-and-a-loss-we-were-the-team-pressing"
    ]
   },
   "coach-3|BUF|suit": {
